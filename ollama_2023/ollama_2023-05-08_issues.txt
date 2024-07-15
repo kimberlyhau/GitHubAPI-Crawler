@@ -1,0 +1,6 @@
+https://api.github.com/repos/aws/aws-lambda-python-runtime-interface-client
+https://api.github.com/repos/ianarawjo/ChainForge
+https://api.github.com/repos/Devographics/surveys
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/nhaouari/obsidian-textgenerator-plugin
+https://api.github.com/repos/HangarMC/Hangar

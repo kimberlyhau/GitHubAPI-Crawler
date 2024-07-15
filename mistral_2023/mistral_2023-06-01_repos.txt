@@ -1,0 +1,2 @@
+https://api.github.com/repos/n4ze3m/dialoqbase
+https://api.github.com/repos/harshitv804/LawGPT

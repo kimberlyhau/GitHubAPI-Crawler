@@ -1,0 +1,5 @@
+https://api.github.com/repos/TheRakeshPurohit/Prompt-Engineering-Guide
+https://api.github.com/repos/SocialGouv/cdtn-monolog
+https://api.github.com/repos/dsi-icl/do-voice-interaction
+https://api.github.com/repos/tomdewildt/stable-diffusion-experiment
+https://api.github.com/repos/yuiseki/LAPLACE

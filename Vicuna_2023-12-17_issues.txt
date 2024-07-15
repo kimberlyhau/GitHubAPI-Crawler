@@ -1,0 +1,10 @@
+https://api.github.com/repos/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models
+https://api.github.com/repos/guidance-ai/guidance
+https://api.github.com/repos/Vision-CAIR/MiniGPT-4
+https://api.github.com/repos/haotian-liu/LLaVA
+https://api.github.com/repos/modal-labs/quillman
+https://api.github.com/repos/HKUDS/GraphGPT
+https://api.github.com/repos/tum-ei-eda/mlonmcu
+https://api.github.com/repos/melodysdreamj/KoVicuna
+https://api.github.com/repos/btnguyen2k/txapi
+https://api.github.com/repos/onysakura/news-daily

@@ -1,0 +1,8 @@
+https://api.github.com/repos/notnotrishi/vignette
+https://api.github.com/repos/madalina-1/claudemonet-webpage
+https://api.github.com/repos/CityBoy-Claude/CityBoy-Claude
+https://api.github.com/repos/sedusa/mkdocs-claudebot-plugin
+https://api.github.com/repos/CityBoy-Claude/CityBoy-Claude.github.io
+https://api.github.com/repos/VitorPietrobom/CV-Review-AI
+https://api.github.com/repos/iut62elec/Soccer-Highlight-Generator-with-GenAI
+https://api.github.com/repos/eointolster/RobotEyes

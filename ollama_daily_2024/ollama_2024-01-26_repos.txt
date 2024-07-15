@@ -1,0 +1,7 @@
+https://api.github.com/repos/da-z/llamazing
+https://api.github.com/repos/shirinyamani/ollama-newspaper-scrapper
+https://api.github.com/repos/aquental/ollama
+https://api.github.com/repos/rfdez/ollama-locally
+https://api.github.com/repos/yangguo/ollama-webui
+https://api.github.com/repos/gaylonalfano/rust-ollama
+https://api.github.com/repos/zhekagigs/springAiSkeleton

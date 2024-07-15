@@ -1,0 +1,14 @@
+https://api.github.com/repos/jonfairbanks/local-rag
+https://api.github.com/repos/thisishugow/create-llama-ollama
+https://api.github.com/repos/mavacpjm/OLLAMAStockPull
+https://api.github.com/repos/mavacpjm/OLLAMAWebScraper
+https://api.github.com/repos/rijieli/OllamaChat
+https://api.github.com/repos/LexiestLeszek/rag-ollama
+https://api.github.com/repos/nodelike/ollama-vision
+https://api.github.com/repos/EvilFreelancer/ollama-characters
+https://api.github.com/repos/tankibaj/ollama-demo
+https://api.github.com/repos/raffaelespazzoli/ollama-java
+https://api.github.com/repos/Wilsven/ollama-scshot-annotator
+https://api.github.com/repos/Tidbit010/ollama-model-updater
+https://api.github.com/repos/fipra/git-github-com-fipra-ollamavisio-git
+https://api.github.com/repos/ddrugeon/localLLM

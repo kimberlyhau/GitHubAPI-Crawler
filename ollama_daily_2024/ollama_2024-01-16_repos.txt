@@ -1,0 +1,5 @@
+https://api.github.com/repos/levisjani/LLM
+https://api.github.com/repos/Captain-Bacon/Ollama-for-TXTAI
+https://api.github.com/repos/Sandeepchataut/Collaborative-AI-Environment-with-Ollama-LiteLLM-and-AutoGen
+https://api.github.com/repos/Cephra/blog
+https://api.github.com/repos/amx4/rag_based_chatbot

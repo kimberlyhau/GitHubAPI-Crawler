@@ -1,0 +1,7 @@
+https://api.github.com/repos/open-zaak/open-zaak
+https://api.github.com/repos/genetics-statistics/GEMMA
+https://api.github.com/repos/ncats/ncats-adme
+https://api.github.com/repos/AMICI-dev/AMICI
+https://api.github.com/repos/costero-e/beacon2-ri-api
+https://api.github.com/repos/team-westside/gemma_smart_contract
+https://api.github.com/repos/PavlidisLab/Gemma

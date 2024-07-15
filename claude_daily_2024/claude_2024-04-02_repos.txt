@@ -1,0 +1,7 @@
+https://api.github.com/repos/cevoaustralia/claude3Invoice
+https://api.github.com/repos/EthanLLL/claude3-async
+https://api.github.com/repos/chatgpt-claude/chatgpt-claude
+https://api.github.com/repos/joeswann/snap
+https://api.github.com/repos/NikitosnikN/go-claude-tg-bot
+https://api.github.com/repos/ReallyEasyAI/Quick-Hits---Microsoft-Excel-with-ChatGPT-Claude-and-Gemini-Custom-Functions
+https://api.github.com/repos/szulcmaciej/ui-bench

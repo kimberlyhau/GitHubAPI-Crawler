@@ -1,0 +1,11 @@
+https://api.github.com/repos/MCUdude/MegaCore
+https://api.github.com/repos/arduino/docs-content
+https://api.github.com/repos/VNG-Realisatie/documenten-api
+https://api.github.com/repos/icl-utk-edu/slate
+https://api.github.com/repos/cockroachdb/docs
+https://api.github.com/repos/costero-e/beacon2-ri-api
+https://api.github.com/repos/huggingface/transformers
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/frankvogt/vcf2gwas
+https://api.github.com/repos/VNG-Realisatie/gemma-zaken
+https://api.github.com/repos/arduino/ArduinoCore-avr

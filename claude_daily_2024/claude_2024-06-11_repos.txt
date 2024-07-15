@@ -1,0 +1,3 @@
+https://api.github.com/repos/Peculiar-Research/Claude-Stock-Picker
+https://api.github.com/repos/ahjoel/claudex-gestion-stock-facturation-bars-api
+https://api.github.com/repos/ahjoel/claudex-gestion-stock-facturation-bars-web

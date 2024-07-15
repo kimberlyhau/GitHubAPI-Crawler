@@ -1,0 +1,17 @@
+https://api.github.com/repos/jmlcas/ollama
+https://api.github.com/repos/zupzup/rust-ai-chatbot-ollama
+https://api.github.com/repos/klpod221/ollama
+https://api.github.com/repos/ManashDGlos/ollama
+https://api.github.com/repos/So-Sahari/gohtmx-gpt
+https://api.github.com/repos/zmicro-design/service-ollama
+https://api.github.com/repos/MMolieleng/Ollama-EP
+https://api.github.com/repos/kenken64/ollama-server
+https://api.github.com/repos/fapelsrl/ollama-langchain
+https://api.github.com/repos/a1b0r/ollama-rag
+https://api.github.com/repos/samyfodil/go-ollama-tau-sdk
+https://api.github.com/repos/aaronjimv/open-source-web-chatbot-using-rag
+https://api.github.com/repos/sunny2309/streamlit_chatbot
+https://api.github.com/repos/veigajoao/Phallama
+https://api.github.com/repos/promptpanel/promptpanel
+https://api.github.com/repos/redte-ch/retrieve
+https://api.github.com/repos/beeCuiet/hey-llm

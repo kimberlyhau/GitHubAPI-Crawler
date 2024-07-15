@@ -1,0 +1,4 @@
+https://api.github.com/repos/LeonardoFOliveira/node-tokenizer-anthropic-claude-for-directoryFileContents
+https://api.github.com/repos/thibautmarcq/projet-2IN013
+https://api.github.com/repos/washanhanzi/await-openai
+https://api.github.com/repos/aiengineeralliance/ai-engineer-handbook

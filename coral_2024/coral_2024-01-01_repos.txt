@@ -1,0 +1,17 @@
+https://api.github.com/repos/sound-scape-explorer/coral-sound-explorer
+https://api.github.com/repos/CoralieDillenseger/CoralieDillenseger
+https://api.github.com/repos/Banksy-said-hi/CoralBleaching
+https://api.github.com/repos/korol-oleksii/coral
+https://api.github.com/repos/IsobekOchilov/Coral
+https://api.github.com/repos/kluless13/corallive
+https://api.github.com/repos/Aleksej579/Coralmedia
+https://api.github.com/repos/coralbone/coralbone
+https://api.github.com/repos/fchakkapat/Coraline-DE
+https://api.github.com/repos/Aryamik/coral_identifier
+https://api.github.com/repos/TomoCoral/Coral-Mg-transporter
+https://api.github.com/repos/charlottegracia/coral-island-helper
+https://api.github.com/repos/atreya786/Coral-E-Commerce-
+https://api.github.com/repos/InstituteForGlobalEcology/ReScape
+https://api.github.com/repos/manheima/MeowDetector
+https://api.github.com/repos/daniellembecker/A.pul_Heatwave
+https://api.github.com/repos/Mcouedel/ARMS_metabarcoding_temporal

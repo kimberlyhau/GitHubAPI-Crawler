@@ -1,0 +1,8 @@
+https://api.github.com/repos/SreejanPersonal/Claude-3-Opus-Free-Reverse-Engineered-API
+https://api.github.com/repos/Akira-Papa/ChromeExtensionLLM
+https://api.github.com/repos/naraThais/IAs-Generativas
+https://api.github.com/repos/2644635282/freeapi
+https://api.github.com/repos/Jsavage1325/audio_transcriber
+https://api.github.com/repos/ajaykrupalk/langground
+https://api.github.com/repos/josenunezwork/seo-scraper
+https://api.github.com/repos/pbairol/fullstackAssistant

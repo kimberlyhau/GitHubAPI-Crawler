@@ -1,0 +1,7 @@
+https://api.github.com/repos/digitalinnovationone/gen-ai-amazon-bedrock-claude-3
+https://api.github.com/repos/kauecodify/AmazonBedRock-Claude3
+https://api.github.com/repos/Jelly-Jammy/claudes
+https://api.github.com/repos/dharangit5055/Dharaneesh-Claude_AI-Masterclass-certificate
+https://api.github.com/repos/regi1297/gen-ai-amazon-bedrock-claude-3
+https://api.github.com/repos/RaunakChhatwal/llm-playground
+https://api.github.com/repos/acfilok96/Stock-Price-Integration-1

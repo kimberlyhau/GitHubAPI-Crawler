@@ -1,0 +1,10 @@
+https://api.github.com/repos/helixml/helix
+https://api.github.com/repos/NVIDIA/NeMo-Guardrails
+https://api.github.com/repos/huggingface/text-generation-inference
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/brave/brave-browser
+https://api.github.com/repos/ModelTC/lightllm
+https://api.github.com/repos/robertZaufall/mindmanager_ai
+https://api.github.com/repos/tomdewildt/master-thesis
+https://api.github.com/repos/fgtrzah/llmrfcpoc

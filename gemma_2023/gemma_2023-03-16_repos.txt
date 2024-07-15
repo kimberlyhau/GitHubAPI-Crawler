@@ -1,0 +1,3 @@
+https://api.github.com/repos/mudler/LocalAI
+https://api.github.com/repos/melmenezes8/gemmashop
+https://api.github.com/repos/jb621-star/GEMMA-2

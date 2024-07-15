@@ -1,0 +1,9 @@
+https://api.github.com/repos/yihong0618/bilingual_book_maker
+https://api.github.com/repos/k8sgpt-ai/k8sgpt
+https://api.github.com/repos/Uncleken13/coherence
+https://api.github.com/repos/tobia80/zio-entity
+https://api.github.com/repos/Sport-Photos/sport-photos-backend
+https://api.github.com/repos/ikercrg/test_renovate
+https://api.github.com/repos/twendelmuth/sonarqube-java-client
+https://api.github.com/repos/cocktailpeanut/dalai
+https://api.github.com/repos/1Panel-dev/1Panel

@@ -1,0 +1,7 @@
+https://api.github.com/repos/B-urb/doclytics
+https://api.github.com/repos/michaelneale/chat-at-home
+https://api.github.com/repos/bovem/brag
+https://api.github.com/repos/elestio-examples/ollama
+https://api.github.com/repos/SaladTechnologies/ollama-chatui
+https://api.github.com/repos/csehg0312/personal-go-ollama
+https://api.github.com/repos/wlemuel/awesome-ai-client

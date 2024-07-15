@@ -1,0 +1,17 @@
+https://api.github.com/repos/romilandc/streamlit-ollama-llm
+https://api.github.com/repos/edmundman/OllamaGenstruct
+https://api.github.com/repos/ghmeier/OllamaAutocomplete
+https://api.github.com/repos/mitja/llamatunnel
+https://api.github.com/repos/yqz945/my_ollama
+https://api.github.com/repos/nnance/ollama-js-examples
+https://api.github.com/repos/Afreed2708/ollama-generator
+https://api.github.com/repos/downzed/xp_ollama
+https://api.github.com/repos/AnthonMS/DiscOllama
+https://api.github.com/repos/Adrianogba/Spring-Ollama
+https://api.github.com/repos/CameronKish/RAG-with-Ollama
+https://api.github.com/repos/MrEcho92/jarvis-ai
+https://api.github.com/repos/Saurabh08281997/codeAssistant
+https://api.github.com/repos/GlenBeee/crewai-youtube-automation
+https://api.github.com/repos/vinod-polinati/KodeHelper
+https://api.github.com/repos/metriccoders/metriccoders_langchain_notebooks
+https://api.github.com/repos/chiragkrishna/BooM-A.I

@@ -1,0 +1,8 @@
+https://api.github.com/repos/QuaClaude/claude
+https://api.github.com/repos/QuaClaude/ClaudeAdornado
+https://api.github.com/repos/Ariza-salaman/claude
+https://api.github.com/repos/QuaClaude/claudegasco
+https://api.github.com/repos/QuaClaude/AdornadoClaude
+https://api.github.com/repos/Mad-scientist-star/telegram-claude
+https://api.github.com/repos/QuaClaude/adornado_claude
+https://api.github.com/repos/adrienne-deriv/AI-Prompt-Refiner

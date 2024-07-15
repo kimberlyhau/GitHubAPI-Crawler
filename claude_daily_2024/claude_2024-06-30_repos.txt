@@ -1,0 +1,16 @@
+https://api.github.com/repos/kargnas/laravel-ai-translator
+https://api.github.com/repos/morispolanco/claude
+https://api.github.com/repos/diug22/Claude
+https://api.github.com/repos/limyewjin/daily_claude
+https://api.github.com/repos/jackc10/claude-farm-sim
+https://api.github.com/repos/jakea10/claude-agent-demo
+https://api.github.com/repos/haboubacart/Debat_GPT_vs_CLAUDE
+https://api.github.com/repos/pixegami/claude-3.5-api-tutorial
+https://api.github.com/repos/mario-rutman/preco-acoes-by-Claude-AI
+https://api.github.com/repos/ken-okabe/basic-procedures-to-encourage-self-awareness-in-ai
+https://api.github.com/repos/ParkerGibbons/gradient-ascent
+https://api.github.com/repos/pr69/car-race
+https://api.github.com/repos/etherealheim/dygest
+https://api.github.com/repos/cheshir/gomoku-alphazero
+https://api.github.com/repos/AdityaAshutosh/Interview-AI
+https://api.github.com/repos/Vextasy/WhatsOn

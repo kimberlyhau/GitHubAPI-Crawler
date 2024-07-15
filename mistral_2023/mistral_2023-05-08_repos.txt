@@ -1,0 +1,5 @@
+https://api.github.com/repos/zjunlp/EasyEdit
+https://api.github.com/repos/icebaker/ruby-nano-bots
+https://api.github.com/repos/ceranco/mistral
+https://api.github.com/repos/icebaker/nano-bots-spec
+https://api.github.com/repos/GDjkhp/level-up-loser-python-branch

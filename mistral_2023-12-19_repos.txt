@@ -1,0 +1,11 @@
+https://api.github.com/repos/ymoslem/Adaptive-MT-LLM-Fine-tuning
+https://api.github.com/repos/mayooear/free-ai-youtube-summarizer
+https://api.github.com/repos/edemiraydin/mistral_vllm_demo
+https://api.github.com/repos/tassalor1/finetuned_mistral7b
+https://api.github.com/repos/unknownhad/mistralUI
+https://api.github.com/repos/the-ogre/LLM-QAwithQuantizedMistral7bLangchainRAGKidneyDisease
+https://api.github.com/repos/ruchibahl18/mistral-ai
+https://api.github.com/repos/axonzeta/mistral_elixir
+https://api.github.com/repos/Ssergeymiss/mistral_dan
+https://api.github.com/repos/themataleao/mistral-react-example
+https://api.github.com/repos/SamuelPalubaCZ/Mistral-7B-Czech

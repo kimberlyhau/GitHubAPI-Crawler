@@ -1,0 +1,10 @@
+https://api.github.com/repos/SpellcraftAI/turing
+https://api.github.com/repos/we-be/c7
+https://api.github.com/repos/EDDARI/Claude_Author
+https://api.github.com/repos/adhithyasimha/discord-bot-claude
+https://api.github.com/repos/felipe-de-godoy/first_use_claude_anthropic
+https://api.github.com/repos/defining/pdf_summary
+https://api.github.com/repos/cloudbridgeuy/brave-opus
+https://api.github.com/repos/Lywald/NovelBuilderAI
+https://api.github.com/repos/sky-dtu/go-anthropic
+https://api.github.com/repos/Op27/lm-studio-gradio-chat

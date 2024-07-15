@@ -1,0 +1,5 @@
+https://api.github.com/repos/explosion/spaCy
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/run-llama/llama_index
+https://api.github.com/repos/jyotidabass/stablelm-alpha-LLM-model

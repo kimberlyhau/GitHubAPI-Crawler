@@ -1,0 +1,10 @@
+https://api.github.com/repos/ziwang-com/mini-AGI
+https://api.github.com/repos/jwj7140/polyglot_qlora_vicuna
+https://api.github.com/repos/kingglory/Vicuna
+https://api.github.com/repos/marklechner/vicunapi
+https://api.github.com/repos/narangkay/vicuna-model
+https://api.github.com/repos/JunyaoC/banana-vicuna
+https://api.github.com/repos/yiyi1333/FastChat-vicuna
+https://api.github.com/repos/cpomorska/vicuna-hexa-kotlin
+https://api.github.com/repos/pleisto/baichuan-vicuna-eval-result
+https://api.github.com/repos/Cusith/llama.cpp_testing

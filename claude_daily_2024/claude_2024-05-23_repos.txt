@@ -1,0 +1,4 @@
+https://api.github.com/repos/BR4096/ai-claude1.3-YT-transcripts
+https://api.github.com/repos/boxabirds/imgurl-resize-claude-go
+https://api.github.com/repos/MIRACLE-cowf/QA-With-URL
+https://api.github.com/repos/Adil1567/Kaggle-Using-GANs-to-Create-Art

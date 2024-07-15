@@ -1,0 +1,8 @@
+https://api.github.com/repos/feda2288/claude
+https://api.github.com/repos/feda2288/claude2
+https://api.github.com/repos/KVIANA83/DIO-Nexa-IA-Claude3-codigo
+https://api.github.com/repos/tech0x86/tw-lambda-claude
+https://api.github.com/repos/Notyourfathersoldsmobile/WCP3
+https://api.github.com/repos/g-hano/DiscoVery
+https://api.github.com/repos/kalbun/LLMChat
+https://api.github.com/repos/lrspeiser/Node-GPT-Template

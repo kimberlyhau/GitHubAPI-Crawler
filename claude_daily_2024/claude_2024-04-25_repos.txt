@@ -1,0 +1,9 @@
+https://api.github.com/repos/IncomeStreamSurfer/claudeautobloggerv3v
+https://api.github.com/repos/IncomeStreamSurfer/claudeautobloggerV2
+https://api.github.com/repos/claudehakuzimana/claudehakuzimana
+https://api.github.com/repos/YutaCode/claude-api-test-app
+https://api.github.com/repos/ygautomo/02-aws-bedrock-claude-chat
+https://api.github.com/repos/armcortex/onefile
+https://api.github.com/repos/ygautomo/02-aws-bedrock-claude-chat-01
+https://api.github.com/repos/fullspizdi/Article-Generation-with-Claude-3-Opus
+https://api.github.com/repos/chrissyhunt/headlinewise

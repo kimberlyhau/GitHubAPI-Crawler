@@ -1,0 +1,16 @@
+https://api.github.com/repos/JeremiahPetersen/RepoToText
+https://api.github.com/repos/drshahizan/ai-tools
+https://api.github.com/repos/ir33k/gmi100
+https://api.github.com/repos/realqiyan/cloudflare-ai-worker
+https://api.github.com/repos/macsmel/gemini
+https://api.github.com/repos/bioc/gemini
+https://api.github.com/repos/janic0/gemini-cms
+https://api.github.com/repos/ryan-ash/gemini-inn
+https://api.github.com/repos/KoalaYuFeng/soc_gemini
+https://api.github.com/repos/zhangqili/gemini-pad
+https://api.github.com/repos/JustAnEric/gemini-sof-firmware
+https://api.github.com/repos/esilberberg/scholcom_tools
+https://api.github.com/repos/d3npa/sign-guestbook
+https://api.github.com/repos/webcrawls/gmi-viewer
+https://api.github.com/repos/xlazam01/SiboorVoronExt
+https://api.github.com/repos/JHAhmed/TLDR-Bot

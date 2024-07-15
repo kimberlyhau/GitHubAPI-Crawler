@@ -1,0 +1,5 @@
+https://api.github.com/repos/MeNicefellow/Mixtral-Expert-Trimmer
+https://api.github.com/repos/sugarandgugu/Mixtral_debug
+https://api.github.com/repos/yueming-yuan/mixtral-offoading
+https://api.github.com/repos/rjamoriz/LLMsFusionMixtral7B_NexusFlowTest
+https://api.github.com/repos/wayzeek/CustomGPT

@@ -1,0 +1,4 @@
+https://api.github.com/repos/open-compass/opencompass
+https://api.github.com/repos/xorbitsai/inference
+https://api.github.com/repos/alvarofc/mistral
+https://api.github.com/repos/vs4vijay/AI-Playground

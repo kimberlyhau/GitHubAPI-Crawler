@@ -1,0 +1,4 @@
+https://api.github.com/repos/Lightning-AI/lit-llama
+https://api.github.com/repos/Significant-Gravitas/AutoGPT
+https://api.github.com/repos/Lightning-AI/lit-llama
+https://api.github.com/repos/ggerganov/llama.cpp

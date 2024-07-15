@@ -1,0 +1,10 @@
+https://api.github.com/repos/castorini/rank_llm
+https://api.github.com/repos/yachty66/demo-vicuna-33b
+https://api.github.com/repos/DemoGit4LIANG/Chat2Anything
+https://api.github.com/repos/yachty66/demo-vicuna-7b
+https://api.github.com/repos/yachty66/demo-vicuna-13b
+https://api.github.com/repos/IgorSondors/Vicuna
+https://api.github.com/repos/kwasganguly/Stable_Vicuna13B_8bit
+https://api.github.com/repos/manuscript-submission/RadioVicuna
+https://api.github.com/repos/yachty66/demo_vicuna_7b
+https://api.github.com/repos/micelvrice/buptchatpaper

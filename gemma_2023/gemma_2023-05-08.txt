@@ -1,0 +1,16 @@
+https://api.github.com/repos/rlangefe/pygemma
+https://api.github.com/repos/rmarinb/Examen_git
+https://api.github.com/repos/PavlidisLab/TGEMO
+https://api.github.com/repos/vongomben/ITS-Bio-2023
+https://api.github.com/repos/Thavaneethan/laravel_crud_application
+https://api.github.com/repos/Creastv/gemma
+https://api.github.com/repos/public-assembly/builder-utils
+https://api.github.com/repos/DFE-Digital/get-into-teaching-app
+https://api.github.com/repos/Qiskit/qiskit.org
+https://api.github.com/repos/cockroachdb/docs
+https://api.github.com/repos/gemmahuai/Gemmas-CMB
+https://api.github.com/repos/PavlidisLab/GemBrow
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/zhangmingemma/gemma-blog
+https://api.github.com/repos/VNG-Realisatie/gemma-zaken
+https://api.github.com/repos/sgearle/bugwas

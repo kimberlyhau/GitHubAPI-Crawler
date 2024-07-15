@@ -1,0 +1,10 @@
+https://api.github.com/repos/nhaouari/obsidian-textgenerator-plugin
+https://api.github.com/repos/ianarawjo/ChainForge
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/icebaker/nano-bots-spec
+https://api.github.com/repos/Devographics/surveys
+https://api.github.com/repos/QuivrHQ/quivr
+https://api.github.com/repos/HangarMC/Hangar
+https://api.github.com/repos/icebaker/ruby-nano-bots
+https://api.github.com/repos/jakobdylanc/discord-llm-chatbot
+https://api.github.com/repos/aws/aws-lambda-python-runtime-interface-client

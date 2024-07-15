@@ -1,0 +1,3 @@
+https://api.github.com/repos/Xenor23/Claude
+https://api.github.com/repos/Titus-Coleman/claude-docker-cli
+https://api.github.com/repos/charlpcronje/Chrome-Extension-and-VS-Code-Extension-for-AI-Assisted-Development

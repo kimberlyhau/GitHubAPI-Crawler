@@ -1,0 +1,15 @@
+https://api.github.com/repos/missuo/claude2openai
+https://api.github.com/repos/arminfriedl/claude-shell
+https://api.github.com/repos/razroo/anthropic-claude-playground
+https://api.github.com/repos/jeswr/claude3-n3-reasoning-test
+https://api.github.com/repos/shuzonarita/claudetestgame
+https://api.github.com/repos/alanblockley/bedrock-haiku-image-catalog
+https://api.github.com/repos/nurciuoli/claude-template
+https://api.github.com/repos/khplus1/forclaude
+https://api.github.com/repos/ahxxm/claude-telegram-bot
+https://api.github.com/repos/wmoto-ai/claude-manim-notebook
+https://api.github.com/repos/srynsh/claude-funny-rag
+https://api.github.com/repos/vpavasovcase/Scorch
+https://api.github.com/repos/davidshtian/Anthropic-Meta-Prompt-on-Bedrock
+https://api.github.com/repos/amscotti/summarizer
+https://api.github.com/repos/edchen1240/LLM-API-Python-Quick-Start

@@ -1,0 +1,5 @@
+https://api.github.com/repos/lastmile-ai/aiconfig
+https://api.github.com/repos/st1vms/unofficial-claude-api
+https://api.github.com/repos/soulteary/docker-chatgpt
+https://api.github.com/repos/kimkihoon0515/mlops_crawling
+https://api.github.com/repos/SillyTavern/SillyTavern

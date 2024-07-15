@@ -1,0 +1,5 @@
+https://api.github.com/repos/holunda-io/bpm-ai-connectors-camunda-8
+https://api.github.com/repos/huggingface/transformers
+https://api.github.com/repos/Soulter/hugging-chat-api
+https://api.github.com/repos/huggingface/text-generation-inference
+https://api.github.com/repos/eth-sri/lmql

@@ -1,0 +1,7 @@
+https://api.github.com/repos/aws-samples/serverless-genai-food-analyzer-app
+https://api.github.com/repos/santhoshml/Claude_Financial_Agent
+https://api.github.com/repos/WonderingAboutAI/Blog-Generator-Claude
+https://api.github.com/repos/Claude2606/Claude-Peltier---Projet-ADB
+https://api.github.com/repos/RenatoDEV87/Geracao-de-Conteudo
+https://api.github.com/repos/iamRichardCN/Intelligent_Research_Topic_AI_Recommender
+https://api.github.com/repos/RenatoDEV87/O-Melhor-Modelo-de-IA

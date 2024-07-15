@@ -1,0 +1,10 @@
+https://api.github.com/repos/axeld5/visual_fact_checker
+https://api.github.com/repos/Musarath-Rahamathullah/Claude3-function-calling-Bedrock
+https://api.github.com/repos/hkford/bedrock-claude-usecases
+https://api.github.com/repos/giovanna1409/project-claude-chat
+https://api.github.com/repos/snowtimber/aws_slack_chatbot_bedrock_claude
+https://api.github.com/repos/betalgo/Anthropic
+https://api.github.com/repos/Stenix777/Neural-network-telegram
+https://api.github.com/repos/rohan5551/Document_parsing_with_GPT_VISION
+https://api.github.com/repos/cityssm/node-sectorflow
+https://api.github.com/repos/mdsunbeam/llm-hub

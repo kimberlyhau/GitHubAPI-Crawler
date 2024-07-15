@@ -1,0 +1,9 @@
+https://api.github.com/repos/adrienbrault/instructrice
+https://api.github.com/repos/gitddtom/claude--sessionkey
+https://api.github.com/repos/ClaudeirZ2/ClaudeirZ2.github.io
+https://api.github.com/repos/rkrehn/claudephp
+https://api.github.com/repos/enesbasbug/claude_3_function_calling
+https://api.github.com/repos/VtheTinkerer/Claude-3-Opus-Transcript
+https://api.github.com/repos/aayushxrj/Pluto.ai
+https://api.github.com/repos/GarvanD/text_to_sql
+https://api.github.com/repos/raphaelmansuy/hiramu-cli

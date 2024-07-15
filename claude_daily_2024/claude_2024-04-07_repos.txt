@@ -1,0 +1,8 @@
+https://api.github.com/repos/garystafford/creative-analysis-claude-bedrock
+https://api.github.com/repos/polofesse/ClaudeConseilWeb
+https://api.github.com/repos/Elvecent/claude-api
+https://api.github.com/repos/designerGenes/askClaude
+https://api.github.com/repos/jim-darby5308/claude-prompt-manager
+https://api.github.com/repos/plato1111/history_reader
+https://api.github.com/repos/RaunakChhatwal/llm-playground-gtk
+https://api.github.com/repos/namaeconde/web-narrator

@@ -1,0 +1,6 @@
+https://api.github.com/repos/sszaber/nodemcu-lcd-shield
+https://api.github.com/repos/Pythagora-io/gpt-pilot
+https://api.github.com/repos/aws-samples/bedrock-claude-chat
+https://api.github.com/repos/kujian/githubTrending
+https://api.github.com/repos/szwnba/affweb
+https://api.github.com/repos/JonathansManoel/Curso-Django

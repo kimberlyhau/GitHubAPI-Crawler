@@ -1,0 +1,4 @@
+https://api.github.com/repos/andgly95/claude-summarize
+https://api.github.com/repos/DreamerChaserHAH/langchain-java-server
+https://api.github.com/repos/codeye-ai/codeye-assets
+https://api.github.com/repos/JohnW8111/AI-systematic-reviewer-V1

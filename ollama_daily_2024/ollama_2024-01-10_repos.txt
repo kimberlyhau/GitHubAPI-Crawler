@@ -1,0 +1,5 @@
+https://api.github.com/repos/exactlab/exact-rag
+https://api.github.com/repos/waseigo/ollamex
+https://api.github.com/repos/irishdan/chat-bot-api
+https://api.github.com/repos/vinay-sharma-private/node-lchain-ollama-multimodal
+https://api.github.com/repos/BrujitoOz/VegaChatBotAPP

@@ -1,0 +1,4 @@
+https://api.github.com/repos/finaldie/auto-news
+https://api.github.com/repos/pgalko/BambooAI
+https://api.github.com/repos/darrenburns/elia
+https://api.github.com/repos/gotzmann/booster

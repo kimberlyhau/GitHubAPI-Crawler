@@ -1,0 +1,3 @@
+https://api.github.com/repos/rravipra/vicuna_7b
+https://api.github.com/repos/TFM-HITESH/Vicuna-Kouture-Admin-Project
+https://api.github.com/repos/SDSU-Research-CI/fastchat-demo

@@ -1,0 +1,5 @@
+https://api.github.com/repos/xorbitsai/inference
+https://api.github.com/repos/imdanaka/GemmarketYip.github.io
+https://api.github.com/repos/codelibry/la-gemma
+https://api.github.com/repos/belalyasin/GemManagementProject
+https://api.github.com/repos/vs4vijay/AI-Playground

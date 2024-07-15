@@ -1,0 +1,6 @@
+https://api.github.com/repos/kstevica/StableLM-books
+https://api.github.com/repos/IT-Engineer-K/stablelm
+https://api.github.com/repos/ezequielsobrino/stablelm_interface
+https://api.github.com/repos/wyy-cc18/StableLM
+https://api.github.com/repos/roxyrypler/StableLM-API
+https://api.github.com/repos/byroneverson/Mia

@@ -1,0 +1,3 @@
+https://api.github.com/repos/inferflow/inferflow
+https://api.github.com/repos/gwbuhl/gemmahat
+https://api.github.com/repos/MAK-Gemma/MAK-Gemma

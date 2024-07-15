@@ -1,0 +1,4 @@
+https://api.github.com/repos/Facico/Chinese-Vicuna
+https://api.github.com/repos/lm-sys/FastChat
+https://api.github.com/repos/Atome-FE/llama-node
+https://api.github.com/repos/gotzmann/llama.go

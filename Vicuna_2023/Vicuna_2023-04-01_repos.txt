@@ -1,0 +1,10 @@
+https://api.github.com/repos/mps256/vicuna.ps1
+https://api.github.com/repos/yangjianxin1/Firefly
+https://api.github.com/repos/shubham8550/vicuna-ts
+https://api.github.com/repos/chenking2020/FindTheChatGPTer
+https://api.github.com/repos/kesperinc/Vicuna
+https://api.github.com/repos/LornartheBreton/vicuna
+https://api.github.com/repos/akeyhero/try-vicuna
+https://api.github.com/repos/chrisspires803/learning-webui-vicuna
+https://api.github.com/repos/AlejandroOsejo/ti1_airline
+https://api.github.com/repos/drakyanerlanggarizkiwardhana/FastChat

@@ -1,0 +1,3 @@
+https://api.github.com/repos/sainttttt/gemmaJSON
+https://api.github.com/repos/Upsonic/Upsonic
+https://api.github.com/repos/repsac-casper/bsrkampgs

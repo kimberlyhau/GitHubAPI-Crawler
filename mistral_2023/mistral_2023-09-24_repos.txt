@@ -1,0 +1,17 @@
+https://api.github.com/repos/mistralai/mistral-inference
+https://api.github.com/repos/AIAnytime/Haystack-and-Mistral-7B-RAG-Implementation
+https://api.github.com/repos/anakin87/mistral-haystack
+https://api.github.com/repos/bananaml/demo-mistral-7b-instruct-v0.1
+https://api.github.com/repos/bdytx5/mistral7B_finetune
+https://api.github.com/repos/yachty66/demo-mistral-7b-instruct-v0.1-gptq
+https://api.github.com/repos/ravipratap366/RAG-Mistral7B-Haystack-Weaviate-FastAPI
+https://api.github.com/repos/lionelchg/Mistral
+https://api.github.com/repos/Platinn/mistral7b
+https://api.github.com/repos/pybanaszak/mistralai-test
+https://api.github.com/repos/spatulla/mistral-src
+https://api.github.com/repos/andrewwgordon/mistral-7b-example
+https://api.github.com/repos/hahuyhoang411/AutotrainMistral7b
+https://api.github.com/repos/Swarnashree/run_mistral-7B-v0.1
+https://api.github.com/repos/Himanshu8881212/Mistral-7B-Instruct-v0.1
+https://api.github.com/repos/ShounakMehendale/Chat_with_PDFs_Mistral-7B_Insurance
+https://api.github.com/repos/wg-dev35/csvbot

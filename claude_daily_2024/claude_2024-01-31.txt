@@ -1,0 +1,15 @@
+https://api.github.com/repos/Lenakh97/serverless-training-frontend
+https://api.github.com/repos/lastmile-ai/aiconfig
+https://api.github.com/repos/aws-samples/generative-ai-use-cases-jp
+https://api.github.com/repos/MetaCubeX/mihomo
+https://api.github.com/repos/UrbanAnalyst/gtfsrouter
+https://api.github.com/repos/sourcegraph/cody
+https://api.github.com/repos/EQ-bench/EQ-Bench
+https://api.github.com/repos/intelligentnode/Intelli
+https://api.github.com/repos/etherspot/arka
+https://api.github.com/repos/paradigmadigital/Promptmeteo
+https://api.github.com/repos/kimkihoon0515/mlops_crawling
+https://api.github.com/repos/brave/brave-browser
+https://api.github.com/repos/irbv-collections/MT-controlled-vocabulary
+https://api.github.com/repos/hsynercn/MetaGPT
+https://api.github.com/repos/awsdocs/aws-doc-sdk-examples

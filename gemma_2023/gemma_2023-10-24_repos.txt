@@ -1,0 +1,10 @@
+https://api.github.com/repos/KudoAI/googlegpt
+https://api.github.com/repos/jb621-star/gemma2_mod
+https://api.github.com/repos/GemmaClaverodelMoral/GemmaClaverodelMoral
+https://api.github.com/repos/shanrescheepers/Gemma
+https://api.github.com/repos/gemmaventura/gemmagemma
+https://api.github.com/repos/8gratitude8/gemmapwa
+https://api.github.com/repos/gemmatahmid/gemmatahmid.github.io
+https://api.github.com/repos/VNG-Realisatie/GEMMA-portfolio-Archi-repository
+https://api.github.com/repos/VNG-Realisatie/Omnichannel-Archi-repository
+https://api.github.com/repos/GITenberg/Pinocchio-under-the-sea_71880

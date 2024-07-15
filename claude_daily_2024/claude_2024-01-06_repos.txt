@@ -1,0 +1,3 @@
+https://api.github.com/repos/afantwt/claude
+https://api.github.com/repos/Niell007/autogen-bedrock-claude-streamlit
+https://api.github.com/repos/themaximalist/ModelDeployer

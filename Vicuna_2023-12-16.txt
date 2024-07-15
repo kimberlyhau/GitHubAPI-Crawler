@@ -1,0 +1,9 @@
+https://api.github.com/repos/aivillage/CTFd_deployment
+https://api.github.com/repos/bigai-nlco/LooGLE
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/SafeAILab/EAGLE
+https://api.github.com/repos/THUDM/AgentBench
+https://api.github.com/repos/onysakura/news-daily
+https://api.github.com/repos/lm-sys/FastChat
+https://api.github.com/repos/mlpc-ucsd/BLIVA
+https://api.github.com/repos/eosphoros-ai/DB-GPT

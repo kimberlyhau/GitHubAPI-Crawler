@@ -1,0 +1,16 @@
+https://api.github.com/repos/vbrooke78/csi-catchphrase
+https://api.github.com/repos/VNG-Realisatie/gemma-zaken
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/ersilia-os/ersilia
+https://api.github.com/repos/AndreaGemmani/AndreaGemmani
+https://api.github.com/repos/yedidiaklein/moodle-mod_securepdf
+https://api.github.com/repos/cockroachdb/docs
+https://api.github.com/repos/ersilia-os/eos2thm
+https://api.github.com/repos/dgarrimar/gemma-nf
+https://api.github.com/repos/kodai-gemma/kodai-gemma.github.io
+https://api.github.com/repos/bjorncs/vespa
+https://api.github.com/repos/kazusa-hosoda/Gemma.DIG-msg
+https://api.github.com/repos/smolTypo/gemmafong-fullstackrestaurantapplication
+https://api.github.com/repos/PavlidisLab/GemBrow
+https://api.github.com/repos/brown-ccv/ccv-website-content
+https://api.github.com/repos/ROMSSY16/Gemma-novz

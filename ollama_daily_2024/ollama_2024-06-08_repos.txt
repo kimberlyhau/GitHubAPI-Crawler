@@ -1,0 +1,15 @@
+https://api.github.com/repos/MX-Goliath/OllamaSimpleTranslate
+https://api.github.com/repos/HaoHaoDaYouXi/OllamaChatTTS
+https://api.github.com/repos/Rommelmith/OllamaAI
+https://api.github.com/repos/ZanMax/ollama-bot
+https://api.github.com/repos/jakubburkiewicz/use-ollama
+https://api.github.com/repos/anthuanvasquez/ollama-codedeep
+https://api.github.com/repos/priom14/chatbot-using-ollama
+https://api.github.com/repos/kastorcode/ollama-gui-reactjs
+https://api.github.com/repos/bigmrstorm/ollama-discord-chatbot
+https://api.github.com/repos/epicaqua/spring-ai-ollama-api
+https://api.github.com/repos/xndrgit/xndr-dogAI-openchat-ollama
+https://api.github.com/repos/Catalin246/nlp-chatbot
+https://api.github.com/repos/codecaine-zz/llm_temperature_cheatsheet
+https://api.github.com/repos/paulbjerk/AI-Assistant
+https://api.github.com/repos/AKKI0511/AI-Code-Generator

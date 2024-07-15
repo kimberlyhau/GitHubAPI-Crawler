@@ -1,0 +1,11 @@
+https://api.github.com/repos/ahmetkca/PolyOllama
+https://api.github.com/repos/nart38/ollmao
+https://api.github.com/repos/bots-garden/ollama-js-langchain
+https://api.github.com/repos/sathirak/ollama-pilot
+https://api.github.com/repos/knachinen/rag_langchain_ollama
+https://api.github.com/repos/ayush111111/run-ollama-through-colab
+https://api.github.com/repos/mfmezger/ollama-prefect-paper-summarization
+https://api.github.com/repos/ggautams/llm-warehouse
+https://api.github.com/repos/liangDarwin2/local_copilot
+https://api.github.com/repos/Ghost-Zephyr/ocllama
+https://api.github.com/repos/TyCoding/langchat

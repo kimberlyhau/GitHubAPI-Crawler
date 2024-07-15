@@ -1,0 +1,2 @@
+https://api.github.com/repos/rdmarsh2/gemma-m0-lightshow
+https://api.github.com/repos/kcnd15/mvgwas2-nf

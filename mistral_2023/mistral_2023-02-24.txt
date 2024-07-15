@@ -1,0 +1,4 @@
+https://api.github.com/repos/siddk/voltron-robotics
+https://api.github.com/repos/Edinburgh-Genome-Foundry/GoldenHinges
+https://api.github.com/repos/PygmalionOfCyprus/cmo-db-requests
+https://api.github.com/repos/EditionsDuRouergue/lerouergue

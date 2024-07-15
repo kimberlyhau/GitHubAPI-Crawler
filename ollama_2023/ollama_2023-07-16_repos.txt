@@ -1,0 +1,3 @@
+https://api.github.com/repos/phospho-app/phospho
+https://api.github.com/repos/quack-ai/companion
+https://api.github.com/repos/codito/arey

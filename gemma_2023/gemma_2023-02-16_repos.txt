@@ -1,0 +1,2 @@
+https://api.github.com/repos/iBogdanButa/testGitHubRelease2.0
+https://api.github.com/repos/gpczekailo-atos/testGitHubRelease

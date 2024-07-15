@@ -1,0 +1,15 @@
+https://api.github.com/repos/slowmagic10/langchian-ollama-pdf-extractor
+https://api.github.com/repos/austinjan/ollamaLearn
+https://api.github.com/repos/ShashSunkum/Ollama
+https://api.github.com/repos/Adityakitukale499/ollamawebui
+https://api.github.com/repos/nojoyy/ollama-python
+https://api.github.com/repos/OreoMev/prompt-testing
+https://api.github.com/repos/nostoslabs/language-translator
+https://api.github.com/repos/AyorindeTayo/Lang-Chain-Chat-bot
+https://api.github.com/repos/PrashantSaikia/Push-Solar-10.7B-to-Ollama-Hub
+https://api.github.com/repos/andresvercesi/chatbot_streamlit
+https://api.github.com/repos/turbra/ai-ops
+https://api.github.com/repos/aktersnurra/rag
+https://api.github.com/repos/dshills/ai-manager
+https://api.github.com/repos/Santiago1470/ChatBot-Medico-IA-Llama2
+https://api.github.com/repos/Mohit-Verma-1688/chat-with-docs

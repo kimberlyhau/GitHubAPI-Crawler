@@ -1,0 +1,12 @@
+https://api.github.com/repos/gsans/mini-bard-palm2-angular
+https://api.github.com/repos/Q-Future/Q-Bench
+https://api.github.com/repos/troyhen/Gemini
+https://api.github.com/repos/LyuLumos/Gemini
+https://api.github.com/repos/Henrique-R-Abduch/Gemini
+https://api.github.com/repos/rohangemini/gemini
+https://api.github.com/repos/YUXUAN888/GeminiT
+https://api.github.com/repos/mandeepk01082009/geminiads
+https://api.github.com/repos/Henrique-R-Abduch/Gemini-Front
+https://api.github.com/repos/kasi1003/gemini-updates
+https://api.github.com/repos/aalbacetef/libgemini
+https://api.github.com/repos/audiodude/ismygem.online

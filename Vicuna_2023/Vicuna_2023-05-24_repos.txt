@@ -1,0 +1,9 @@
+https://api.github.com/repos/Lichang-Chen/InstructZero
+https://api.github.com/repos/rinnakk/vicuna-13b-delta-finetuned-langchain-MRKL
+https://api.github.com/repos/luffycodes/Tutorbot-Spock
+https://api.github.com/repos/s1ghhh/MedVicuna
+https://api.github.com/repos/ncvathna/vicuna-bot
+https://api.github.com/repos/shl518/vicuna-serving
+https://api.github.com/repos/sanidhya14/vicuna-docker-package
+https://api.github.com/repos/melih-unsal/LlamaPsychologist
+https://api.github.com/repos/latestissue/AltaeraAI

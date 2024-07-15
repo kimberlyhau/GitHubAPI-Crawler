@@ -1,0 +1,7 @@
+https://api.github.com/repos/shrimantasatpati/Mistral7b-RAG-Gita_Books
+https://api.github.com/repos/irony/mistral-ui
+https://api.github.com/repos/ayushverma28042017/Mistral
+https://api.github.com/repos/cxianyao/mistral7b_rag
+https://api.github.com/repos/themataleao/mistralai-client-ts
+https://api.github.com/repos/sushantkumar23/coding-mistral-7B-from-scratch
+https://api.github.com/repos/theeyesneverlie28/-Mistral-Llama-2-Orca-Yi-RAG

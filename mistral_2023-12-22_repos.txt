@@ -1,0 +1,3 @@
+https://api.github.com/repos/fsndzomga/mistral_rb
+https://api.github.com/repos/nathanborror/swift-gen-kit
+https://api.github.com/repos/antononcube/Raku-WWW-MistralAI

@@ -1,0 +1,16 @@
+https://api.github.com/repos/rominirani/awesome-gemini-for-google-cloud
+https://api.github.com/repos/huynle/ogpt.nvim
+https://api.github.com/repos/meribue2004/Gemini
+https://api.github.com/repos/razanfawwaz/gemini-bot
+https://api.github.com/repos/dimkr/guppy-protocol
+https://api.github.com/repos/reemo3dp/mellowfly-geminipi-armbian
+https://api.github.com/repos/derrysmith/gemini
+https://api.github.com/repos/pticostaricags/FairPlayCombined
+https://api.github.com/repos/MLC-Gemini/gemini-data-all
+https://api.github.com/repos/EricaBackman/geministore
+https://api.github.com/repos/nephros/gemini-kernel
+https://api.github.com/repos/yael333/kineto
+https://api.github.com/repos/hitthecodelabs/NordicTranslator-GPT-PALM
+https://api.github.com/repos/rohit-yadavv/weboverflow
+https://api.github.com/repos/USDOS/HITMAN
+https://api.github.com/repos/YGGverse/Yo

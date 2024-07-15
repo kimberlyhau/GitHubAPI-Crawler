@@ -1,0 +1,4 @@
+https://api.github.com/repos/h1ddenpr0cess20/infinigpt-irc
+https://api.github.com/repos/h1ddenpr0cess20/infinigpt-matrix
+https://api.github.com/repos/kazuyaseki/code-transformer-for-Figma
+https://api.github.com/repos/tisfeng/Easydict

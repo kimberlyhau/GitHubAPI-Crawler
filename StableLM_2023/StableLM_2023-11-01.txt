@@ -1,0 +1,7 @@
+https://api.github.com/repos/Stability-AI/lm-evaluation-harness
+https://api.github.com/repos/marella/ctransformers
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/guidance-ai/guidance
+https://api.github.com/repos/abetlen/llama-cpp-python
+https://api.github.com/repos/hiyouga/LLaMA-Factory
+https://api.github.com/repos/wandb/llm-leaderboard

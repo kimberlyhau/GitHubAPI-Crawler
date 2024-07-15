@@ -1,0 +1,2 @@
+https://api.github.com/repos/thangarajdeivasikamani/Vicuna_7b_local_cpu
+https://api.github.com/repos/BrayanAMC/d.a.e.m-vicuna-app

@@ -1,0 +1,14 @@
+https://api.github.com/repos/MikeChan-HK/Gemini-agent-example
+https://api.github.com/repos/Malyky/Ollama
+https://api.github.com/repos/lebrunel/shifts
+https://api.github.com/repos/son-n-pham/RAG-Ollama
+https://api.github.com/repos/hasin023/ollama-api
+https://api.github.com/repos/erfianugrah/ollama-compose
+https://api.github.com/repos/CosmicLitter/ollama-webui
+https://api.github.com/repos/cestanis/chat-langchain-ollama
+https://api.github.com/repos/Sr-0w/Ollama-GUI-Python-GTK
+https://api.github.com/repos/Abhishekyes/Chatbot_Langchain-And-Ollama
+https://api.github.com/repos/leozqin/precis
+https://api.github.com/repos/lanceseidman/llm-api-chrome-ext
+https://api.github.com/repos/weibb123/Automate_Finance_LLM
+https://api.github.com/repos/piushvaish/large-language-models

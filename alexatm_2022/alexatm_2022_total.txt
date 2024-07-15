@@ -1,0 +1,6 @@
+https://api.github.com/repos/stanford-crfm/helm
+https://api.github.com/repos/amazon-science/alexa-teacher-models
+https://api.github.com/repos/gkbharathy/NLP_ALEXATM_20B
+https://api.github.com/repos/aws/amazon-sagemaker-examples
+https://api.github.com/repos/e-tornike/arxiv-daily-summaries
+https://api.github.com/repos/alexatmontreal/alexatmontreal

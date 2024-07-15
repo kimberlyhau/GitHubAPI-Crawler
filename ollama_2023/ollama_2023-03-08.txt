@@ -1,0 +1,14 @@
+https://api.github.com/repos/TavernAI/TavernAI
+https://api.github.com/repos/crashteamdev/kazanexpress-fetcher
+https://api.github.com/repos/saltyshiomix/nextron
+https://api.github.com/repos/sherbibv/homelab-docker-compose
+https://api.github.com/repos/NVIDIA/open-gpu-kernel-modules
+https://api.github.com/repos/SebastianRabiej/renovate_test
+https://api.github.com/repos/Leask/halbot
+https://api.github.com/repos/rizerphe/obsidian-companion
+https://api.github.com/repos/edward3h/localrules
+https://api.github.com/repos/oobabooga/text-generation-webui
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/ChatGPTNextWeb/ChatGPT-Next-Web
+https://api.github.com/repos/translate-tools/linguist
+https://api.github.com/repos/SanHacks/AiGen

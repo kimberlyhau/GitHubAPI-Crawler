@@ -1,0 +1,6 @@
+https://api.github.com/repos/BigBangTechbbt/gemma
+https://api.github.com/repos/gemmaferu/gemmaferu
+https://api.github.com/repos/prishas08/GemMatching
+https://api.github.com/repos/LeeCyborg/SquishyGemma
+https://api.github.com/repos/Dmars2701/Gemma-The-Brave-
+https://api.github.com/repos/noodlecollie/gemma-m0-co2-monitor

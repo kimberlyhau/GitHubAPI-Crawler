@@ -1,0 +1,5 @@
+https://api.github.com/repos/modelscope/swift
+https://api.github.com/repos/quack-ai/companion-vscode
+https://api.github.com/repos/GemmaJackson/gemmajackson
+https://api.github.com/repos/smolTypo/To-Do-Goal-List-React
+https://api.github.com/repos/albertstarfield/project-zephyrine

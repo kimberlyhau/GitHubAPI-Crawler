@@ -1,0 +1,5 @@
+https://api.github.com/repos/rsnlabs/rsnchat-js
+https://api.github.com/repos/crystal011/crewfare-claude.ai-fastapi
+https://api.github.com/repos/seherr/Bedrock_RAG_with_Claude
+https://api.github.com/repos/MiClaude07/MiClaude07.github.io
+https://api.github.com/repos/lbbniu/ai-proxy

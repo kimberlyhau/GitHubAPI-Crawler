@@ -1,0 +1,3 @@
+https://api.github.com/repos/intelligentnode/IntelliChat
+https://api.github.com/repos/mangiucugna/json_repair
+https://api.github.com/repos/adrianliechti/llama

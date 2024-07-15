@@ -1,0 +1,8 @@
+https://api.github.com/repos/jdecool/ollama-php-client
+https://api.github.com/repos/jasonjmcghee/plock
+https://api.github.com/repos/mfmezger/ollama-rag
+https://api.github.com/repos/jaconsta/ollama_reqwest
+https://api.github.com/repos/boxabirds/ollama-fe-memento
+https://api.github.com/repos/sammyf/ollama-cuda_archlinux
+https://api.github.com/repos/Aizuko/ollama_bash_command_error
+https://api.github.com/repos/e-landeros/adforge

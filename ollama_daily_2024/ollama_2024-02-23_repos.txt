@@ -1,0 +1,10 @@
+https://api.github.com/repos/kspviswa/local-packet-whisperer
+https://api.github.com/repos/AIAnytime/Gemma-7B-RAG-using-Ollama
+https://api.github.com/repos/deepakness/ollama-py
+https://api.github.com/repos/PrabhuKiran8790/Ollama-RAG
+https://api.github.com/repos/NeonGamerBot-QK/unoffical-ollama-api
+https://api.github.com/repos/JapiKredi/Ollama_RAG
+https://api.github.com/repos/John-Codes/ollama_pdf_rag
+https://api.github.com/repos/Rostaing/LLM_ollama_app
+https://api.github.com/repos/mickzeller/the-chatter
+https://api.github.com/repos/alokkusingh/spring-ai

@@ -1,0 +1,5 @@
+https://api.github.com/repos/claudettemaranan/claudettemaranan
+https://api.github.com/repos/cluzier/Claude-Companion
+https://api.github.com/repos/J0ak0/hifix-Claude
+https://api.github.com/repos/pkamra/sample-pdf-png-claude
+https://api.github.com/repos/rnddave/qr-code-generator

@@ -1,0 +1,13 @@
+https://api.github.com/repos/AllAboutAI-YT/easy-local-rag
+https://api.github.com/repos/ajaypandey1585/Ollama2-Image
+https://api.github.com/repos/KingA2483/Ollama
+https://api.github.com/repos/marcelofournier/chatbot-ollama
+https://api.github.com/repos/timmo001/addon-ollama
+https://api.github.com/repos/PivaRos/Ollama-Embedding_Gpt
+https://api.github.com/repos/ShawonAshraf/ollama-func-calling
+https://api.github.com/repos/TrizteX/RAG-chroma-ollama-langchain
+https://api.github.com/repos/chetan25/ollama-windows-wsl-setup
+https://api.github.com/repos/bernardbdas/A-Comprehensive-Usage-Guide-for-Langchain-Ecosystem-Ollama-Llama3
+https://api.github.com/repos/SudoSuMaster/discord-uncensored-ai-bot
+https://api.github.com/repos/PedroDSFerreira/eagl.ai
+https://api.github.com/repos/Matthew-Yim/Local-LLM-Stuff

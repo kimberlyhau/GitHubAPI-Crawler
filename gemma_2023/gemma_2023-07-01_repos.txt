@@ -1,0 +1,6 @@
+https://api.github.com/repos/dgarrimar/gemma-nf
+https://api.github.com/repos/smolTypo/gemmafong-fullstackrestaurantapplication
+https://api.github.com/repos/ROMSSY16/Gemma-novz
+https://api.github.com/repos/AndreaGemmani/AndreaGemmani
+https://api.github.com/repos/kazusa-hosoda/Gemma.DIG-msg
+https://api.github.com/repos/kodai-gemma/kodai-gemma.github.io

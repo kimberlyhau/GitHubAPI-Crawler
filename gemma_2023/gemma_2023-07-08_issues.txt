@@ -1,0 +1,14 @@
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/VNG-Realisatie/gemma-zaken
+https://api.github.com/repos/biostat0903/DBSLMM
+https://api.github.com/repos/Yukeaaa/arxiv-daily
+https://api.github.com/repos/gaia-rossi/spotiforum
+https://api.github.com/repos/mamedev/mame
+https://api.github.com/repos/cockroachdb/docs
+https://api.github.com/repos/ersilia-os/eos481p
+https://api.github.com/repos/Yukeaaa/arxiv-daily
+https://api.github.com/repos/A-suozhang/GetArxivDaily
+https://api.github.com/repos/AIrjen/OneButtonPrompt
+https://api.github.com/repos/leather-io/desktop
+https://api.github.com/repos/ersilia-os/eos1579
+https://api.github.com/repos/ersilia-os/eos30gr

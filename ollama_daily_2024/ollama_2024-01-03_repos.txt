@@ -1,0 +1,5 @@
+https://api.github.com/repos/Lommix/ollamachad.nvim
+https://api.github.com/repos/jarvisraymond-uchicago/ollamaBash
+https://api.github.com/repos/wjutrkker/ollama
+https://api.github.com/repos/rofrano/ollama-playground
+https://api.github.com/repos/tbendien/bionic-ollama-installs

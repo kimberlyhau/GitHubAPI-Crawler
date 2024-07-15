@@ -1,0 +1,3 @@
+https://api.github.com/repos/mitchross/k8s-homelab-cluster-v2
+https://api.github.com/repos/MarienL1995/RenovatePractical
+https://api.github.com/repos/kevingovaerts/RenovateWorkshop

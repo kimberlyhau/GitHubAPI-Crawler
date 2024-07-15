@@ -1,0 +1,2 @@
+https://api.github.com/repos/prp-e/stablelm_finetune
+https://api.github.com/repos/rozek/node-red-flow-stablelm-3b-4e1t

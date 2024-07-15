@@ -1,0 +1,4 @@
+https://api.github.com/repos/huggingface/accelerate
+https://api.github.com/repos/kazuyaseki/code-transformer-for-Figma
+https://api.github.com/repos/aaronwmorris/indi-allsky
+https://api.github.com/repos/puppetlabs/puppetlabs-stdlib

@@ -1,0 +1,10 @@
+https://api.github.com/repos/ardasevinc/claude-chronicles
+https://api.github.com/repos/aviz85/claude-bot-test
+https://api.github.com/repos/enesbasbug/Claude_RAG_QnA
+https://api.github.com/repos/whit3rabbit/claude-screenshot-chrome-ext
+https://api.github.com/repos/Lunedor/theWriter
+https://api.github.com/repos/Stevenskorheim/RSTDP_adventurer
+https://api.github.com/repos/CH6832/prompt-engineering-experiments
+https://api.github.com/repos/olololoe110399/mikasa_gpt
+https://api.github.com/repos/jackfsuia/ShampooSalesAgent
+https://api.github.com/repos/MarcinChamera/ai-agents-crewai

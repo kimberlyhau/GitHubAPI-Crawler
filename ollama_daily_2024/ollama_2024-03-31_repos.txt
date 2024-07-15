@@ -1,0 +1,15 @@
+https://api.github.com/repos/rsrohan99/local-pdf-ai
+https://api.github.com/repos/ecrespo/crewai_ollama_langchain
+https://api.github.com/repos/ahmadrosid/ideaflow
+https://api.github.com/repos/tn00627974/Ollama
+https://api.github.com/repos/ketan27j/langchain-ollama
+https://api.github.com/repos/karthikgkumar/Ollama-Assistant
+https://api.github.com/repos/Lucas8448/Ollama-OpenAI
+https://api.github.com/repos/elquespera/ollama-api-bun
+https://api.github.com/repos/diogocezar/dctb-ollama-js
+https://api.github.com/repos/christianRPMcarmack/rust_ollama_interface
+https://api.github.com/repos/KPInc425/react-ollama-ui
+https://api.github.com/repos/Robo8382/ollama-with-any-architecture
+https://api.github.com/repos/DigitalNikos/Bachelor_theis_AI_Ollama
+https://api.github.com/repos/Blu-Eagle/local-jarvis
+https://api.github.com/repos/ENDERHER0/Personal-AI

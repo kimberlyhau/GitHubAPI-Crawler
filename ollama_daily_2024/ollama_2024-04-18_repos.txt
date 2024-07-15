@@ -1,0 +1,15 @@
+https://api.github.com/repos/langchain-tech/langchain-gemma-ollama-chainlit
+https://api.github.com/repos/context-labs/ollamark
+https://api.github.com/repos/GGMGG/ollamaWeb
+https://api.github.com/repos/ZoneTwelve/ollama4taide_lx
+https://api.github.com/repos/Sino-One/ollama
+https://api.github.com/repos/RallyCommerce/rally-ollama
+https://api.github.com/repos/dhruveshb-mecha/ollama-tauri
+https://api.github.com/repos/GeorgeCrossIV/Ollama-Mistral
+https://api.github.com/repos/AlgoveraAI/run_ollama
+https://api.github.com/repos/allenliu88/rag-ollama-langchain
+https://api.github.com/repos/Vindicomus/Docker---Ollama---Mistral
+https://api.github.com/repos/kashifyounus/nextjs-ollama-llm-ui-master
+https://api.github.com/repos/zachey01/gpt4free.js
+https://api.github.com/repos/matsjfunke/rag-from-scratch
+https://api.github.com/repos/zjrwtx/open_summary

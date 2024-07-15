@@ -1,0 +1,7 @@
+https://api.github.com/repos/sathishkumar67/Mixtral
+https://api.github.com/repos/igorbkz/app
+https://api.github.com/repos/paramita-mirza/self-instruct-mixtral
+https://api.github.com/repos/zengdard/MistralFineTune_Mixtral_7x8B_Image_To_Text
+https://api.github.com/repos/PublishedDoonk/target_resume_generator
+https://api.github.com/repos/SnehaDeshmukh28/SmartEmail-Personalizer-Agent
+https://api.github.com/repos/pavannagula/End-to-End-RAG-Chatbot-Using-Groq-and-Mistral

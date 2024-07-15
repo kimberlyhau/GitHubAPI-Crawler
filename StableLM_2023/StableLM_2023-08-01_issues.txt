@@ -1,0 +1,7 @@
+https://api.github.com/repos/jina-ai/rungpt
+https://api.github.com/repos/onysakura/news-daily
+https://api.github.com/repos/drikin/backspace
+https://api.github.com/repos/WangShuXian6/blog
+https://api.github.com/repos/Stability-AI/StableLM
+https://api.github.com/repos/BerriAI/litellm
+https://api.github.com/repos/Lightning-AI/litgpt

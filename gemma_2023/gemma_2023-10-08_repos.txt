@@ -1,0 +1,3 @@
+https://api.github.com/repos/awaescher/OllamaSharp
+https://api.github.com/repos/supernova-123/gemmAcc
+https://api.github.com/repos/kuro13124/gemma.github.io

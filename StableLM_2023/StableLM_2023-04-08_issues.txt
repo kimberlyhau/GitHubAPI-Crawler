@@ -1,0 +1,2 @@
+https://api.github.com/repos/unionai-oss/stanford_alpaca
+https://api.github.com/repos/nomic-ai/gpt4all-chat

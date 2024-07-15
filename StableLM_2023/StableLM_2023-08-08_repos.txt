@@ -1,0 +1,2 @@
+https://api.github.com/repos/p1atdev/stablelm_lora
+https://api.github.com/repos/amachang/learning_japanese_stablelm

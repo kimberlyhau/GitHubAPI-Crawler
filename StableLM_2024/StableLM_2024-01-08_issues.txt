@@ -1,0 +1,10 @@
+https://api.github.com/repos/arcee-ai/mergekit
+https://api.github.com/repos/onemec/fully-local-pdf-chatbot
+https://api.github.com/repos/LlamaEdge/LlamaEdge
+https://api.github.com/repos/mgonzs13/llama_ros
+https://api.github.com/repos/fly51fly/aicoco
+https://api.github.com/repos/janhq/jan
+https://api.github.com/repos/fly51fly/aicoco
+https://api.github.com/repos/vllm-project/vllm
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/fmhy/FMHYedit

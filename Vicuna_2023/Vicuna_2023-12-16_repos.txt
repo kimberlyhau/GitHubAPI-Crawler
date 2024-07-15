@@ -1,0 +1,4 @@
+https://api.github.com/repos/CASIA-IVA-Lab/FLAP
+https://api.github.com/repos/luizamboni/vicuna-on-aws
+https://api.github.com/repos/aneekroy/llm-attacks-overview
+https://api.github.com/repos/Shuvo31/LLava

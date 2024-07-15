@@ -1,0 +1,3 @@
+https://api.github.com/repos/harkin8/claudeAPI
+https://api.github.com/repos/claude94200/claude94200
+https://api.github.com/repos/godshiva/MultiLLMHelper

@@ -1,0 +1,4 @@
+https://api.github.com/repos/UCSC-VLAA/Sight-Beyond-Text
+https://api.github.com/repos/alexcadillon/VicunaABSA
+https://api.github.com/repos/EvgeniyJeka/Leonid_The_Chatbot
+https://api.github.com/repos/bgileau/LSTM_with_sentiment

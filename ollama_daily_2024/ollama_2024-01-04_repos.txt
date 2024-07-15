@@ -1,0 +1,4 @@
+https://api.github.com/repos/vineethac/Ollama
+https://api.github.com/repos/XC0R/ollama-webui
+https://api.github.com/repos/Marvin-VW/python-ollama-local
+https://api.github.com/repos/yoppeh/chewie

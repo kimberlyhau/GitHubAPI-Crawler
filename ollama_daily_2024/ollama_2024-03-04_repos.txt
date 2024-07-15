@@ -1,0 +1,13 @@
+https://api.github.com/repos/StreamDeploy-DevRel/streamdeploy-llm-app-scaffold
+https://api.github.com/repos/pazoff/ollama-embeddings-integration
+https://api.github.com/repos/akshatsingh1718/CRAG-Ollama-langgraph
+https://api.github.com/repos/tushar2704/Docs_avec_Ollama
+https://api.github.com/repos/padmaDS/Ollama
+https://api.github.com/repos/deonvz/ollamaprojects
+https://api.github.com/repos/JuMANocta/2024_OLLAMA
+https://api.github.com/repos/jjdredd/ollama-speak
+https://api.github.com/repos/cccadet/langchain-ollama-gemma
+https://api.github.com/repos/ericwzc/ollama-rag-streaming
+https://api.github.com/repos/Hashory/PersonalLLM-DiscordBot
+https://api.github.com/repos/pahar0/cli-gpt-chat
+https://api.github.com/repos/Arthur-Llevelys/Juris-Tyr

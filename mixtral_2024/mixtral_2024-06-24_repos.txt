@@ -1,0 +1,2 @@
+https://api.github.com/repos/djokester/groqeval
+https://api.github.com/repos/rahulg-101/Jarvis-AI-Driven-arXiv-and-Wikipedia-Query-Chatbot-using-Langchain

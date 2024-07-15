@@ -1,0 +1,3 @@
+https://api.github.com/repos/claudenir021/claudenir021
+https://api.github.com/repos/JCthedevelop3r/Portfolio_Jean-Claude_Minot
+https://api.github.com/repos/shreyshah6699/MRC-Showdown-Pre-trained-vs.-Large-Language-Models-on-SQuAD-RoBERTa-ChatGPT-Claude-2-

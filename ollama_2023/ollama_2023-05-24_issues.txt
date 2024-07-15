@@ -1,0 +1,11 @@
+https://api.github.com/repos/photoprism/photoprism
+https://api.github.com/repos/sagemathinc/cocalc-docker
+https://api.github.com/repos/refstudio/refstudio
+https://api.github.com/repos/Sinaptik-AI/pandas-ai
+https://api.github.com/repos/zylon-ai/private-gpt
+https://api.github.com/repos/gha-trigger/step-summary-action
+https://api.github.com/repos/gha-trigger/example-ci
+https://api.github.com/repos/mlverse/chattr
+https://api.github.com/repos/joone/loz
+https://api.github.com/repos/suzuki-shunsuke/test-renovate-3
+https://api.github.com/repos/joone/loz

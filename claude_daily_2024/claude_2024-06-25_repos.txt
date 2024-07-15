@@ -1,0 +1,12 @@
+https://api.github.com/repos/vvolis/claude
+https://api.github.com/repos/LuxuryTimepiece/ClaudeThePoet
+https://api.github.com/repos/JoshuaJose978/text2sql_claude3_function_calling
+https://api.github.com/repos/claudemarls/Claudemar-
+https://api.github.com/repos/karia/claude_chatbot
+https://api.github.com/repos/2010CEO/claude-engineer
+https://api.github.com/repos/HugoBde/clide
+https://api.github.com/repos/onodela2000/claude-number-guesser
+https://api.github.com/repos/smislam/aws-bedrock-summarize-ai
+https://api.github.com/repos/jjsantos01/capture-locations
+https://api.github.com/repos/getapicc/getapi
+https://api.github.com/repos/SpaceSocks/PixelEvolution

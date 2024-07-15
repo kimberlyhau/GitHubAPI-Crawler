@@ -1,0 +1,6 @@
+https://api.github.com/repos/bitsandbytes-foundation/bitsandbytes
+https://api.github.com/repos/lm-sys/FastChat
+https://api.github.com/repos/casper-hansen/AutoAWQ
+https://api.github.com/repos/langchain-ai/langchain
+https://api.github.com/repos/lobehub/lobe-chat
+https://api.github.com/repos/ggerganov/llama.cpp

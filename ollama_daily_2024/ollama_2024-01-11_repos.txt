@@ -1,0 +1,6 @@
+https://api.github.com/repos/clevaway/J.A.R.V.I.S
+https://api.github.com/repos/MarkoPekas/runpod-ollama-speedtest-guide
+https://api.github.com/repos/nocarea/ollamatts
+https://api.github.com/repos/PeterHickman/ollama-tools
+https://api.github.com/repos/qianniucity/mixtral_ollama
+https://api.github.com/repos/m-c-frank/chat

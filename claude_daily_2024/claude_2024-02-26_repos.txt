@@ -1,0 +1,3 @@
+https://api.github.com/repos/xiehust/claude_functioncall
+https://api.github.com/repos/MayDay-wpf/AIBotPublic
+https://api.github.com/repos/ishiki-hikuhiku-game/claude-shannon-ultimate-machine-ranking

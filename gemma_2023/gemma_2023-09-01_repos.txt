@@ -1,0 +1,2 @@
+https://api.github.com/repos/DiasHafizhan/Gemma-Nusa-Teknologi
+https://api.github.com/repos/sbunivedu/git-and-github-foundamentals-Gemma-Moore02

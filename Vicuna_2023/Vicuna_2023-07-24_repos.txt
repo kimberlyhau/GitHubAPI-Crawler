@@ -1,0 +1,4 @@
+https://api.github.com/repos/janpokrzywinski/youtube-vicuna13b
+https://api.github.com/repos/weilun-chiu/LLM-vicuna13B-webqa
+https://api.github.com/repos/wangkaiwei1127/ggml-vicuna-wkw
+https://api.github.com/repos/llarrynguyen/medical-agi-superllm

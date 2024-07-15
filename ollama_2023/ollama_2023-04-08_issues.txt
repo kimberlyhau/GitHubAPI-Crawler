@@ -1,0 +1,7 @@
+https://api.github.com/repos/akash-network/support
+https://api.github.com/repos/merikan/testcontainers-demo
+https://api.github.com/repos/nikdanilov/whisper-obsidian-plugin
+https://api.github.com/repos/JudiniLabs/code-gpt-docs
+https://api.github.com/repos/langchain-ai/langchain
+https://api.github.com/repos/Jguer/yay
+https://api.github.com/repos/karthink/gptel

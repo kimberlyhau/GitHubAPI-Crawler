@@ -1,0 +1,5 @@
+https://api.github.com/repos/Jenscaasen/UniversalLLMFunctionCaller
+https://api.github.com/repos/itchat/local-llm-trainer
+https://api.github.com/repos/Michael-BURTIN/AtelierPK-MDDE-2024
+https://api.github.com/repos/kasamina80/generic_wm
+https://api.github.com/repos/Muh-aza/LLM

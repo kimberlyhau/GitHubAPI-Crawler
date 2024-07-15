@@ -1,0 +1,9 @@
+https://api.github.com/repos/camenduru/mixtral-8x22b-instruct-v0.1-replicate
+https://api.github.com/repos/kailash19961996/Finetuning_mixtral
+https://api.github.com/repos/paule89123/fine-tuning-mixtral
+https://api.github.com/repos/jin0x/LangChain-Groq-Mixtral-Chainlit
+https://api.github.com/repos/AIDevBytes/Custom-Mixtral-Model
+https://api.github.com/repos/1SHA1024/yam-peleg-Hebrew-Mixtral-8x22B
+https://api.github.com/repos/mrzjy/expert_choice_visualization_for_mixtral
+https://api.github.com/repos/IonutIga/LLMs-for-KGC
+https://api.github.com/repos/cvarrei/JupyCoder

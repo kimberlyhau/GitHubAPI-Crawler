@@ -1,0 +1,10 @@
+https://api.github.com/repos/leonvanzyl/claude-3-node-tool-use
+https://api.github.com/repos/xuchangyue/claude3_content_labeling
+https://api.github.com/repos/jackeyzzz12138/ChatClaude
+https://api.github.com/repos/elifiner/claude-scripts
+https://api.github.com/repos/YikaiHu/claude-pe-repo
+https://api.github.com/repos/paulaji/cooking-assistant-claude
+https://api.github.com/repos/mundodigitalpro/KotlinNativeClaudeChat
+https://api.github.com/repos/apertia/Upload-Claude-AI-Chats-to-GitLab
+https://api.github.com/repos/daswer123/reverse-proxy
+https://api.github.com/repos/borjasolerme/AI-YouTube-Trends-Researcher

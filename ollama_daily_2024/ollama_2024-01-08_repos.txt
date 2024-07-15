@@ -1,0 +1,7 @@
+https://api.github.com/repos/pwgit-create/APPWISH_OLLAMA
+https://api.github.com/repos/aratan/Netrunner_Ollama
+https://api.github.com/repos/ozi3ozi/langchain-ollama
+https://api.github.com/repos/buzhanhua/ollama_pdf_chat
+https://api.github.com/repos/ALERTua/air_raid_threat_reporter
+https://api.github.com/repos/cemayan/llm-manager
+https://api.github.com/repos/zenarcher007/AskAIWithSiri

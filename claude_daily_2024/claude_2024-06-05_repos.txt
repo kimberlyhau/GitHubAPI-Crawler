@@ -1,0 +1,6 @@
+https://api.github.com/repos/msorkhpar/Claude-senior-java-engineer
+https://api.github.com/repos/lucashenrichse/claudete
+https://api.github.com/repos/ventz/easy-llms
+https://api.github.com/repos/aws-east-ai/Bedrock-Claude-Deep-Dive-Workshop
+https://api.github.com/repos/AdrianoProfileAdsCloud/Bootcamp-Dio-Nexa-Fundamentos-de-IA-Generativa-e-Claude-3-O-uso-de-IA-em-Java
+https://api.github.com/repos/jeongkichang/rag_app

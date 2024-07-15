@@ -1,0 +1,7 @@
+https://api.github.com/repos/konztellation/claude
+https://api.github.com/repos/claudezion/claudezion
+https://api.github.com/repos/crypticpy/CodeClaude
+https://api.github.com/repos/crypticpy/AgenticClaude
+https://api.github.com/repos/House-lovers7/claude_api_dev
+https://api.github.com/repos/pdavis68/TalkBack
+https://api.github.com/repos/ThomasTSWD/AI_Everywhere

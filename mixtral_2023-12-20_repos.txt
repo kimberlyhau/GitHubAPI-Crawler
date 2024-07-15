@@ -1,0 +1,5 @@
+https://api.github.com/repos/run-llama/mixtral_ollama
+https://api.github.com/repos/hkproj/mistral-llm-notes
+https://api.github.com/repos/ezeeFlop/dolphin-mixtral
+https://api.github.com/repos/yangulei/Mixtral-8x7B
+https://api.github.com/repos/YetAnotherNotHacking/freedom-ai

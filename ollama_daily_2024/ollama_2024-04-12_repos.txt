@@ -1,0 +1,14 @@
+https://api.github.com/repos/Iwiii/OllamaAPI
+https://api.github.com/repos/PuuKala/OllamaPC_test
+https://api.github.com/repos/simegnew/ollama
+https://api.github.com/repos/DEENUU1/OpenNote
+https://api.github.com/repos/edwinyzh/Delphi-Ollama
+https://api.github.com/repos/wangjunneil/ollama-python
+https://api.github.com/repos/ParisaDarkhal/ollama-app
+https://api.github.com/repos/manuelbauche/flask-ollama
+https://api.github.com/repos/FranEspina/eval-ollama
+https://api.github.com/repos/lingdu2012/ram-chat-ollama
+https://api.github.com/repos/willxwu/springbootai
+https://api.github.com/repos/architector1324/ChatLLM
+https://api.github.com/repos/jouwdan/docs-chat
+https://api.github.com/repos/arafkarsh/ms-springboot-324-ai

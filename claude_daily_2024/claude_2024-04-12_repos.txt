@@ -1,0 +1,9 @@
+https://api.github.com/repos/claudemir10022008/claudemir10022008
+https://api.github.com/repos/nclaude250/claude_project
+https://api.github.com/repos/perfection1sta/lingo_claude
+https://api.github.com/repos/axeld5/wiki_win
+https://api.github.com/repos/BertranK/Gazua-Calculator
+https://api.github.com/repos/blackbeelabs/deepdive-retrieval-augmented-generation
+https://api.github.com/repos/Timothy102/youtube-to-blog
+https://api.github.com/repos/gabrielkoo/safeaws-cli
+https://api.github.com/repos/arafkarsh/ms-springboot-324-ai

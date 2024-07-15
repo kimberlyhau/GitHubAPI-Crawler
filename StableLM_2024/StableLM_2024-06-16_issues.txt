@@ -1,0 +1,6 @@
+https://api.github.com/repos/guinmoon/LLMFarm
+https://api.github.com/repos/jordimartos/text-generation-webui
+https://api.github.com/repos/nod-ai/SHARK-TestSuite
+https://api.github.com/repos/jiangsongtao/TinyMed
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/ggerganov/llama.cpp

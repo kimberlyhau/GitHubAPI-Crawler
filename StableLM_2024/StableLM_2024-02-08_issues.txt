@@ -1,0 +1,13 @@
+https://api.github.com/repos/mlc-ai/mlc-llm
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/mlc-ai/mlc-llm
+https://api.github.com/repos/acon96/home-llm
+https://api.github.com/repos/ARM-software/armnn
+https://api.github.com/repos/sotopia-lab/sotopia
+https://api.github.com/repos/fly51fly/aicoco
+https://api.github.com/repos/fly51fly/aicoco
+https://api.github.com/repos/mlc-ai/mlc-llm
+https://api.github.com/repos/huggingface/transformers
+https://api.github.com/repos/mlc-ai/mlc-llm
+https://api.github.com/repos/mlc-ai/mlc-llm
+https://api.github.com/repos/mlc-ai/mlc-llm

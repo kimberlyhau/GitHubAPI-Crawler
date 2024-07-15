@@ -1,0 +1,4 @@
+https://api.github.com/repos/Domains18/proactive_claude
+https://api.github.com/repos/gorredinesh21/claude_streamlit
+https://api.github.com/repos/sweetmvp24/AutoNovel
+https://api.github.com/repos/j3pathak7/permissionless

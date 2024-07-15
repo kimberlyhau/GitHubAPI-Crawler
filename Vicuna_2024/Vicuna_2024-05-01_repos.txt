@@ -1,0 +1,2 @@
+https://api.github.com/repos/SMARTSHEEP-IO/poc-uncensored-language-with-wizard-vicuna
+https://api.github.com/repos/mc-copilot/mc-vicuna-v2-7b

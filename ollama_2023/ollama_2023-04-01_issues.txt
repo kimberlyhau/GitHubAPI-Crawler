@@ -1,0 +1,9 @@
+https://api.github.com/repos/jacobsamo/Mixie
+https://api.github.com/repos/RealmKit/bot
+https://api.github.com/repos/sivalabs-bookstore/order-service-java-springboot
+https://api.github.com/repos/step-beyond/spring-boot-examples
+https://api.github.com/repos/yacosta738/quarkomment
+https://api.github.com/repos/stencila/stencila
+https://api.github.com/repos/ikovalyov/kotlin-blogpost-engine
+https://api.github.com/repos/piomin/sample-micronaut-jpa
+https://api.github.com/repos/ROCm/ROCm

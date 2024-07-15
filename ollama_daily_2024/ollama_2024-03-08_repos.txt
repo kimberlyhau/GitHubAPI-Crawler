@@ -1,0 +1,16 @@
+https://api.github.com/repos/yokingma/search_with_ai
+https://api.github.com/repos/ddkwork/ollamaGui
+https://api.github.com/repos/amanreddy77/ollama
+https://api.github.com/repos/wtcornel/ollamanator
+https://api.github.com/repos/siabard/ollama_rust
+https://api.github.com/repos/wharsojo/oh-ollama
+https://api.github.com/repos/lee-cha-dev/ollama_chat_app
+https://api.github.com/repos/mikaelholmgren/brev-ollama-starter
+https://api.github.com/repos/nevenc/ai-ollama-helloworld
+https://api.github.com/repos/Yousuf-Basir/langchain-js-ollama
+https://api.github.com/repos/Bafifi/Basic-Ollama-Discord-Bot
+https://api.github.com/repos/emersonbroga/railway-ollama-alpaca-ui
+https://api.github.com/repos/Ashufet/LangChain_ReAct-Agent-with-Function-Calling_Ollama-Gemma-LLM_LangSmith
+https://api.github.com/repos/davidfrisch/vv_cw_2
+https://api.github.com/repos/svjack/Genshin-Impact-BookQA-LLM
+https://api.github.com/repos/jaredgiosinuff/lvchat

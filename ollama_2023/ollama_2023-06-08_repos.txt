@@ -1,0 +1,3 @@
+https://api.github.com/repos/TirendazAcademy/LangChain-Tutorials
+https://api.github.com/repos/ls1intum/Pyris
+https://api.github.com/repos/anwar3606/ai-helper

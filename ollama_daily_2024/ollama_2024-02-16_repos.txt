@@ -1,0 +1,14 @@
+https://api.github.com/repos/intitni/CustomSuggestionServiceForCopilotForXcode
+https://api.github.com/repos/ThomasKirst/ollama-chat
+https://api.github.com/repos/SeanMcP/ollama-experiments
+https://api.github.com/repos/igormoreira-curve/ollama-cloud
+https://api.github.com/repos/bots-garden/ollama-langchain-samples
+https://api.github.com/repos/hi-im67xuanOuO/Ollama-ai-assistant
+https://api.github.com/repos/bhavishya-sahdev/ollama-discord-bot
+https://api.github.com/repos/alejandrocriolani/mi-ollama-ia
+https://api.github.com/repos/hi-im67xuanOuO/Ollama-yt-gpt
+https://api.github.com/repos/chimpwidablastuh/DockLlama
+https://api.github.com/repos/jellyterra/llamash
+https://api.github.com/repos/hamnarif/RAG-
+https://api.github.com/repos/jbarozet/LLM
+https://api.github.com/repos/boxabirds/proflict-tensorflowjs

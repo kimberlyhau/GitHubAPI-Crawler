@@ -1,0 +1,11 @@
+https://api.github.com/repos/gptscript-ai/claude3-bedrock-provider
+https://api.github.com/repos/gptscript-ai/claude3-provider-common
+https://api.github.com/repos/atiharox35/Claude
+https://api.github.com/repos/AdirthaBorgohain/reportAI
+https://api.github.com/repos/JahnaviVallabhapurapu/NLP-to-SQL-Using-vanna-and-claude3-ai
+https://api.github.com/repos/enqi996/Anthropic
+https://api.github.com/repos/joemunapo/art-website
+https://api.github.com/repos/mbilby/BootcampNexa-Desafio1
+https://api.github.com/repos/RCAS2021/DIO-NEXA
+https://api.github.com/repos/gbdutchboy88/AI
+https://api.github.com/repos/nikotang/patient-bird

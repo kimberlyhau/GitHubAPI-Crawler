@@ -1,0 +1,4 @@
+https://api.github.com/repos/ku-nlp/ja-vicuna-qa-benchmark
+https://api.github.com/repos/poe-platform/vicuna-13b-v1.5-bot
+https://api.github.com/repos/AliaXueting/fastchat-Vicuna-Langchain-Modif_KnowledgeBase
+https://api.github.com/repos/knowledge-ukraine/medlocalgpt

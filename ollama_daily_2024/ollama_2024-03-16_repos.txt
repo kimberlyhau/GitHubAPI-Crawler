@@ -1,0 +1,17 @@
+https://api.github.com/repos/deeepsig/rag-ollama
+https://api.github.com/repos/datvodinh/rag-chatbot
+https://api.github.com/repos/knoopx/ollamark
+https://api.github.com/repos/iamPrashanta/ollamaLocalGPT
+https://api.github.com/repos/Harish-Explores/ollama
+https://api.github.com/repos/Victordeleusse/Local_LLM_with_RAG
+https://api.github.com/repos/safernandez666/ollama-basic
+https://api.github.com/repos/jacobdineen/run_ollama
+https://api.github.com/repos/WilliamKarolDiCioccio/MyDiscordBot
+https://api.github.com/repos/olederle/ollama-playground
+https://api.github.com/repos/woueziou/ollama_ui
+https://api.github.com/repos/zizzerzazzerzuzz/ollama-fallback-skill
+https://api.github.com/repos/survivor-zik/sales-ollama-langchain
+https://api.github.com/repos/ecrespo/fastapi_ollama_langchain
+https://api.github.com/repos/Cihangir-K/Voice_assistant
+https://api.github.com/repos/AjdinMasic-code/Llama2Communicator
+https://api.github.com/repos/deeepsig/query-translation

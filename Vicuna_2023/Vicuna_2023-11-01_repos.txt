@@ -1,0 +1,2 @@
+https://api.github.com/repos/keitazoumana/Vicuna-FastAPI
+https://api.github.com/repos/CesarChaMal/Wizard-Vicuna-30B-Uncensored-GPTQ

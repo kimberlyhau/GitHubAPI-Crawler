@@ -1,0 +1,6 @@
+https://api.github.com/repos/TypingMind/typingmind
+https://api.github.com/repos/aws-samples/conversational-ai-assistant-multi-route-chain
+https://api.github.com/repos/claudemir1809/claudemir1809
+https://api.github.com/repos/Murwanashyaka07888/claude-p
+https://api.github.com/repos/absynthe/bedrock-langchain-claude
+https://api.github.com/repos/tddworks/openai-kotlin

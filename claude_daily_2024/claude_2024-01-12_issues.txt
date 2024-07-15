@@ -1,0 +1,13 @@
+https://api.github.com/repos/Zahra-k-b/Coursework-Planner
+https://api.github.com/repos/epam/ai-dial-adapter-bedrock
+https://api.github.com/repos/engineervix/cookiecutter-wagtail-vix
+https://api.github.com/repos/guardrails-ai/guardrails
+https://api.github.com/repos/awsdocs/aws-doc-sdk-examples
+https://api.github.com/repos/xtekky/gpt4free
+https://api.github.com/repos/kujian/githubTrending
+https://api.github.com/repos/kimkihoon0515/mlops_crawling
+https://api.github.com/repos/xtekky/gpt4free
+https://api.github.com/repos/opensearch-project/skills
+https://api.github.com/repos/fmhy/FMHYedit
+https://api.github.com/repos/JanjaProgrammers/Certification_Repo
+https://api.github.com/repos/Timothy023/RLMEC

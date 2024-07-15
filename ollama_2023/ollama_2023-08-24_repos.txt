@@ -1,0 +1,10 @@
+https://api.github.com/repos/jpmcb/nvim-llama
+https://api.github.com/repos/kacesensitive/ollama-discord
+https://api.github.com/repos/JerrySievert/Dumbar
+https://api.github.com/repos/dcSpark/shinkai-apps
+https://api.github.com/repos/xNul/code-llama-for-vscode
+https://api.github.com/repos/marco-souza/ollero.nvim
+https://api.github.com/repos/f0rodo/react-ollama
+https://api.github.com/repos/carolinedlu/ollama-streamlit
+https://api.github.com/repos/lori-assistant/frontend
+https://api.github.com/repos/Inknyto/ggml-alpaca-api

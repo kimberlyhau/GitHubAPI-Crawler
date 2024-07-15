@@ -1,0 +1,17 @@
+https://api.github.com/repos/LucasAschenbach/prompster
+https://api.github.com/repos/xxxily/hello-ai
+https://api.github.com/repos/Lin-Rexter/AI_Hub_Discord-Bot
+https://api.github.com/repos/KenTandrian/ai-image-generator
+https://api.github.com/repos/oxtyped/easygemini
+https://api.github.com/repos/R0b0tRob/Gemini
+https://api.github.com/repos/EricaBackman/GEMINI
+https://api.github.com/repos/paul88543/gemini
+https://api.github.com/repos/Strawberry57/GeminiDS
+https://api.github.com/repos/Makiss001/makiss
+https://api.github.com/repos/Gemini284/https---github.com-Gemini284-Diseno_Arquitectura
+https://api.github.com/repos/okoundi/gemini-django
+https://api.github.com/repos/antelope0606/gemini-ant
+https://api.github.com/repos/mike1973hall/Gemini-Sandbox-Buy-Order
+https://api.github.com/repos/mike1973hall/Gemini-Ticker-Data-Retrival
+https://api.github.com/repos/ConsueloAN/Alopeke
+https://api.github.com/repos/grantshandy/gemway

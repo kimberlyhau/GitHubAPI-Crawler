@@ -1,0 +1,17 @@
+https://api.github.com/repos/kicc-akdb-de/terraform-provider-ollama
+https://api.github.com/repos/Thomas-Selin/BTH-Machine-learning-engineering-project-Group-2
+https://api.github.com/repos/Vali-98/ChatterUI
+https://api.github.com/repos/huggingface/optimum-intel
+https://api.github.com/repos/krassowski/jupyterlab-transformers-completer
+https://api.github.com/repos/nod-ai/SHARK-TestSuite
+https://api.github.com/repos/BAAI-DCAI/Bunny
+https://api.github.com/repos/mybigday/llama.rn
+https://api.github.com/repos/Omochice/dotfiles
+https://api.github.com/repos/ollama/ollama-python
+https://api.github.com/repos/pytorch/executorch
+https://api.github.com/repos/intel/auto-round
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/PKU-YuanGroup/MoE-LLaVA
+https://api.github.com/repos/intel/neural-speed
+https://api.github.com/repos/intel-analytics/ipex-llm
+https://api.github.com/repos/LlamaEdge/rag-api-server

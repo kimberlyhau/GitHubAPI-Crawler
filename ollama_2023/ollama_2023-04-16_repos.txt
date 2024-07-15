@@ -1,0 +1,2 @@
+https://api.github.com/repos/magols/BlazorGPT
+https://api.github.com/repos/jorge-menjivar/unsaged

@@ -1,0 +1,1 @@
+https://api.github.com/repos/lucataco/cog-stablelm-2-1_6b

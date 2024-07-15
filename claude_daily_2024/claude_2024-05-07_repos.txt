@@ -1,0 +1,10 @@
+https://api.github.com/repos/Doriandarko/opus-interpreter
+https://api.github.com/repos/Samuelnikhade/Claude-3-Code
+https://api.github.com/repos/vijjunyros/cron-claudeo-talis-irwin
+https://api.github.com/repos/aws-samples/whats-new-summary-notifier
+https://api.github.com/repos/kkkunny/free-llm-collect
+https://api.github.com/repos/egodevrjm/Cosmic-Trader
+https://api.github.com/repos/ObiAU/SynThesis
+https://api.github.com/repos/ElodineOfficial/Grimoire
+https://api.github.com/repos/HuwanStudios/text-generation-ai-app
+https://api.github.com/repos/tetracontinental/tokyo_dome

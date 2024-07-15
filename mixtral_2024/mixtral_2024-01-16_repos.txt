@@ -1,0 +1,8 @@
+https://api.github.com/repos/HIT-SCIR/Chinese-Mixtral-8x7B
+https://api.github.com/repos/clAient/mixtralGPT4WebExtractor
+https://api.github.com/repos/inferless/Mixtral-echo
+https://api.github.com/repos/AadiXC0DE/Mixtral_test
+https://api.github.com/repos/rbgo404/Tryecho-Mixtral-echo
+https://api.github.com/repos/Hrishikesh332/Mixtral-0x
+https://api.github.com/repos/learner-crapy/LLMs-FineTuning
+https://api.github.com/repos/grejdi/transcription_service

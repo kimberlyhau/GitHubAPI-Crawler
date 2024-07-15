@@ -1,0 +1,17 @@
+https://api.github.com/repos/if-ai/ComfyUI-IF_AI_tools
+https://api.github.com/repos/mubbasherahmad/Dynamic-Web-Scraper-Using-Crew-AI-and-Ollama
+https://api.github.com/repos/almazkun/omo
+https://api.github.com/repos/anandvad/ollama-rag
+https://api.github.com/repos/Levtain/ollama_plugin
+https://api.github.com/repos/itk-ai/ollama-docker
+https://api.github.com/repos/semenovfilipp/ollama-service
+https://api.github.com/repos/SurrajKumar2000/Code-Assistant-Ollama
+https://api.github.com/repos/yogeshl/ollama-codelama-codeassistant
+https://api.github.com/repos/m4rv4x/fregate
+https://api.github.com/repos/testwareai/expose_ollama_port
+https://api.github.com/repos/jaifar530/ollama-instances-manager
+https://api.github.com/repos/vishnusureshperumbavoor/full-stack-ollama-speech-to-text
+https://api.github.com/repos/puffinjiang/openwebui-deploy
+https://api.github.com/repos/qsliu2017/gitq
+https://api.github.com/repos/billwparker/research_assistant
+https://api.github.com/repos/FlareXes/homelab

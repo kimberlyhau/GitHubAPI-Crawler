@@ -1,0 +1,9 @@
+https://api.github.com/repos/edub008/ollama-nodejs
+https://api.github.com/repos/justinmills/vanna-db-explorer
+https://api.github.com/repos/jsacapdev/ollama.play
+https://api.github.com/repos/Ireoo/ollama-desktop
+https://api.github.com/repos/The1one1/ollama-project
+https://api.github.com/repos/FrostPrice/ai-ollama
+https://api.github.com/repos/saeed9321/ollama-basic-chat
+https://api.github.com/repos/akkky02/Nomic_RAG_Langchain
+https://api.github.com/repos/brianlugo1/Llama-2-Crime-Analysis

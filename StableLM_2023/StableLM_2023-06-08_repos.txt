@@ -1,0 +1,2 @@
+https://api.github.com/repos/douglas-reid/replicate-stablelm-tuned-alpha-7b
+https://api.github.com/repos/sahil280114/serverless-template-stableLM

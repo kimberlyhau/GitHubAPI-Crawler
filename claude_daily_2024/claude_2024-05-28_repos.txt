@@ -1,0 +1,7 @@
+https://api.github.com/repos/Hioness/claude-stuff
+https://api.github.com/repos/dgarrid/analizador-trabajos-claude
+https://api.github.com/repos/Ditectrev/CloudMaster-Swift
+https://api.github.com/repos/mitch7w/ai-video-editor
+https://api.github.com/repos/furkankyildirim/anthropic-fastapi-service
+https://api.github.com/repos/0xDaizz/SRT-ts
+https://api.github.com/repos/prajjwal2-3/Roadmap.ai

@@ -1,0 +1,17 @@
+https://api.github.com/repos/pymedphys/pymedphys
+https://api.github.com/repos/SicariusSicariiStuff/Diffusion_TTS
+https://api.github.com/repos/rany2/edge-tts
+https://api.github.com/repos/brave/brave-core
+https://api.github.com/repos/ninjulia/becausejulia
+https://api.github.com/repos/build-on-aws/python-fm-playground
+https://api.github.com/repos/ClaudeWittebron/mongoose
+https://api.github.com/repos/sourcegraph/cody
+https://api.github.com/repos/abi/screenshot-to-code
+https://api.github.com/repos/Quansight/ragna
+https://api.github.com/repos/ChuckFork/github-daily
+https://api.github.com/repos/chathub-dev/chathub
+https://api.github.com/repos/yegor256/rehttp
+https://api.github.com/repos/BerriAI/litellm
+https://api.github.com/repos/deepset-ai/haystack-core-integrations
+https://api.github.com/repos/yegor256/s3auth
+https://api.github.com/repos/RobbyRed98/bedrock-claude-chat-rag

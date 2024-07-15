@@ -1,0 +1,10 @@
+https://api.github.com/repos/haotian-liu/LLaVA
+https://api.github.com/repos/Ditto190/langchain
+https://api.github.com/repos/hayleyson/salesPilot
+https://api.github.com/repos/salesforce/LAVIS
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/pAkalpa/Prescription-Extraction-API
+https://api.github.com/repos/InvisibleSymbol/rocketwatch
+https://api.github.com/repos/artunboz/bachelor-research
+https://api.github.com/repos/onysakura/news-daily
+https://api.github.com/repos/codecrunchers/agent-fw

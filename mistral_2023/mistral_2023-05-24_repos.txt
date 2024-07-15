@@ -1,0 +1,7 @@
+https://api.github.com/repos/floneum/floneum
+https://api.github.com/repos/hiyouga/LLaMA-Factory
+https://api.github.com/repos/vercel/modelfusion
+https://api.github.com/repos/GabrielaaMistral/GabrielaaMistral.github.io
+https://api.github.com/repos/rajsahilcoder/Mistral_HACK3
+https://api.github.com/repos/infphyny/nextpnr-mistral-bram-issue
+https://api.github.com/repos/latestissue/AltaeraAI

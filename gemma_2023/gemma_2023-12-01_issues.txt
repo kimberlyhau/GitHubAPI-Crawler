@@ -1,0 +1,9 @@
+https://api.github.com/repos/UCLOrengoGroup/eMMA
+https://api.github.com/repos/PavlidisLab/ermineR
+https://api.github.com/repos/GemmaGarrigosa/M07_UF2
+https://api.github.com/repos/TomographicImaging/CIL
+https://api.github.com/repos/mikf/gallery-dl
+https://api.github.com/repos/open-zaak/open-zaak
+https://api.github.com/repos/icl-utk-edu/slate
+https://api.github.com/repos/tinygo-org/tinygo
+https://api.github.com/repos/ersilia-os/ersilia

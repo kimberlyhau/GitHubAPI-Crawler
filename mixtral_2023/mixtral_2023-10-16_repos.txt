@@ -1,0 +1,3 @@
+https://api.github.com/repos/helixml/helix
+https://api.github.com/repos/robertZaufall/mindmanager_ai
+https://api.github.com/repos/fgtrzah/llmrfcpoc

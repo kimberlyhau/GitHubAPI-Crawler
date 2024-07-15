@@ -1,0 +1,5 @@
+https://api.github.com/repos/Vettochka1/claude-monet
+https://api.github.com/repos/Kolger/forty-two
+https://api.github.com/repos/philipkang/imageUclaude
+https://api.github.com/repos/EveryOneIsGross/digitalSHEEP
+https://api.github.com/repos/datariders/SATPrepAssistant

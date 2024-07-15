@@ -1,0 +1,1 @@
+https://api.github.com/repos/luizamboni/vicuna-on-aws

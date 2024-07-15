@@ -1,0 +1,9 @@
+https://api.github.com/repos/taketwo/llm-ollama
+https://api.github.com/repos/Iceber/wasmcloud-ollama
+https://api.github.com/repos/yeahdongcn/OllamaStack
+https://api.github.com/repos/charyan/osh
+https://api.github.com/repos/ecdedios/resume-chatbot-local-llm
+https://api.github.com/repos/Purfakt/ollama-slint
+https://api.github.com/repos/saivarunk/ollama-meilisearch-starter
+https://api.github.com/repos/TheZero0-ctrl/explore-ollama-rs
+https://api.github.com/repos/marcelreschke/lms2ollama

@@ -1,0 +1,4 @@
+https://api.github.com/repos/GemmaTurner-Gearset/Gemma-Pipelines
+https://api.github.com/repos/acc-cosc-1337-spring-2023/course-GemMaster11
+https://api.github.com/repos/spankykopita/rgb_rings
+https://api.github.com/repos/spankykopita/rgb_rings_arduino

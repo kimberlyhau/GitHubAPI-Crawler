@@ -1,0 +1,13 @@
+https://api.github.com/repos/kijai/ComfyUI-SUPIR
+https://api.github.com/repos/sunner/ChatALL
+https://api.github.com/repos/facebookresearch/nougat
+https://api.github.com/repos/Yukeaaa/arxiv-daily
+https://api.github.com/repos/ChatLunaLab/chatluna
+https://api.github.com/repos/josStorer/chatGPTBox
+https://api.github.com/repos/sknuth/PhiloBac-Boost
+https://api.github.com/repos/pig-mesh/pig
+https://api.github.com/repos/JonathansManoel/Curso-Django
+https://api.github.com/repos/kujian/githubTrending
+https://api.github.com/repos/open-webui/open-webui
+https://api.github.com/repos/BerriAI/litellm
+https://api.github.com/repos/lupantech/MathVista

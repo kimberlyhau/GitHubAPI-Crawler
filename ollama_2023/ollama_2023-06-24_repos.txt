@@ -1,0 +1,5 @@
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/dcSpark/shinkai-node
+https://api.github.com/repos/llm-tools/embedJs
+https://api.github.com/repos/sedwards2009/llm-multitool
+https://api.github.com/repos/Faris-abukhader/faris-social

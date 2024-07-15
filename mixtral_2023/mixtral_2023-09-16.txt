@@ -1,0 +1,6 @@
+https://api.github.com/repos/huggingface/transformers
+https://api.github.com/repos/meta-math/MetaMath
+https://api.github.com/repos/fcxmarquez/enki-ai
+https://api.github.com/repos/microsoft/lida
+https://api.github.com/repos/eth-sri/lmql
+https://api.github.com/repos/sozercan/aikit

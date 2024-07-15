@@ -1,0 +1,9 @@
+https://api.github.com/repos/enoch1118/ollamaGUI
+https://api.github.com/repos/agents-flex/agents-flex
+https://api.github.com/repos/KennyRich/ollama-python
+https://api.github.com/repos/SimonCW/ollama-rag-rs
+https://api.github.com/repos/iamaziz/mini_RAG_LLM
+https://api.github.com/repos/mabuonomo/ollama_langchain_qa
+https://api.github.com/repos/marklysze/LangChain-RAG-Linux
+https://api.github.com/repos/ProductionPanic/gpterm
+https://api.github.com/repos/mindinputtools/ScreenTest

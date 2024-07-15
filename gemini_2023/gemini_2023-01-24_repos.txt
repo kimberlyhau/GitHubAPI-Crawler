@@ -1,0 +1,17 @@
+https://api.github.com/repos/appatalks/chatgpt-html
+https://api.github.com/repos/ruankie/ecrivai
+https://api.github.com/repos/anthonydefine/GeminiWebsite
+https://api.github.com/repos/MistrBrend/GeminiProject
+https://api.github.com/repos/Shelby86/GeminiMobileUIAutomation
+https://api.github.com/repos/nupur11-del/gemini-git
+https://api.github.com/repos/SqualoGrigio/Gemini_GNC
+https://api.github.com/repos/matosr96/gemini-frontend
+https://api.github.com/repos/RaRahpl/gadis-Gemini-HPL
+https://api.github.com/repos/webmural/pascal
+https://api.github.com/repos/T-Pirozzini/Gemini-Landscaping-Flutter-App
+https://api.github.com/repos/karolkurek/kernel-gemini-binder-backport
+https://api.github.com/repos/orgTestCodacy11KRepos110MB/repo-8616-openGemini
+https://api.github.com/repos/Gemini-Mao/gemini-devops.github.io
+https://api.github.com/repos/tgeek77/molly-brown-docker
+https://api.github.com/repos/webmural/allele
+https://api.github.com/repos/KyaraDeWinter/ChillOrb

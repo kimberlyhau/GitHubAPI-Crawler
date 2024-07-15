@@ -1,0 +1,8 @@
+https://api.github.com/repos/anlinguist/claudeTesting
+https://api.github.com/repos/aqiao/claude3-demo
+https://api.github.com/repos/caitq2024/chatbot_claude
+https://api.github.com/repos/htuerker/claude-3-assistants
+https://api.github.com/repos/ehzawad/claude_api_stream
+https://api.github.com/repos/HosonoDE/EasyAI-PHP
+https://api.github.com/repos/malengatiger/resume_optimizer
+https://api.github.com/repos/jonathanhawleypeters/useful-writing

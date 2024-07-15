@@ -1,0 +1,7 @@
+https://api.github.com/repos/adityabh2007/Claude-GPT-API
+https://api.github.com/repos/cosmicjoke1/claudeonTG
+https://api.github.com/repos/preddy727/Claude3_Bedrock_OCR
+https://api.github.com/repos/boxabirds/summariser-golang-claude
+https://api.github.com/repos/iamkhadka46/PDF-Chatbot-using-AWS-Bedrock--Claude--llama2
+https://api.github.com/repos/albvieiraa/desafio-dio-nexa
+https://api.github.com/repos/tandia-pe/bedrock-pr-reviewer

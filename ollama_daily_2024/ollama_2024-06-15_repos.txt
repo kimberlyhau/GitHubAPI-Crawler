@@ -1,0 +1,16 @@
+https://api.github.com/repos/MX-Goliath/MoA-Ollama
+https://api.github.com/repos/Darthph0enix7/Langchain_Metadata_Extraction_OllamaTemplate
+https://api.github.com/repos/farsoomrohan/ollamadreammachinesetup
+https://api.github.com/repos/Saksham1387/Streamlit-ollama
+https://api.github.com/repos/binodmx/ollama-chat
+https://api.github.com/repos/longbin-chen/ollama-lancedb-rag
+https://api.github.com/repos/AriC-21/RAG-with-Ollama
+https://api.github.com/repos/dabidstudio/ollama-streamlit-translator
+https://api.github.com/repos/back2nix/ollama-web-ui-with-cuda
+https://api.github.com/repos/pnt2005/rag-with-ollama-weaviate
+https://api.github.com/repos/Shital16-hub/Chatbot_langchain_ollama_llama2
+https://api.github.com/repos/sxmxc/friendly-bassoon
+https://api.github.com/repos/The-Ofek-Foundation/o
+https://api.github.com/repos/Cleboost/Commit-IA
+https://api.github.com/repos/agnivchtj/python_rag_app
+https://api.github.com/repos/g-hano/Chat2Docs-Mistral-7B-Instruct-v0.3

@@ -1,0 +1,2 @@
+https://api.github.com/repos/tom05121998/GEN-AI-Project-for-Text-Generation-and-Image-Generation
+https://api.github.com/repos/brian09088/AWS_AI_Cloudflare_workshop

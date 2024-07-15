@@ -1,0 +1,5 @@
+https://api.github.com/repos/format37/claude
+https://api.github.com/repos/FacundoMajda/claude_integration
+https://api.github.com/repos/noampdut/Deep-Learning-Monet-Style-Image-Generation
+https://api.github.com/repos/ashercn97/AutoChat
+https://api.github.com/repos/yuto-moriizumi/langchain-example

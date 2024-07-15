@@ -1,0 +1,4 @@
+https://api.github.com/repos/searxng/searxng
+https://api.github.com/repos/PygmalionOfCyprus/cmo-db-requests
+https://api.github.com/repos/osism/release
+https://api.github.com/repos/woctezuma/steam-descriptions

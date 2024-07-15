@@ -1,0 +1,2 @@
+https://api.github.com/repos/promethee-agency/exposition_camille_claudel
+https://api.github.com/repos/promptpanel/promptpanel

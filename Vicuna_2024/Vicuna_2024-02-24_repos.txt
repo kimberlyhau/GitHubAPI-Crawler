@@ -1,0 +1,3 @@
+https://api.github.com/repos/tech-tatsuma/vicuna-googlecolab
+https://api.github.com/repos/mc-copilot/mc-vicuna-v1-7b
+https://api.github.com/repos/redbrain/FastChat

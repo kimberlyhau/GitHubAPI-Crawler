@@ -1,0 +1,10 @@
+https://api.github.com/repos/philikai/MetaPrompter_Claude_bedrock
+https://api.github.com/repos/Claudeir14/Claudeir14
+https://api.github.com/repos/lihao78999/claudeai-eng
+https://api.github.com/repos/LeoFVG/Discord-Claude-Bot-Project
+https://api.github.com/repos/samestrin/claude-to-chatgpt-netlify
+https://api.github.com/repos/Claude-Blanchet-Babin/Claude_Blanchet_Babin_UE5
+https://api.github.com/repos/alan-kmathew/ACS-2024-Comparative-Analysis-Gemini-1.5-Vs-Claude-3-Sonnet
+https://api.github.com/repos/unfunco/anthropic-sdk-go
+https://api.github.com/repos/lopins/api-proxy
+https://api.github.com/repos/hongshu91/chatgpt4

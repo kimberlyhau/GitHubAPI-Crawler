@@ -1,0 +1,6 @@
+https://api.github.com/repos/sachink1729/Finetuning-Mistral-7B-Chat-Doctor-Huggingface-LoRA-PEFT
+https://api.github.com/repos/sre-consulting/mistral-chat
+https://api.github.com/repos/peterbonnesoeur/Test_mistral_chat
+https://api.github.com/repos/kumarshankar/mistral_llm_based_classifier
+https://api.github.com/repos/hoblin/ChatMist
+https://api.github.com/repos/stephenc222/example-mixtral-8x7B-vector-search-tool

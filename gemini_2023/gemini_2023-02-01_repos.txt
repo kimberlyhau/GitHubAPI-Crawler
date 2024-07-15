@@ -1,0 +1,12 @@
+https://api.github.com/repos/F33RNI/GPT-Telegramus
+https://api.github.com/repos/s097t0r1/geminio-kotlin-dsl
+https://api.github.com/repos/jbrowni2/geminiAnalysis
+https://api.github.com/repos/gemini1040/gemini1040.github.io
+https://api.github.com/repos/thismlguy/geminio
+https://api.github.com/repos/abhishekshandilyaofficial/geminitrail
+https://api.github.com/repos/FloresAlejo/GEMINI_STORE
+https://api.github.com/repos/tsingmuhe/gemini-admin
+https://api.github.com/repos/YtvwlD/hyde-gemini
+https://api.github.com/repos/Mistergemini/Mr.-Gemini
+https://api.github.com/repos/Adxnis/vscode-gemini-theme
+https://api.github.com/repos/StickmanI/Assay_file_update

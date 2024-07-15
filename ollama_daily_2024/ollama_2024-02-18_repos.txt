@@ -1,0 +1,10 @@
+https://api.github.com/repos/mmo80/alpaca-webui
+https://api.github.com/repos/kubephil/ollama-playground
+https://api.github.com/repos/vonglasow/shellai
+https://api.github.com/repos/vishnusureshperumbavoor/ollama_experiments
+https://api.github.com/repos/hexdump42/ollama_cli
+https://api.github.com/repos/virtualstaticvoid/asdf-ollama
+https://api.github.com/repos/subrockmann/RAG-langchain-ollama
+https://api.github.com/repos/fgtortosa/langchain-ollama-javascript
+https://api.github.com/repos/ynnckth/local-llm
+https://api.github.com/repos/gkvoelkl/python-geochat

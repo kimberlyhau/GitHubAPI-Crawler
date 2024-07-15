@@ -1,0 +1,2 @@
+https://api.github.com/repos/habiboy7/Claude
+https://api.github.com/repos/paulofreitas-py/Bootcamp-Nexa-IA-Generativa-e-Claude-3

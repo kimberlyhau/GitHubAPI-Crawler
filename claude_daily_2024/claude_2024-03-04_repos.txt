@@ -1,0 +1,4 @@
+https://api.github.com/repos/simonw/llm-claude-3
+https://api.github.com/repos/RMNCLDYO/claude-ai-toolkit
+https://api.github.com/repos/g-hano/Anthropic-Claude-Function-Calling
+https://api.github.com/repos/robbiebowman/claude-jvm-sdk

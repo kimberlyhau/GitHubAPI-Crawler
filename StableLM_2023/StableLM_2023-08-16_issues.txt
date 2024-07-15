@@ -1,0 +1,8 @@
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/nqdior/text-generation-webui
+https://api.github.com/repos/aws-samples/aws-ml-jp
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/huggingface/huggingface_hub
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/Lightning-AI/litgpt

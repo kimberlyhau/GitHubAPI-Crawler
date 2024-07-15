@@ -1,0 +1,13 @@
+https://api.github.com/repos/inulute/ai-gate
+https://api.github.com/repos/vacuityv/bob-plugin-vac-gptranslate
+https://api.github.com/repos/DataMarksman/Gemini
+https://api.github.com/repos/huowrs16dwk/gemini
+https://api.github.com/repos/captaintouch/palmGemPlucker
+https://api.github.com/repos/ashraf-gemini/ashraf-gemini
+https://api.github.com/repos/W-H-I-T-E-X/local_gemini
+https://api.github.com/repos/chen19991212/gemini-datasource
+https://api.github.com/repos/yuu-eguci/django-nuxt-gemini
+https://api.github.com/repos/FerrandN/TestCapGemini
+https://api.github.com/repos/patrik-martinko/addon-gemini-ai-query
+https://api.github.com/repos/FacqueurGatien/EntretientDesignPatternCapGemini
+https://api.github.com/repos/Boira11/appLeague-PractiquesCapGemini

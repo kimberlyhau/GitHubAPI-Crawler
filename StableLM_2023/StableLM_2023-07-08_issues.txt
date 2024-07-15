@@ -1,0 +1,6 @@
+https://api.github.com/repos/mlc-ai/web-llm
+https://api.github.com/repos/Stability-AI/lm-evaluation-harness
+https://api.github.com/repos/Stability-AI/lm-evaluation-harness
+https://api.github.com/repos/ml-energy/leaderboard
+https://api.github.com/repos/yuchenlin/LLM-Blender
+https://api.github.com/repos/elixir-nx/ortex

@@ -1,0 +1,16 @@
+https://api.github.com/repos/chigkim/Ollama-MMLU-Pro
+https://api.github.com/repos/rapidarchitect/ollama_mesop
+https://api.github.com/repos/yadavadit/ollama
+https://api.github.com/repos/Sandy177000/react-ollama
+https://api.github.com/repos/leinodev/ollama-docker
+https://api.github.com/repos/Tanmoy-Santra/Ollama-Openchat
+https://api.github.com/repos/nodelike/react-ollama
+https://api.github.com/repos/and2long/chatbot_ui_flutter
+https://api.github.com/repos/ChinmayDharwad24/Ollama-Model-Setup
+https://api.github.com/repos/adityamehta35/Locally_Run_Ollama
+https://api.github.com/repos/chibua-emmanuel/Setting-Up-Ollama-Locally
+https://api.github.com/repos/tomaszrymaszewski/Timeline-from-text-input-ollama-
+https://api.github.com/repos/nicklansley/ollama_two_AI_chatbots_converse
+https://api.github.com/repos/xJeffxx/FirstLLMbot
+https://api.github.com/repos/ariya/query-llm
+https://api.github.com/repos/abhijitchavda/TextToSQL

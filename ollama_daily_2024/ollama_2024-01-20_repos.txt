@@ -1,0 +1,6 @@
+https://api.github.com/repos/tgraupmann/WinForm_Ollama_Copilot
+https://api.github.com/repos/kborovik/llmdoc
+https://api.github.com/repos/RohanRusta21/docker-ollama
+https://api.github.com/repos/johnongit/OllamAMAPDF
+https://api.github.com/repos/jbautistam/Bau.Ollama.Api
+https://api.github.com/repos/PaulSZH95/serve_ollama_as_restapi

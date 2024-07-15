@@ -1,0 +1,17 @@
+https://api.github.com/repos/entropy-research/Devon
+https://api.github.com/repos/GeekyWizKid/OllamaLabJournals
+https://api.github.com/repos/yilongzhou/ollama
+https://api.github.com/repos/rayed-therap/llamachain
+https://api.github.com/repos/tabletuser-blogspot/ollama-aliases
+https://api.github.com/repos/tabletuser-blogspot/Quick-Ollama-benchmark
+https://api.github.com/repos/AnubhavGupta11/CodeLamma
+https://api.github.com/repos/anitalakhadze/springai-ollama-demo
+https://api.github.com/repos/aashishd/rag_with_ollama
+https://api.github.com/repos/faizalrub-datastax/rag-workshop-ollama-mistral
+https://api.github.com/repos/jack4world/chat_with-documents_using_ollama
+https://api.github.com/repos/YanSte/NLP-RAG-LLamaIndex-Ollama-Auto-Merging-Retrieval
+https://api.github.com/repos/pehrs/langchain4j-local-rag-sample
+https://api.github.com/repos/tabletuser-blogspot/super-mega-aliases
+https://api.github.com/repos/xup65k6t6/NOC_search_RAG
+https://api.github.com/repos/tabletuser-blogspot/ROCm_Docker_installer
+https://api.github.com/repos/coding-net-cloud-studio/w37_c06_gradio_wmtest

@@ -1,0 +1,3 @@
+https://api.github.com/repos/wuzhenhuo/bedrock-claude-chat3
+https://api.github.com/repos/devsolux/ai-solux-releases
+https://api.github.com/repos/swethag04/cafe-chat-bot

@@ -1,0 +1,5 @@
+https://api.github.com/repos/georgienees/Vicuna-Python-wrapper
+https://api.github.com/repos/ronniewang1987/vicuna_api_parameters
+https://api.github.com/repos/gbaptista/ollama-ai
+https://api.github.com/repos/icebaker/obsidian-nano-bots
+https://api.github.com/repos/RatanJN/LLM_Model_Resource_Consumption_Comparison

@@ -1,0 +1,17 @@
+https://api.github.com/repos/togethercomputer/MoA
+https://api.github.com/repos/josStorer/chatGPTBox
+https://api.github.com/repos/LucasAschenbach/prompster
+https://api.github.com/repos/InvisibleSymbol/rocketwatch
+https://api.github.com/repos/vercel/ai
+https://api.github.com/repos/elhaddajiOtmane/aider
+https://api.github.com/repos/promptfoo/promptfoo
+https://api.github.com/repos/Parik27/DragonFF
+https://api.github.com/repos/continuedev/continue
+https://api.github.com/repos/tridactyl/tridactyl
+https://api.github.com/repos/danny-avila/LibreChat
+https://api.github.com/repos/dust-tt/dust
+https://api.github.com/repos/paul-gauthier/aider
+https://api.github.com/repos/SillyTavern/SillyTavern
+https://api.github.com/repos/sourcegraph/cody
+https://api.github.com/repos/traceloop/openllmetry
+https://api.github.com/repos/OpenDevin/OpenDevin

@@ -1,0 +1,3 @@
+https://api.github.com/repos/rekayno/claude-api
+https://api.github.com/repos/pocrca/mcq_claude
+https://api.github.com/repos/ClauDeliveryQA/ClauDeliveryQA

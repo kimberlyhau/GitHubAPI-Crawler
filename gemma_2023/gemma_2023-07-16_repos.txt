@@ -1,0 +1,3 @@
+https://api.github.com/repos/kesamet/retrieval-augmented-generation
+https://api.github.com/repos/magnephoria/gemma
+https://api.github.com/repos/VNG-Realisatie/GEMMA-kennismodel-Archi-repository

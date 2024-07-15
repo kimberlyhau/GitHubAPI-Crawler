@@ -1,0 +1,17 @@
+https://api.github.com/repos/ollama-cloud/get-started
+https://api.github.com/repos/ai-in-pm/StorybooksCrewAI-Groq
+https://api.github.com/repos/kirillzhosul/ollama-telegram-ai
+https://api.github.com/repos/Faywyn/llama-copilot.nvim
+https://api.github.com/repos/apoStyLEE/nuxt-ollama-chat
+https://api.github.com/repos/raphaelmansuy/hiramu
+https://api.github.com/repos/ProustAI/proustai
+https://api.github.com/repos/litrane/ollama
+https://api.github.com/repos/arjunrao87/ollama-llamaparse
+https://api.github.com/repos/h4ckm1n-dev/nvim-ollama
+https://api.github.com/repos/naolson2025/ollama-langchain
+https://api.github.com/repos/BloxyLabs/Ollama-Pi
+https://api.github.com/repos/bots-garden/ollama-deepseek-coder
+https://api.github.com/repos/naolson2025/ollama-langchain-js
+https://api.github.com/repos/mili-tan/Onllama
+https://api.github.com/repos/Louw123/gpt4chan-ollama
+https://api.github.com/repos/lestan/web-vector-storage

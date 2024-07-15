@@ -1,0 +1,3 @@
+https://api.github.com/repos/RaoulDrake/vis_chat
+https://api.github.com/repos/elphinkuo/dense_sparse_quant_hessian
+https://api.github.com/repos/Amelghz/internship2023-FinansyaChatbot

@@ -1,0 +1,2 @@
+https://api.github.com/repos/embeddings-benchmark/mteb
+https://api.github.com/repos/geometrus-crypto/balancer-sdk

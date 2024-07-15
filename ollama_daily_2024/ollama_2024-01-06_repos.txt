@@ -1,0 +1,6 @@
+https://api.github.com/repos/gbaptista/ollama-ai
+https://api.github.com/repos/modelflow-ai/ollama-adapter
+https://api.github.com/repos/igorschlum/manuel.fr
+https://api.github.com/repos/IParraMartin/Ollama-Agents-Code
+https://api.github.com/repos/trvlr/idr-ollama-langchain
+https://api.github.com/repos/matttbates/job-search-assistant

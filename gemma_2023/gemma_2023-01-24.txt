@@ -1,0 +1,17 @@
+https://api.github.com/repos/spankykopita/rgb_rings
+https://api.github.com/repos/mantidproject/mantid
+https://api.github.com/repos/ersilia-os/eos7qga
+https://api.github.com/repos/ersilia-os/eos9taz
+https://api.github.com/repos/spack/spack
+https://api.github.com/repos/cockroachdb/docs
+https://api.github.com/repos/PavlidisLab/rnaseq-pipeline
+https://api.github.com/repos/GemmaTurner-Gearset/Gemma-Pipelines
+https://api.github.com/repos/FDA-ARGOS/data.argosdb
+https://api.github.com/repos/justinhunt/moodle-filter_generico
+https://api.github.com/repos/danmarsden/moodle-local_recompletion
+https://api.github.com/repos/mapschool/course
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/ZZ-Cat/CRSFforArduino
+https://api.github.com/repos/VNG-Realisatie/gemma-zaken
+https://api.github.com/repos/spankykopita/rgb_rings_arduino
+https://api.github.com/repos/acc-cosc-1337-spring-2023/course-GemMaster11

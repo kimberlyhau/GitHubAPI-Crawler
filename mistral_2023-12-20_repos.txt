@@ -1,0 +1,12 @@
+https://api.github.com/repos/NVIDIA/workbench-example-mistral-finetune
+https://api.github.com/repos/hkproj/mistral-llm-notes
+https://api.github.com/repos/GoCeylan/mistralai-edge
+https://api.github.com/repos/SreejanPersonal/MISTRAL-AI
+https://api.github.com/repos/Varun-2538/ReportEase
+https://api.github.com/repos/rahulvk007/mistral7b-api-cuda-docker
+https://api.github.com/repos/yoavf/mistral-nextjs-client
+https://api.github.com/repos/abdullohndm/RAG-using-Mistral-7B
+https://api.github.com/repos/mattzcarey/traduire-gpt
+https://api.github.com/repos/nbonamy/youtube-tldw
+https://api.github.com/repos/Roudranil/function-calling-with-openai-and-oss-llm
+https://api.github.com/repos/NafisRayan/AI-Playground

@@ -1,0 +1,16 @@
+https://api.github.com/repos/adrienbrault/carotte
+https://api.github.com/repos/SusgUY446/ollama-chat-gui
+https://api.github.com/repos/nitroxit/OllamaSMS
+https://api.github.com/repos/MRahul2002987/Ollama
+https://api.github.com/repos/ws-cd/ollama-next
+https://api.github.com/repos/ibuziuk/ollama-demo
+https://api.github.com/repos/Rohitpy/Ollama_Embed
+https://api.github.com/repos/MuhammadSyyed/ollama_RAG
+https://api.github.com/repos/october7sveryown/spring-ai-ollama
+https://api.github.com/repos/valentintesta/Ollama-Mistral-Chatbot
+https://api.github.com/repos/cageyv/ollama-typhoon-7b
+https://api.github.com/repos/RichardMairembam/chatbot-V0-paid-ollama
+https://api.github.com/repos/krishnact/llama-app
+https://api.github.com/repos/FuNk-y0u/Dr.Wickey
+https://api.github.com/repos/open-source-at-illinois/CodeGeneration
+https://api.github.com/repos/Nice-prompt/nice-prompt-api

@@ -1,0 +1,2 @@
+https://api.github.com/repos/tisfeng/Easydict
+https://api.github.com/repos/kazuyaseki/code-transformer-for-Figma

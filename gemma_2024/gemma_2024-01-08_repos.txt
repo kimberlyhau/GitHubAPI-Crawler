@@ -1,0 +1,3 @@
+https://api.github.com/repos/marklysze/LlamaIndex-RAG-Linux-CUDA
+https://api.github.com/repos/GEMGEMZ/Gemma
+https://api.github.com/repos/DanielMesaGarcia/ArchivosGemma

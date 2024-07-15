@@ -1,0 +1,12 @@
+https://api.github.com/repos/huggingface/candle
+https://api.github.com/repos/NVIDIA/Megatron-LM
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/oobabooga/text-generation-webui
+https://api.github.com/repos/espnet/espnet
+https://api.github.com/repos/yuiseki/llama-cpp-mpi-sandbox
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/huggingface/optimum
+https://api.github.com/repos/khulnasoft-lab/CyberBART
+https://api.github.com/repos/QuangBK/generativeAgent_LLM
+https://api.github.com/repos/nathanrchn/perplexityai
+https://api.github.com/repos/khulnasoft-lab/CyBERT

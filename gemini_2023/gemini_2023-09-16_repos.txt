@@ -1,0 +1,14 @@
+https://api.github.com/repos/eliranwong/letmedoit
+https://api.github.com/repos/glaforge/groovy-llm
+https://api.github.com/repos/yadavhrsit/AI_Story_Generator
+https://api.github.com/repos/AlgoAngel/gemini-next
+https://api.github.com/repos/libeibeics/Gemini
+https://api.github.com/repos/VitalyPerm/GeminioTest
+https://api.github.com/repos/viniciusram2025/Gemini-Theme
+https://api.github.com/repos/danaharley/gemini-cafe-backend
+https://api.github.com/repos/jontey/dapper-little-gemini
+https://api.github.com/repos/danaharley/gemini-cafe-frontend
+https://api.github.com/repos/HokusPokusGemini/HokusPokusGemini
+https://api.github.com/repos/drupi79/Vortex-Gemini-High-Speed-Fan-Curtain
+https://api.github.com/repos/ImmortalBoi/ESP-Assistant
+https://api.github.com/repos/fcxmarquez/enki-ai

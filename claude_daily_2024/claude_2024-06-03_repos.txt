@@ -1,0 +1,2 @@
+https://api.github.com/repos/joaoryan/Bootcamp-Nexa---Fundamentos-de-IA-Generativa-e-Claude-3
+https://api.github.com/repos/farion1231/Way-to-ChatGPT-Plus

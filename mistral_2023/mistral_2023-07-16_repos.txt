@@ -1,0 +1,9 @@
+https://api.github.com/repos/kesamet/retrieval-augmented-generation
+https://api.github.com/repos/stanleylsx/llms_tool
+https://api.github.com/repos/quack-ai/companion
+https://api.github.com/repos/dev-zohaibamin/Mistral
+https://api.github.com/repos/Mistral1729/Mistral1729
+https://api.github.com/repos/mistraltaksi/mistraltaksi
+https://api.github.com/repos/friendliai/friendli-client
+https://api.github.com/repos/codito/arey
+https://api.github.com/repos/abhirupr123/crack_detective

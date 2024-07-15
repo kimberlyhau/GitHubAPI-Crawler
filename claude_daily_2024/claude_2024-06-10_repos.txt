@@ -1,0 +1,8 @@
+https://api.github.com/repos/ClaudeCB/ClaudeCB
+https://api.github.com/repos/ClaudeCB/ClaudeCB.github.io
+https://api.github.com/repos/ksylvest/omniai
+https://api.github.com/repos/leticia1327/IA-claudete
+https://api.github.com/repos/Claude-White/Claude-White.github.io
+https://api.github.com/repos/KansaraT/RAG-using-LlamaIndex-and-Claude
+https://api.github.com/repos/ksylvest/omniai-anthropic
+https://api.github.com/repos/igot-ai/app.igot.ai

@@ -1,0 +1,16 @@
+https://api.github.com/repos/basetenlabs/truss-examples
+https://api.github.com/repos/arcee-ai/mergekit
+https://api.github.com/repos/vllm-project/vllm
+https://api.github.com/repos/vikhyat/moondream
+https://api.github.com/repos/lamalab-org/chem-bench
+https://api.github.com/repos/run-llama/llama_index
+https://api.github.com/repos/Stability-AI/FastChat
+https://api.github.com/repos/geronimi73/TinyLlama-versus-StableLM2
+https://api.github.com/repos/danielgross/localpilot
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/Stability-AI/StableLM
+https://api.github.com/repos/wangzhaode/llm-export
+https://api.github.com/repos/ml-explore/mlx-examples
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/open-compass/opencompass
+https://api.github.com/repos/mlc-ai/mlc-llm

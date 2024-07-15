@@ -1,0 +1,13 @@
+https://api.github.com/repos/stanford-crfm/helm
+https://api.github.com/repos/stochasticai/xTuring
+https://api.github.com/repos/StackStorm/st2
+https://api.github.com/repos/christophebe/julius-gpt
+https://api.github.com/repos/mudler/LocalAI
+https://api.github.com/repos/longy2k/obsidian-bmo-chatbot
+https://api.github.com/repos/patrick-kidger/equinox
+https://api.github.com/repos/arakoodev/EdgeChains
+https://api.github.com/repos/WestXu/qrtransfer
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/1Panel-dev/1Panel
+https://api.github.com/repos/aMytho/brave-frontier-godot
+https://api.github.com/repos/enricoros/big-AGI

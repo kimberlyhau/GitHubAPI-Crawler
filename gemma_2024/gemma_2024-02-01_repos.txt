@@ -1,0 +1,5 @@
+https://api.github.com/repos/jakobhoeg/nextjs-ollama-llm-ui
+https://api.github.com/repos/fly-apps/ollama-open-webui
+https://api.github.com/repos/GemmaWhite/GemmaWhite
+https://api.github.com/repos/mrghg/gemma
+https://api.github.com/repos/groovybits/rsllm

@@ -1,0 +1,13 @@
+https://api.github.com/repos/nomic-ai/gpt4all
+https://api.github.com/repos/YosysHQ/oss-cad-suite-build
+https://api.github.com/repos/hiyouga/LLaMA-Factory
+https://api.github.com/repos/ZeroK-RTS/CrashReports
+https://api.github.com/repos/khoj-ai/khoj
+https://api.github.com/repos/ZeroK-RTS/CrashReports
+https://api.github.com/repos/vllm-project/vllm
+https://api.github.com/repos/brianpetro/obsidian-smart-connections
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/huggingface/candle
+https://api.github.com/repos/sourcegraph/cody
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/paul-gauthier/aider

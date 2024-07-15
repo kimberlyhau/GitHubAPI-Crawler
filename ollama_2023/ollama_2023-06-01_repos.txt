@@ -1,0 +1,2 @@
+https://api.github.com/repos/Mintplex-Labs/anything-llm
+https://api.github.com/repos/Menghuan1918/Smartinput

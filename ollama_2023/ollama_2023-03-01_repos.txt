@@ -1,0 +1,3 @@
+https://api.github.com/repos/Bin-Huang/chatbox
+https://api.github.com/repos/GaiZhenbiao/ChuanhuChatGPT
+https://api.github.com/repos/sigoden/aichat

@@ -1,0 +1,13 @@
+https://api.github.com/repos/igorbkz/mixtralVision
+https://api.github.com/repos/SayelAbualigah/MixtralBasedFaithfulness
+https://api.github.com/repos/DongmingShenDS/Mistral_From_Scratch
+https://api.github.com/repos/Aximande/mixtral-researcher
+https://api.github.com/repos/Rafaelmdcarneiro/llama-rag-wsl-cuda
+https://api.github.com/repos/viniciusds2020/app_grog_mixtral
+https://api.github.com/repos/viniciusds2020/app_mixtral_pandas_ai
+https://api.github.com/repos/trinh82/simple-chatbot-mixtral-groq
+https://api.github.com/repos/Srivatsan8055/chat-with-csv-groq-mixtral
+https://api.github.com/repos/eliranwong/groqchat
+https://api.github.com/repos/ArcAII/GPT-2Lang
+https://api.github.com/repos/Beenaa99/LLM-Prompt-Recovery
+https://api.github.com/repos/AdemKhemiri/PDF-to-QA-Dataset-Converter

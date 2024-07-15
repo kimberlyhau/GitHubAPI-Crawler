@@ -1,0 +1,9 @@
+https://api.github.com/repos/mvdiogo/research-assistant
+https://api.github.com/repos/thor314/ollama
+https://api.github.com/repos/monk-io/monk-ollama
+https://api.github.com/repos/mmo80/ollama-functions-ts
+https://api.github.com/repos/j3k0/ollama-openai-bridge
+https://api.github.com/repos/thisweekone/ollama-webui-two
+https://api.github.com/repos/pehrs/spring-ai-vespa-embedding-sample
+https://api.github.com/repos/moonbse/RagImplementation-For-LLMs-with-Ollama
+https://api.github.com/repos/sb-elliot-7s/delivery_telegram_bot

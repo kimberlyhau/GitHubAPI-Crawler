@@ -1,0 +1,11 @@
+https://api.github.com/repos/RobertGodin/JavaPasAPas
+https://api.github.com/repos/songquanpeng/one-api
+https://api.github.com/repos/xapp-ai/assistant
+https://api.github.com/repos/aandrew-me/tgpt
+https://api.github.com/repos/Vikingfr/upptime
+https://api.github.com/repos/promptfoo/promptfoo
+https://api.github.com/repos/xx025/carrot
+https://api.github.com/repos/ryands17/thumbnail-creator
+https://api.github.com/repos/StewBC/cc65-Chess
+https://api.github.com/repos/dejanvasic85/ses-next
+https://api.github.com/repos/JonathansManoel/Curso-Django

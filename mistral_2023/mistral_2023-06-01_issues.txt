@@ -1,0 +1,8 @@
+https://api.github.com/repos/YosysHQ/nextpnr
+https://api.github.com/repos/olofk/corescore
+https://api.github.com/repos/guidance-ai/guidance
+https://api.github.com/repos/tloen/alpaca-lora
+https://api.github.com/repos/ZeroK-RTS/CrashReports
+https://api.github.com/repos/ZeroK-RTS/CrashReports
+https://api.github.com/repos/ZeroK-RTS/CrashReports
+https://api.github.com/repos/bebbo/amiga-gcc

@@ -1,0 +1,15 @@
+https://api.github.com/repos/linkage001/simple_ollama_rag
+https://api.github.com/repos/christiancadieux/rag-go-ollama
+https://api.github.com/repos/g29times/ollama
+https://api.github.com/repos/Cihangir-K/Ollama-voice-assistant-with-chroma-db-memory
+https://api.github.com/repos/excel211/ollama
+https://api.github.com/repos/Akshay-Dongare/Ollama-Local-LLM
+https://api.github.com/repos/Deer-Canidae/ollama-gpu-fix
+https://api.github.com/repos/Cihangir-K/Ollama-voice-assistant
+https://api.github.com/repos/waghmareps12/langchain-mistral-ollama-chainlit
+https://api.github.com/repos/ThorGameDev/BetterOllamaCLI
+https://api.github.com/repos/annemarietannengrund/JonathanPritchardGPT
+https://api.github.com/repos/Floressek/Language_model_interface
+https://api.github.com/repos/vijayredkar/GenAi-Local-LLM-to-accomplish-GDPR-compliance
+https://api.github.com/repos/Rajeevveera24/cmu-rag
+https://api.github.com/repos/kaankvrck/LLM-Based-KG-Generator

@@ -1,0 +1,10 @@
+https://api.github.com/repos/tanhaok/survey-builder
+https://api.github.com/repos/NGLSG/ChatBot
+https://api.github.com/repos/Robitx/gp.nvim
+https://api.github.com/repos/zybqw/Chat-Mind-AI
+https://api.github.com/repos/eliran-oraganization/terraform-aws-rest-api-architecture
+https://api.github.com/repos/kimkihoon0515/mlops_crawling
+https://api.github.com/repos/upscayl/upscayl
+https://api.github.com/repos/aandrew-me/tgpt
+https://api.github.com/repos/claudegel/sinope-130
+https://api.github.com/repos/Tradeshift/tradeshift-ui

@@ -1,0 +1,12 @@
+https://api.github.com/repos/ZeroK-RTS/CrashReports
+https://api.github.com/repos/vllm-project/vllm
+https://api.github.com/repos/ggerganov/ggml
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/llm-tools/embedJs
+https://api.github.com/repos/EvilPsyCHo/Play-with-LLMs
+https://api.github.com/repos/microsoft/DirectML
+https://api.github.com/repos/huggingface/transformers
+https://api.github.com/repos/stab-virtual-jabog32/fpt
+https://api.github.com/repos/zaibutcooler/gengo
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/narain-priyanka/Mistral

@@ -1,0 +1,4 @@
+https://api.github.com/repos/gyaneshhere/GenAI-Claude3
+https://api.github.com/repos/bhattadeb34/Claude-GPT-paper
+https://api.github.com/repos/aws-samples/sample-chatbot-for-bedrock-knowledge-base-and-multimodal-llms
+https://api.github.com/repos/lipeng0820/schulte-grid

@@ -1,0 +1,15 @@
+https://api.github.com/repos/christopherpickering/flask-session2
+https://api.github.com/repos/dedesoare/claudeirxyz
+https://api.github.com/repos/lencx/Noi
+https://api.github.com/repos/ochadenas/cpudefense
+https://api.github.com/repos/claude-morningstar47/book-api
+https://api.github.com/repos/danielinux7/Abkhaz-NLP-Data-Pipeline
+https://api.github.com/repos/claude-morningstar47/api_mongodb
+https://api.github.com/repos/sourcegraph/cody
+https://api.github.com/repos/langchain-ai/langchain
+https://api.github.com/repos/Agenta-AI/agenta
+https://api.github.com/repos/machinewrapped/gpt-subtrans
+https://api.github.com/repos/claudegel/sinope-130
+https://api.github.com/repos/SillyTavern/SillyTavern
+https://api.github.com/repos/fgenie/rims_minimal
+https://api.github.com/repos/JonathansManoel/Curso-Django

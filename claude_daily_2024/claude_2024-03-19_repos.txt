@@ -1,0 +1,16 @@
+https://api.github.com/repos/Doriandarko/maestro
+https://api.github.com/repos/ryanschiang/claude-export
+https://api.github.com/repos/vaubeee/claude
+https://api.github.com/repos/ragibmondal/claude3
+https://api.github.com/repos/KazuyaIriguchi/claude3_demo
+https://api.github.com/repos/ndurner/claude_chat
+https://api.github.com/repos/EthanLLL/fc-claude
+https://api.github.com/repos/cadargin/telegram-claude
+https://api.github.com/repos/Linhnguyen18388/telegram-claude
+https://api.github.com/repos/dimipash/Claude-API
+https://api.github.com/repos/rolyataylor2/Aidyn-Claude-3-Opus
+https://api.github.com/repos/krast214/jclone
+https://api.github.com/repos/Jun-Murakami/AI-Browser
+https://api.github.com/repos/jisha86swamy/AWS.Anthropic.Claude-3-haiku
+https://api.github.com/repos/Linhnguyen18388/Marketing-Bot
+https://api.github.com/repos/srgchrksv/anthropic-conversational-chat

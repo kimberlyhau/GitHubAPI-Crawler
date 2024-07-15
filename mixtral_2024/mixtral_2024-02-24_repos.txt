@@ -1,0 +1,11 @@
+https://api.github.com/repos/Mobile-Artificial-Intelligence/maid_llm
+https://api.github.com/repos/breenbo/mixtral_cli
+https://api.github.com/repos/adityapatil201/Mixtral_Document_Chatbot
+https://api.github.com/repos/Goekdeniz-Guelmez/Mixtral-from-scratch-in-MLX
+https://api.github.com/repos/geongeorge/Chat-with-PDF-AI
+https://api.github.com/repos/Catdevzsh/CATGPTLOCAL
+https://api.github.com/repos/danascott329/Mixtral-8x7b-QLoRA-finetuning
+https://api.github.com/repos/BhargavBhima/AI-Chatbot-using-LLM-s
+https://api.github.com/repos/Kamalesh9483/RAG-App-with-Vector-Store-DB-using-Chromadb-and-embedding-using-nomic-embed-text-GROQ-Mixtral-model
+https://api.github.com/repos/divinejoshua/groq-vercel-ai
+https://api.github.com/repos/fazleo/Blog_Generation_Appl_Using_Langchain

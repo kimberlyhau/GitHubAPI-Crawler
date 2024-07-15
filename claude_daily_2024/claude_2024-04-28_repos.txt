@@ -1,0 +1,4 @@
+https://api.github.com/repos/miorafanantenana12/claudeapi
+https://api.github.com/repos/bbroger1/leitura_pdf_word_com_gpt
+https://api.github.com/repos/TriformAI/ask-opus-with-context-from-pgvector
+https://api.github.com/repos/karu03/RAG-Maths-QA-llama-index

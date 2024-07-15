@@ -1,0 +1,15 @@
+https://api.github.com/repos/abilzerian/LLM-Prompt-Library
+https://api.github.com/repos/moddedBear/rocketfeed
+https://api.github.com/repos/Bikatr7/Kudasai
+https://api.github.com/repos/arenzana/gemini
+https://api.github.com/repos/RealMelkor/gmiChat
+https://api.github.com/repos/nps007-trainer/CapGemini101CloudAWSBatch10
+https://api.github.com/repos/T-Wan-Lin/ChillPills
+https://api.github.com/repos/AgentWhisky/ProjectGemini-Website
+https://api.github.com/repos/flozz/pelican-gemini-capsule
+https://api.github.com/repos/Jubayer-Saad/getstarted.gemini.com
+https://api.github.com/repos/pratiksha-17/Assignment-BlockGemini
+https://api.github.com/repos/ttocsneb/gemfra
+https://api.github.com/repos/hughrun/soyuz-web
+https://api.github.com/repos/mo-rijndael/gemicgi
+https://api.github.com/repos/MalikIngham/Aggy

@@ -1,0 +1,4 @@
+https://api.github.com/repos/QuivrHQ/quivr
+https://api.github.com/repos/jakobdylanc/discord-llm-chatbot
+https://api.github.com/repos/icebaker/ruby-nano-bots
+https://api.github.com/repos/icebaker/nano-bots-spec

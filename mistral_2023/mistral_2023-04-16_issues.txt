@@ -1,0 +1,11 @@
+https://api.github.com/repos/HealthDataInsight/way_of_working
+https://api.github.com/repos/Vision-CAIR/MiniGPT-4
+https://api.github.com/repos/Joe12387/OP-Fingerprinting-Script
+https://api.github.com/repos/Vision-CAIR/MiniGPT-4
+https://api.github.com/repos/bluecitylights/langchain-playground
+https://api.github.com/repos/langchain-ai/langchain
+https://api.github.com/repos/ZeroK-RTS/CrashReports
+https://api.github.com/repos/oobabooga/text-generation-webui
+https://api.github.com/repos/LZL0/stable-diffusion-webui
+https://api.github.com/repos/ZeroK-RTS/CrashReports
+https://api.github.com/repos/ARPA-SIMC/arkiweb

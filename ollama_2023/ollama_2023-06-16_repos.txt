@@ -1,0 +1,3 @@
+https://api.github.com/repos/Robitx/gp.nvim
+https://api.github.com/repos/langchain4j/langchain4j
+https://api.github.com/repos/Vargha-Kh/Langchain_LLM

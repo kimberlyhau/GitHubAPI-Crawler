@@ -1,0 +1,16 @@
+https://api.github.com/repos/haytamdon/frugal_RAG
+https://api.github.com/repos/Fus3n/TwoAI
+https://api.github.com/repos/MetheMeticien/Ollama-RAG
+https://api.github.com/repos/PonyLucky/Ollama-Front
+https://api.github.com/repos/TsuKpa/ollama-ai
+https://api.github.com/repos/guediagael/streamlit-ollama-code
+https://api.github.com/repos/videmsky/aws-ts-ollama
+https://api.github.com/repos/shubhashishdatta19/GenAI_RAG_Streamlite_Ollama
+https://api.github.com/repos/hirdayeshr/Gen-ai-Ollama-
+https://api.github.com/repos/akupka/Ollama_RAG_pdf_german
+https://api.github.com/repos/remiPra/nextjs-chatbot-groq-ollama-2024
+https://api.github.com/repos/automateyournetwork/IOS_XE_Buddy
+https://api.github.com/repos/Auroshis/RAG_LLM
+https://api.github.com/repos/cherryboio/DatasetTranslator
+https://api.github.com/repos/automateyournetwork/IOS_XE_RAPTOR
+https://api.github.com/repos/ecliipt/langchain-assistant

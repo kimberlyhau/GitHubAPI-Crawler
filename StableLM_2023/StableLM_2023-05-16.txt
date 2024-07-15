@@ -1,0 +1,17 @@
+https://api.github.com/repos/webonnx/wonnx
+https://api.github.com/repos/nomic-ai/gpt4all
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/mudler/LocalAI
+https://api.github.com/repos/rustformers/llm
+https://api.github.com/repos/GaiZhenbiao/ChuanhuChatGPT
+https://api.github.com/repos/run-llama/llama_index
+https://api.github.com/repos/huggingface/text-generation-inference
+https://api.github.com/repos/nod-ai/SHARK
+https://api.github.com/repos/Stability-AI/gpt-neox
+https://api.github.com/repos/TimDettmers/bitsandbytes
+https://api.github.com/repos/tensorchord/llmspec
+https://api.github.com/repos/tensorchord/modelz-llm
+https://api.github.com/repos/Lightning-AI/lit-llama
+https://api.github.com/repos/Stability-AI/StableLM
+https://api.github.com/repos/chand1012/stablelm-testing
+https://api.github.com/repos/guidance-ai/guidance

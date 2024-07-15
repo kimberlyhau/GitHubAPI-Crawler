@@ -1,0 +1,13 @@
+https://api.github.com/repos/edgenai/edgen
+https://api.github.com/repos/willspag/Mixtral8x7B-AI-Chat-Colab
+https://api.github.com/repos/aigeek0x0/mixtral-8x7b-inference-apis
+https://api.github.com/repos/AILEXGPT/Mixtral
+https://api.github.com/repos/babycommando/machinascript-for-robots
+https://api.github.com/repos/milsun/axolotl-mixtral
+https://api.github.com/repos/nevakrien/mixtral_intel
+https://api.github.com/repos/DelDmc/hf-mixtral
+https://api.github.com/repos/supratimmanna/mixtral_LLM
+https://api.github.com/repos/Rayrtfr/Mixtral-8x7B-Chinese
+https://api.github.com/repos/xyproto/translate
+https://api.github.com/repos/DattatrayBodake25/Web-Application-for-Query-Answering-Using-RAG-and-Mixtral-8x7B
+https://api.github.com/repos/AttuneIntelligence/open-agent

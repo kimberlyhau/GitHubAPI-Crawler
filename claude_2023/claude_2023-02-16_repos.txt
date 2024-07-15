@@ -1,0 +1,8 @@
+https://api.github.com/repos/vaibhavk97/Poe
+https://api.github.com/repos/doggy8088/ChatGPTToolkitExtension
+https://api.github.com/repos/ax-llm/ax
+https://api.github.com/repos/biziclaude/claude
+https://api.github.com/repos/biziclaude/claude1
+https://api.github.com/repos/Claudenir-Nojosa/Claudenir-Nojosa
+https://api.github.com/repos/Vyralmarketing/Claude-Blackman
+https://api.github.com/repos/Jysai/JeanClaudeLIMOUSIN_14_14042022

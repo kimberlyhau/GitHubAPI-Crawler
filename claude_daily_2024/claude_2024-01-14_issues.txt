@@ -1,0 +1,11 @@
+https://api.github.com/repos/stanfordnlp/dspy
+https://api.github.com/repos/stencila/stencila
+https://api.github.com/repos/akilmor/MetaGPT-SoftwareDev
+https://api.github.com/repos/kayali436/Coursework-Planner-CYF
+https://api.github.com/repos/Rassibassi/claude
+https://api.github.com/repos/open-webui/open-webui
+https://api.github.com/repos/expectedparrot/edsl
+https://api.github.com/repos/sunner/ChatALL
+https://api.github.com/repos/kimkihoon0515/mlops_crawling
+https://api.github.com/repos/JanjaProgrammers/Certification_Repo
+https://api.github.com/repos/christopherpickering/flask-session2

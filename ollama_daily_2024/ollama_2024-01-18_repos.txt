@@ -1,0 +1,6 @@
+https://api.github.com/repos/aidatatools/ollama-benchmark
+https://api.github.com/repos/radames/LLM-automator
+https://api.github.com/repos/MasakiMu319/ollamaChat
+https://api.github.com/repos/thisweekone/ollama-webui
+https://api.github.com/repos/M-playground/Rshiny_Ollama
+https://api.github.com/repos/t-cool/ollama-locally-python

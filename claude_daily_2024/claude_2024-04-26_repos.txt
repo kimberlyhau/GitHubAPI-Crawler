@@ -1,0 +1,7 @@
+https://api.github.com/repos/AnswerDotAI/claudette
+https://api.github.com/repos/brsolo/claude-live
+https://api.github.com/repos/BradPerbs/claude-go
+https://api.github.com/repos/fullspizdi/Claude-3-Opus-AI-Evolution
+https://api.github.com/repos/fernando-napier/Fennorad.AnthropicClient
+https://api.github.com/repos/Ctrl-X/lambda-bedrock-image-description
+https://api.github.com/repos/tobiaskroell/quivis

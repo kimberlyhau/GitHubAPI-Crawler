@@ -1,0 +1,16 @@
+https://api.github.com/repos/rakyll/kubehelp
+https://api.github.com/repos/deepak-lenka/Claude_Agenta
+https://api.github.com/repos/alinefoi/claude
+https://api.github.com/repos/ZoneTwelve/ClaudeAIManager
+https://api.github.com/repos/Rukundoemmanuel/claude12-repo
+https://api.github.com/repos/alarcon7a/claude3_vs_gpt4
+https://api.github.com/repos/sam901122/Claude_translation
+https://api.github.com/repos/ZIRIKANA12/claude-repo
+https://api.github.com/repos/festiva1300/streamlit-claude-chat
+https://api.github.com/repos/scmarinelli/artemis-claude-frog
+https://api.github.com/repos/cedarwu/claude-to-openai
+https://api.github.com/repos/cubeofcube-dev/go-anthropic
+https://api.github.com/repos/Vivicorp-AWS/aws-bedrock-streamlit
+https://api.github.com/repos/southern-cross-ai/ask-llms
+https://api.github.com/repos/LyubomyrKl/book-core
+https://api.github.com/repos/robbie-wasabi/mm-infinite-backrooms

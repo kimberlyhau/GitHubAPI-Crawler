@@ -1,0 +1,4 @@
+https://api.github.com/repos/shm007g/LLaMA-Cult-and-More
+https://api.github.com/repos/withcatai/catai
+https://api.github.com/repos/sa1utyeggs/Chinese-Vicuna
+https://api.github.com/repos/ZRZn/vicuna

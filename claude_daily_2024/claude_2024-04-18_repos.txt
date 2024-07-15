@@ -1,0 +1,5 @@
+https://api.github.com/repos/johndpope/VASA-1-hack
+https://api.github.com/repos/jowi-dev/claude-rs
+https://api.github.com/repos/sekachev/telegram-claude
+https://api.github.com/repos/msharma24/agentbedrock-scoopbot
+https://api.github.com/repos/sarahmcavinue/mtu_chatbot

@@ -1,0 +1,16 @@
+https://api.github.com/repos/kivvi3412/Claude_Latex_Renderer
+https://api.github.com/repos/shugy0/claudebot
+https://api.github.com/repos/limboinf/bedrock-claude-streamlit-app
+https://api.github.com/repos/tossyyukky/claude3-chat-sample
+https://api.github.com/repos/MarrRang/claude-client
+https://api.github.com/repos/YCZA/claude_proxy
+https://api.github.com/repos/cykim8811/cykim-claude
+https://api.github.com/repos/march038/TranscribeSummarize-With-Whisper3FromHuggingFace-and-Claude3API
+https://api.github.com/repos/belkarx/claude-chronic-pain-tracker
+https://api.github.com/repos/vibewithnick/wordle_suhayl_nawool_yann_claude
+https://api.github.com/repos/futureofworktraining/IDP-using-Claude-3-Haiku
+https://api.github.com/repos/suspicious-cow/Prompt-Engineering-with-Anthropic-Claude-3-Opus
+https://api.github.com/repos/mboperator/portfolio
+https://api.github.com/repos/clirea/QuickFileLocator
+https://api.github.com/repos/themindfuldude/ats-resume-assistant-pro
+https://api.github.com/repos/phibenz/pragmatics-templates

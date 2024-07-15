@@ -1,0 +1,2 @@
+https://api.github.com/repos/ClaudetteJM/claudettejmcom
+https://api.github.com/repos/PromptMixerDev/prompt-mixer-anthropic-ai-connector

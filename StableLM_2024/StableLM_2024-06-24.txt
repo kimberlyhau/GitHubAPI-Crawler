@@ -1,0 +1,7 @@
+https://api.github.com/repos/wandb/llm-leaderboard
+https://api.github.com/repos/huggingface/optimum-intel
+https://api.github.com/repos/huggingface/text-generation-inference
+https://api.github.com/repos/jian-mo/QAQG
+https://api.github.com/repos/SirUli/homeassistant-ollama-addon
+https://api.github.com/repos/stephenhky/PyShortTextCategorization
+https://api.github.com/repos/DIYgod/RSSHub

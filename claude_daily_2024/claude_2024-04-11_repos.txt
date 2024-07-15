@@ -1,0 +1,11 @@
+https://api.github.com/repos/aws-samples/build-an-agentic-llm-assistant
+https://api.github.com/repos/aws-samples/amazon-bedrock-claudev3-sonnet-blog-generation
+https://api.github.com/repos/Totol10/Claude2
+https://api.github.com/repos/jayyanar/claude3-tool-use-demo
+https://api.github.com/repos/agniiva/claude-lumentis-01
+https://api.github.com/repos/RajK-NeetiAI/Sql-Chatbot-Claude
+https://api.github.com/repos/cyb3rsh3ll/claude_prompt_os_walk
+https://api.github.com/repos/YuJian920/cf-claude-bedrock-proxy
+https://api.github.com/repos/alexfazio/srt-GPT-translator
+https://api.github.com/repos/GITenberg/Lord-Byron-as-a-satirist-in-verse_73176
+https://api.github.com/repos/windson/amazon-bedrock-indian-languages

@@ -1,0 +1,17 @@
+https://api.github.com/repos/Jenscaasen/UniversalLLMFunctionCaller
+https://api.github.com/repos/simonw/pge-outages-pre-2024
+https://api.github.com/repos/oldweipro/claude-to-chatgpt
+https://api.github.com/repos/RockChinQ/QChatGPT
+https://api.github.com/repos/st1vms/unofficial-claude-api
+https://api.github.com/repos/plasma-umass/llm-utils
+https://api.github.com/repos/hmcts/civil-general-applications
+https://api.github.com/repos/Michael-BURTIN/AtelierPK-MDDE-2024
+https://api.github.com/repos/sourcegraph/cody
+https://api.github.com/repos/haotian-liu/LLaVA
+https://api.github.com/repos/itchat/local-llm-trainer
+https://api.github.com/repos/kasamina80/generic_wm
+https://api.github.com/repos/KoushikNavuluri/Claude-API
+https://api.github.com/repos/kujian/githubTrending
+https://api.github.com/repos/opensearch-project/ml-commons
+https://api.github.com/repos/chathub-dev/chathub
+https://api.github.com/repos/Muh-aza/LLM

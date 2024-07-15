@@ -1,0 +1,9 @@
+https://api.github.com/repos/santoshdkolur/LLM-Runner
+https://api.github.com/repos/alexlichtenberger/ollama-desktop
+https://api.github.com/repos/rogiergit/Ollama-Install
+https://api.github.com/repos/bkocis/ollama-test
+https://api.github.com/repos/anth-dinosaur/ollama-web-streamlit
+https://api.github.com/repos/tmceld/RAG_with_ollama
+https://api.github.com/repos/Ryuzaki1415/Tube-Recap
+https://api.github.com/repos/yrwq/aiwq
+https://api.github.com/repos/cloudmedicio/describe-media-library

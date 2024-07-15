@@ -1,0 +1,10 @@
+https://api.github.com/repos/maxduke/fkclaude
+https://api.github.com/repos/neverendingstoryarc/claude
+https://api.github.com/repos/MMI-SAE-203/r213-2024-pracht-tp1-Claude2003
+https://api.github.com/repos/MMI-SAE-203/r213-2024-pracht-tp2-Claude2003
+https://api.github.com/repos/jimclydegm/claude-apitest
+https://api.github.com/repos/metaldaniel/BedrockClaude
+https://api.github.com/repos/Olney1/Claude-Tool-Examples
+https://api.github.com/repos/mjamesruggiero/tom
+https://api.github.com/repos/8carroll/claude-cloud-security-instructor
+https://api.github.com/repos/TwistingTwists/inject-url-content

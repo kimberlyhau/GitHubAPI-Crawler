@@ -1,0 +1,4 @@
+https://api.github.com/repos/build-on-aws/bedrock-agents-webscraper
+https://api.github.com/repos/shado-hackers/telegram-claude
+https://api.github.com/repos/mayurpatle/claude-searchbox-css
+https://api.github.com/repos/Spongeorge/stylegan-monet

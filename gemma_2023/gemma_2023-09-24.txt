@@ -1,0 +1,12 @@
+https://api.github.com/repos/YetiTool/easycut-smartbench
+https://api.github.com/repos/TelepathicGrunt/Bumblezone
+https://api.github.com/repos/GemmaGarrigosa/Introduccio_PHP
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/icl-utk-edu/slate
+https://api.github.com/repos/rcy1314/lobe-chat
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/chayanka18/Gemma
+https://api.github.com/repos/VNG-Realisatie/gemma-postman-tests
+https://api.github.com/repos/ryoppippi/dotfiles
+https://api.github.com/repos/PavlidisLab/gsec
+https://api.github.com/repos/awmacpherson/polytope-unfolder

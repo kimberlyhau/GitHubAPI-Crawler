@@ -1,0 +1,3 @@
+https://api.github.com/repos/netzpirat/haml-coffee
+https://api.github.com/repos/FESOM/fesom2
+https://api.github.com/repos/HSV-AI/presentations

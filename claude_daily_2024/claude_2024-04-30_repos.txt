@@ -1,0 +1,8 @@
+https://api.github.com/repos/RileyRetzloff/claude
+https://api.github.com/repos/noviamandaps/claude
+https://api.github.com/repos/ben7147/ClaudeAI
+https://api.github.com/repos/Anvasera/telegram-claude
+https://api.github.com/repos/jeanclaudendayiseng/NDAYISENGA-Claude_222008545_W.T_CAT_Submission_of_30th_April_2024
+https://api.github.com/repos/ishimwe1234567/ISHIMWE-Murara-Jean-claude_222005870_W.T_CAT_Submision_of_30th_April_2024
+https://api.github.com/repos/yohasebe/code-packager
+https://api.github.com/repos/tim-andes/uap-playground

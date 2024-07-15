@@ -1,0 +1,14 @@
+https://api.github.com/repos/AlgoETS/AINewsTracker
+https://api.github.com/repos/vespa-engine/sample-apps
+https://api.github.com/repos/huggingface/text-generation-inference
+https://api.github.com/repos/mlc-ai/mlc-llm
+https://api.github.com/repos/LostRuins/koboldcpp
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/guinmoon/LLMFarm
+https://api.github.com/repos/lmstudio-ai/model-catalog
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/intel/neural-compressor
+https://api.github.com/repos/openvinotoolkit/nncf
+https://api.github.com/repos/ROCm/rocBLAS
+https://api.github.com/repos/remyxai/FFMPerative
+https://api.github.com/repos/arcee-ai/mergekit

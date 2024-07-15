@@ -1,0 +1,8 @@
+https://api.github.com/repos/cyberwolf888/vertex-ai-claude-api
+https://api.github.com/repos/lazyjerry/sublime-text-claude
+https://api.github.com/repos/Adesoji1/Python-Open-AI-Claude-Opus-Expert
+https://api.github.com/repos/bulla1009/automatic-code-evaluator
+https://api.github.com/repos/ThatianaMattos/Bootcamp-Nexa-Fundamentos-de-IA-Generativa-e-Claude-3
+https://api.github.com/repos/IvanSaldikov/armonia
+https://api.github.com/repos/peteray-dev/GAN_Painter
+https://api.github.com/repos/ReallyEasyAI/Prompt-Engineering-with-ChatGPT-Google-Gemini-and-Anthropic-Claude-in-10-Minutes-or-Less

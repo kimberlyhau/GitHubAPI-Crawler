@@ -1,0 +1,17 @@
+https://api.github.com/repos/joydeb28/llm-lab
+https://api.github.com/repos/rsnlabs/rsnchat-js
+https://api.github.com/repos/expectedparrot/edsl
+https://api.github.com/repos/maksmikhilov/mixtral
+https://api.github.com/repos/nilsreich/mixtralChat
+https://api.github.com/repos/ziffir12/mixtral-Ai-chat-Mixtral-46.7B
+https://api.github.com/repos/0xideas/mixtral-finetune
+https://api.github.com/repos/LvBaolu/Mixtral_V2
+https://api.github.com/repos/TuanaCelik/pubmed-qa-mixtral-haystack
+https://api.github.com/repos/gbaptista/ollama-ai
+https://api.github.com/repos/hypergarage/Fast-inference-with-vLLM--Mixtral-8x7B-
+https://api.github.com/repos/Sarem-youth/Dolphin2.7-Mixtral-8x7b-with-react
+https://api.github.com/repos/nathanborror/swift-mistral
+https://api.github.com/repos/laelhalawani/gguf_modeldb
+https://api.github.com/repos/roddylan/TutorialGPT
+https://api.github.com/repos/rsnlabs/rsnchat-gem
+https://api.github.com/repos/cvarrei/DataJobs_AI

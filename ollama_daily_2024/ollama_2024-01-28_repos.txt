@@ -1,0 +1,10 @@
+https://api.github.com/repos/sudarshan-koirala/langchain-ollama-chainlit
+https://api.github.com/repos/RamiKrispin/ollama-poc
+https://api.github.com/repos/esxr/repurposed-ollama-webui
+https://api.github.com/repos/maxime-aube/ollama
+https://api.github.com/repos/PonyLucky/Ollamacord
+https://api.github.com/repos/mmo80/ollama-playground
+https://api.github.com/repos/Manuelji022/Ollama-chat
+https://api.github.com/repos/xyproto/translate
+https://api.github.com/repos/tburned/ollama-playground
+https://api.github.com/repos/alexvegas22/voice-assistant

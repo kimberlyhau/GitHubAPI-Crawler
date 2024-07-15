@@ -1,0 +1,5 @@
+https://api.github.com/repos/swuecho/chat
+https://api.github.com/repos/longy2k/obsidian-bmo-chatbot
+https://api.github.com/repos/Renset/macai
+https://api.github.com/repos/akirk/cll
+https://api.github.com/repos/LaraGuardiola/nodejs-dalai-alpaca-ai

@@ -1,0 +1,13 @@
+https://api.github.com/repos/tak-bro/aicommit2
+https://api.github.com/repos/kyu1204/alfred-ollama
+https://api.github.com/repos/chrishart0/ollama-langchain-llama_index-samples
+https://api.github.com/repos/reinteractive/ollama
+https://api.github.com/repos/mark-watson/ollama
+https://api.github.com/repos/laaledesiempre/ollama-girl
+https://api.github.com/repos/dev-danka/ollama-local
+https://api.github.com/repos/INF800/autogen_ollama_litellm
+https://api.github.com/repos/pszajows/ollama_how_to
+https://api.github.com/repos/blackironj/easycommit
+https://api.github.com/repos/bplunkert/llamaspit
+https://api.github.com/repos/rushiljay/Trainable-Local-LLM
+https://api.github.com/repos/cran/rollama

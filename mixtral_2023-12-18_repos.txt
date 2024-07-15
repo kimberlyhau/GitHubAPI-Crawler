@@ -1,0 +1,5 @@
+https://api.github.com/repos/WangRongsheng/Aurora
+https://api.github.com/repos/bigsnarfdude/mixtral_examples
+https://api.github.com/repos/format37/mixtral
+https://api.github.com/repos/msamwelmollel/Windows-CPU-on-Mixtral-56B-Parameters
+https://api.github.com/repos/m9e/simple-inference

@@ -1,0 +1,11 @@
+https://api.github.com/repos/janhq/jan
+https://api.github.com/repos/google-ai-edge/mediapipe
+https://api.github.com/repos/nerve-sparks/iris_android
+https://api.github.com/repos/tangledgroup/llama-cpp-wasm
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/DIYgod/RSSHub
+https://api.github.com/repos/enricoros/big-AGI
+https://api.github.com/repos/huggingface/transformers
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/GoogleCloudPlatform/kubernetes-engine-samples
+https://api.github.com/repos/ggerganov/llama.cpp

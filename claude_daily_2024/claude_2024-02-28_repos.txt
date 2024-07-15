@@ -1,0 +1,2 @@
+https://api.github.com/repos/OmegaNalphA/Claude-Function-Calling
+https://api.github.com/repos/yourlin/bedrock-claude-langchain-function-calling

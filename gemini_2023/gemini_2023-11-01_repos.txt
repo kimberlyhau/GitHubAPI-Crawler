@@ -1,0 +1,9 @@
+https://api.github.com/repos/smalltong02/keras-llm-robot
+https://api.github.com/repos/DerFuchs/Armbian-with-Klipper-on-Fly-Gemini-3
+https://api.github.com/repos/roadto100million/subspace
+https://api.github.com/repos/sebastian902/DragonGemini
+https://api.github.com/repos/RayEspinoza831/Gemini_Lab6
+https://api.github.com/repos/ToDy95/task-manager-gemini
+https://api.github.com/repos/mohitj2401/simple-resume
+https://api.github.com/repos/Shivam171/google-search-clone
+https://api.github.com/repos/Sarmad426/Generative-AI

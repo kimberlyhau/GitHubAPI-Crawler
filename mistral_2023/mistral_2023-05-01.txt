@@ -1,0 +1,9 @@
+https://api.github.com/repos/oobabooga/text-generation-webui
+https://api.github.com/repos/SichangHe/internet_route_verification
+https://api.github.com/repos/FooQoo/chatgpt-linebot-starter
+https://api.github.com/repos/pgalko/BambooAI
+https://api.github.com/repos/darrenburns/elia
+https://api.github.com/repos/omigroup/omi-archive
+https://api.github.com/repos/haotian-liu/LLaVA
+https://api.github.com/repos/highb/logseq-notas-ex-machina
+https://api.github.com/repos/antonyggvzvmnxxcx/ApplicationInsights-Home

@@ -1,0 +1,11 @@
+https://api.github.com/repos/twinnydotdev/twinny
+https://api.github.com/repos/FairyTail2000/ollama-frontend
+https://api.github.com/repos/elijahmg/ollama-tauri-client
+https://api.github.com/repos/fynnfluegge/doc-comments-ai
+https://api.github.com/repos/mountaineerbr/shellChatGPT
+https://api.github.com/repos/nikhilPatilGit/ollama-ui
+https://api.github.com/repos/JakeStevenson/MySecondBrain
+https://api.github.com/repos/ninjakttty/ollamamodel2
+https://api.github.com/repos/ninjakttty/ollamademo
+https://api.github.com/repos/ninjakttty/ollamamodel
+https://api.github.com/repos/juweeism/daily-stoics

@@ -1,0 +1,12 @@
+https://api.github.com/repos/Stability-AI/lm-evaluation-harness
+https://api.github.com/repos/bentoml/OpenLLM
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/nod-ai/SHARK
+https://api.github.com/repos/stanford-crfm/helm
+https://api.github.com/repos/run-llama/llama_index
+https://api.github.com/repos/langchain-ai/langchain
+https://api.github.com/repos/huggingface/dataset-viewer
+https://api.github.com/repos/h2oai/h2o-llmstudio
+https://api.github.com/repos/jina-ai/jina
+https://api.github.com/repos/yuiseki/TRIDENT
+https://api.github.com/repos/uripper/monkey_man

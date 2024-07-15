@@ -1,0 +1,17 @@
+https://api.github.com/repos/hqwuzhaoyi/bob-plugin-ollama
+https://api.github.com/repos/GetStream/meeting-summary-ollama-gemma
+https://api.github.com/repos/tawalke/OllamaOnAzure
+https://api.github.com/repos/SaladTechnologies/ollama-langchain
+https://api.github.com/repos/royokello/ollama-captioning
+https://api.github.com/repos/madrf/ollama-docker
+https://api.github.com/repos/satoyami/rag-ollama
+https://api.github.com/repos/Kidsan/ollama-rag
+https://api.github.com/repos/Daisha22d/ollama-loop
+https://api.github.com/repos/aetaix/ollami
+https://api.github.com/repos/beenishkhan603/node-js-ollama
+https://api.github.com/repos/ccb-hms/ollama-at-HMS
+https://api.github.com/repos/girishsawant30/GenAI_Study_Ollama
+https://api.github.com/repos/mdsrmed/ollama-pydantic-advanced-fn
+https://api.github.com/repos/intothevoid/rss2podcast
+https://api.github.com/repos/sanketsabharwal/ZoteroScholar
+https://api.github.com/repos/nboughton/AIssistant

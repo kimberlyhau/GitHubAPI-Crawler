@@ -1,0 +1,8 @@
+https://api.github.com/repos/huggingface/text-generation-inference
+https://api.github.com/repos/jgeraigery/Dromedary
+https://api.github.com/repos/huggingface/transformers
+https://api.github.com/repos/vtfk/llmLabs
+https://api.github.com/repos/jekalmin/extended_openai_conversation
+https://api.github.com/repos/brave/brave-browser
+https://api.github.com/repos/triton-inference-server/tensorrtllm_backend
+https://api.github.com/repos/TIGER-AI-Lab/MAmmoTH

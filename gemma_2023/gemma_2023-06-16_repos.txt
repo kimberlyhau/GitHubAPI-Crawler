@@ -1,0 +1,3 @@
+https://api.github.com/repos/GonzaloNog/Gemma
+https://api.github.com/repos/G-milo/Gemma.Melo
+https://api.github.com/repos/VNG-Realisatie/GEMMA-GGM-Archi-repository

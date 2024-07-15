@@ -132,7 +132,7 @@ class GitHubAPIToken(object):
         if self.limit[key]['remaining'] != 0:
             return 0
         return self.limit[key]['reset_time']
-
+    
     def request(self, url, method='get', data=None, **params):
         # TODO: use coroutines, perhaps Tornado (as PY2/3 compatible)
 
@@ -703,9 +703,8 @@ class GitHubAPI(object):
             email = userInfo['email']
             return email
 
-
     # this function get repo by specifying constraints
-    def get_repo(self, language, created_date_from, created_date_to):
+    def get_repo2(self, language, created_date_from, created_date_to):
         """ Return timeline on an issue or a pull request
                 :param repo: str 'owner/repo'url
                 :param issue_id: int, either an issue or a Pull Request id
@@ -725,6 +724,45 @@ class GitHubAPI(object):
             url = 'search/repositories?q=language%3A\"'+language+'\"+created%3A'+created_date_from+'..'+created_date_to+'&s=stars'+'&page='+str(page)
             repos['items'] += self.request(url, paginate=False)['items']
             items_remaining = total_repos - len(repos['items'])
+        return repos
+
+    # this function get repo by specifying constraints
+    def get_repo(self, query, created_date_from, created_date_to, result):
+        """ Return timeline on an issue or a pull request
+                :param repo: str 'owner/repo'url
+                :param issue_id: int, either an issue or a Pull Request id
+                """
+        # append to repos['items'] list
+        # keep going through the results pages and extract ['items']
+        # append extracted items to original
+        if result==0:
+            url = 'search/repositories?q='+query+'+created%3A'+created_date_from+".."+created_date_to+'&s=stars'
+        elif result==1:
+            url = 'search/code?q='+query+'+created%3A'+created_date_from+".."+created_date_to+'&s=stars'
+        else:
+            url = 'search/issues?q='+query+'+created%3A'+created_date_from+".."+created_date_to+'&s=stars'
+        
+        repos = self.request(url, paginate=False)
+        page = 1
+        total_repos = min(repos['total_count'], 1000)
+        items_remaining = total_repos - len(repos['items'])
+        prev_items_remaining = items_remaining
+        while items_remaining > 0:
+            if result==0:
+                print("Repository search results remaining: {}".format(items_remaining))
+            elif result==1:
+                print("Code search results remaining: {}".format(items_remaining))
+            else:
+                print("Issues search results remaining: {}".format(items_remaining))
+            # next page
+            page += 1
+            url_page = url+'&page='+str(page)
+            #print("url_page: "+url_page)
+            repos['items'] += self.request(url_page, paginate=False)['items']
+            items_remaining = total_repos - len(repos['items'])
+            if items_remaining==prev_items_remaining:
+                break
+            prev_items_remaining = items_remaining
         return repos
 
 
@@ -1090,7 +1128,7 @@ def fetch_file_list(repo, num, renew=False):
     localfile.write_to_file(save_path, file_list)
     return file_list
 
-
+#print(fetch_file_list("LanceMoe/openai-translator", 1, renew=False))
 pull_commit_sha_cache = {}
 
 

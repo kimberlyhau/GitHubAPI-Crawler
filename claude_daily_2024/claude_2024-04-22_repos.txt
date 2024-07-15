@@ -1,0 +1,9 @@
+https://api.github.com/repos/traderjean/claude
+https://api.github.com/repos/claudekoo/claudekoo
+https://api.github.com/repos/May-ham/Claudes
+https://api.github.com/repos/JPhyzer-10/Jash_claude
+https://api.github.com/repos/Ily01s/Lettre-Claude-Shannon
+https://api.github.com/repos/samestrin/claude-to-chatgpt-digitalocean
+https://api.github.com/repos/metaversemultiverse/CrewAI-withClaude
+https://api.github.com/repos/rizerphe/anthropic-tools
+https://api.github.com/repos/alokemajumder/Auto-PR-Content-Generator

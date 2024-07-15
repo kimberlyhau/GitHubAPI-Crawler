@@ -1,0 +1,15 @@
+https://api.github.com/repos/litongjava/tauri-claude
+https://api.github.com/repos/A5jadAli/claude3-hackathon
+https://api.github.com/repos/jmin111301/ClaudeAnthropicHackathon
+https://api.github.com/repos/ansariahmad/Claudestay
+https://api.github.com/repos/M9ji/telegram-claude
+https://api.github.com/repos/akashvarun10/Anthropic-Claude
+https://api.github.com/repos/youking5688/claude-proxy
+https://api.github.com/repos/ktakahiro150397/discord-bot-claude
+https://api.github.com/repos/sinditech/sindi-ai-anthropic
+https://api.github.com/repos/qaillc/GlobalInsightClaude3Hackathon
+https://api.github.com/repos/cocomarinaru/hai
+https://api.github.com/repos/arsamezzati/DBMSHelper
+https://api.github.com/repos/BeeChains/inneri.supaai
+https://api.github.com/repos/jalonenbrothers/film-review-plugin-demo
+https://api.github.com/repos/bilsimaging/Play-It

@@ -1,0 +1,5 @@
+https://api.github.com/repos/NocturnalRushers/claude4.8render
+https://api.github.com/repos/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-ClaudeFyre
+https://api.github.com/repos/mcclaude7/MY-BRAND-claude
+https://api.github.com/repos/ed423/nlp-piazza-analysis-chatbot
+https://api.github.com/repos/nith-in7/Chat-Mate

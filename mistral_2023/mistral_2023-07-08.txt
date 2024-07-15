@@ -1,0 +1,14 @@
+https://api.github.com/repos/microsoft/DeepSpeed
+https://api.github.com/repos/vitoplantamura/OnnxStream
+https://api.github.com/repos/InternLM/xtuner
+https://api.github.com/repos/tsunamayo/Starship-EVO
+https://api.github.com/repos/KoboldAI/KoboldAI-Client
+https://api.github.com/repos/ValveSoftware/Dota2-Gameplay
+https://api.github.com/repos/huggingface/blog
+https://api.github.com/repos/nomic-ai/gpt4all
+https://api.github.com/repos/PennyDreadfulMTG/perf-reports
+https://api.github.com/repos/langchain-ai/langchain
+https://api.github.com/repos/eth-sri/lmql
+https://api.github.com/repos/pabloiyu/mini-language-model
+https://api.github.com/repos/livebook-dev/livebook
+https://api.github.com/repos/ZeroK-RTS/CrashReports

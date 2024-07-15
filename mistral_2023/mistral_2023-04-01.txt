@@ -1,0 +1,13 @@
+https://api.github.com/repos/ZeroK-RTS/CrashReports
+https://api.github.com/repos/luo-anthony/DeveloperGPT
+https://api.github.com/repos/tjk/vue-o2c
+https://api.github.com/repos/yangjianxin1/Firefly
+https://api.github.com/repos/stencila/stencila
+https://api.github.com/repos/YosysHQ/yosys
+https://api.github.com/repos/ssbuild/llm_finetuning
+https://api.github.com/repos/Lightning-AI/lit-llama
+https://api.github.com/repos/langchain-ai/langchain
+https://api.github.com/repos/PygmalionOfCyprus/cmo-db-requests
+https://api.github.com/repos/lm-sys/FastChat
+https://api.github.com/repos/aMytho/brave-frontier-godot
+https://api.github.com/repos/ROCm/ROCm

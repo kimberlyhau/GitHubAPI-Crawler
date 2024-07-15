@@ -1,0 +1,4 @@
+https://api.github.com/repos/bentoml/OpenLLM
+https://api.github.com/repos/jorge-menjivar/unsaged
+https://api.github.com/repos/jorgenlt/smartbot
+https://api.github.com/repos/gulabpatel/LLMs

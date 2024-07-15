@@ -1,0 +1,7 @@
+https://api.github.com/repos/oobabooga/text-generation-webui
+https://api.github.com/repos/OpenNMT/CTranslate2
+https://api.github.com/repos/jianzhnie/open-chatgpt
+https://api.github.com/repos/alpaka-group/alpaka
+https://api.github.com/repos/huggingface/transformers
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/langchain-ai/langchain

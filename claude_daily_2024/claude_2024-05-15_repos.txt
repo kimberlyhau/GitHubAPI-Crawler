@@ -1,0 +1,4 @@
+https://api.github.com/repos/dzivkovi/Claude
+https://api.github.com/repos/GPT-Engineer-App/anthropic-claude-chat-theme
+https://api.github.com/repos/LEOBLACKGOSPEL/bootcampnexa
+https://api.github.com/repos/mungana-ai/homeai

@@ -1,0 +1,9 @@
+https://api.github.com/repos/sfloresk/anthropic-claude3-examples
+https://api.github.com/repos/yarixxcod/telegram-claude
+https://api.github.com/repos/Janevit/bedrock-claude-chat
+https://api.github.com/repos/Brainfeed-1996/Exercices_CPP_5
+https://api.github.com/repos/Brainfeed-1996/Exercices_CPP_2
+https://api.github.com/repos/Brainfeed-1996/Exercices_CPP_3
+https://api.github.com/repos/Brainfeed-1996/Exercices_C-_1
+https://api.github.com/repos/Brainfeed-1996/Exercices_CPP_4
+https://api.github.com/repos/Brainfeed-1996/Exercices_CPP_6

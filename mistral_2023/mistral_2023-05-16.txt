@@ -1,0 +1,15 @@
+https://api.github.com/repos/ZeroK-RTS/CrashReports
+https://api.github.com/repos/nomic-ai/gpt4all
+https://api.github.com/repos/ESMValGroup/ESMValCore
+https://api.github.com/repos/jschm42/talkforgeai
+https://api.github.com/repos/qingyin3545/Super-Power-Remaking-of-World-Order
+https://api.github.com/repos/go-skynet/model-gallery
+https://api.github.com/repos/icebaker/sublime-nano-bots
+https://api.github.com/repos/101dotxyz/GPTeam
+https://api.github.com/repos/lobehub/lobe-chat
+https://api.github.com/repos/icebaker/nano-bots-api
+https://api.github.com/repos/ray-project/llm-numbers
+https://api.github.com/repos/YosysHQ/nextpnr
+https://api.github.com/repos/rbroc/echo
+https://api.github.com/repos/aMytho/brave-frontier-godot
+https://api.github.com/repos/icebaker/vscode-nano-bots

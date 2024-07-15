@@ -1,0 +1,6 @@
+https://api.github.com/repos/barakb/hello-langchain
+https://api.github.com/repos/44smkn/dotfiles
+https://api.github.com/repos/langchain-ai/langchain
+https://api.github.com/repos/yuiseki/LAPLACE
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/suzuki-shunsuke/github-token-action

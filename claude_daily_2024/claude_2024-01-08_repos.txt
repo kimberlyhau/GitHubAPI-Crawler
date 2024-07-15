@@ -1,0 +1,1 @@
+https://api.github.com/repos/manpr-ai/prix-claude-parent

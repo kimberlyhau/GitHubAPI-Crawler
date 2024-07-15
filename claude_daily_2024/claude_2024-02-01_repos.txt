@@ -1,0 +1,4 @@
+https://api.github.com/repos/EYSH04/claude3
+https://api.github.com/repos/EYSH04/claude4
+https://api.github.com/repos/EYSH04/claude2
+https://api.github.com/repos/NocturnalRushers/claude_termux

@@ -1,0 +1,15 @@
+https://api.github.com/repos/AITwinMinds/Ollama-in-Google-Colab
+https://api.github.com/repos/LexiestLeszek/DebateGPT
+https://api.github.com/repos/marco-souza/omg
+https://api.github.com/repos/mvdiogo/AutoGen-Ollama
+https://api.github.com/repos/jack4world/rag_ollama_langchain
+https://api.github.com/repos/inteligenciamilgrau/ollama_tutoriais
+https://api.github.com/repos/xyproto/fortune9000
+https://api.github.com/repos/jellyterra/ollama-colab
+https://api.github.com/repos/ejhusom/scaphandre-ollama
+https://api.github.com/repos/HassenIO/ollama-js-test
+https://api.github.com/repos/Cutwell/ollama-langchain-guide
+https://api.github.com/repos/Diallo75012/langchain_pgvector_ollama_embeddings
+https://api.github.com/repos/ozi3ozi/note_taker_langchain_ollama
+https://api.github.com/repos/nedimcanulusoy/StayScope
+https://api.github.com/repos/mavacpjm/VOICEAI2.0

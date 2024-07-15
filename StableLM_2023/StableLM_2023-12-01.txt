@@ -1,0 +1,10 @@
+https://api.github.com/repos/microsoft/autogen
+https://api.github.com/repos/nod-ai/SHARK
+https://api.github.com/repos/aws/sagemaker-python-sdk
+https://api.github.com/repos/openvinotoolkit/openvino.genai
+https://api.github.com/repos/mlc-ai/mlc-llm
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/oobabooga/text-generation-webui
+https://api.github.com/repos/architkaila/Fine-Tuning-LLMs-for-Medical-Entity-Extraction
+https://api.github.com/repos/IDinsight/aaq-core
+https://api.github.com/repos/Mobile-Artificial-Intelligence/maid

@@ -1,0 +1,17 @@
+https://api.github.com/repos/Gayathridhanush/lamda
+https://api.github.com/repos/guttasruthi/lamda
+https://api.github.com/repos/sundarissk/LamdaTestSeleniumJava101
+https://api.github.com/repos/yohannUL/lamdaproject
+https://api.github.com/repos/Bardic-Knowledge/AWS-Lamda
+https://api.github.com/repos/danexpress/lamda-serverless
+https://api.github.com/repos/tnlamb/ServerSaveLamda
+https://api.github.com/repos/Vishal1579/Lamda-S3-access
+https://api.github.com/repos/i-dipanshu/ssr-react-using-lamda
+https://api.github.com/repos/Lgumier/Corporate_finance_Montecarlosimulation_for_lamda
+https://api.github.com/repos/ZedOps8/backend-Nodejs-AWS-Lamda-Serverless
+https://api.github.com/repos/mj703/Cloud_Cost_Optimization_with_AWS_Lamda
+https://api.github.com/repos/imdurgadas/otp-system-serverless
+https://api.github.com/repos/vikram8887/-9-11-2023-class-Lamda-filter-reduce
+https://api.github.com/repos/souravbhatnagar/LambdaNodeAPI
+https://api.github.com/repos/issaiass/Operationalizing-an-AWS-ML-Project
+https://api.github.com/repos/deek-the-geek/AWS_POC1

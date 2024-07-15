@@ -1,0 +1,2 @@
+https://api.github.com/repos/e-tornike/arxiv-daily-summaries
+https://api.github.com/repos/amazon-science/alexa-teacher-models

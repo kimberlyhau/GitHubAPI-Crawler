@@ -1,0 +1,8 @@
+https://api.github.com/repos/aws-samples/bedrock-claude-chat
+https://api.github.com/repos/holoviz-topics/panel-chat-examples
+https://api.github.com/repos/aws-samples/generative-ai-use-cases-jp
+https://api.github.com/repos/mountaineerbr/shellChatGPT
+https://api.github.com/repos/HMUNACHI/nanodl
+https://api.github.com/repos/maridasi47500/mistralfm
+https://api.github.com/repos/MicrobialGenomics-IrsicaixaOrg/ivihome
+https://api.github.com/repos/NLPForUA/UA-LLM

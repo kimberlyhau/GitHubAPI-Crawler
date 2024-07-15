@@ -1,0 +1,3 @@
+https://api.github.com/repos/FMXExpress/AI-Vision-Chat
+https://api.github.com/repos/Paulyang80/LLMEvaluation-A100-vs-V100-
+https://api.github.com/repos/lias-laboratory/experimentalhistorianllm

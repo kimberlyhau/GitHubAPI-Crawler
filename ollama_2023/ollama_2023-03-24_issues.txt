@@ -1,0 +1,5 @@
+https://api.github.com/repos/jodendaal/DesktopAI
+https://api.github.com/repos/di-sukharev/opencommit
+https://api.github.com/repos/DEAN-ngo/elimupi
+https://api.github.com/repos/karthink/gptel
+https://api.github.com/repos/ggerganov/llama.cpp

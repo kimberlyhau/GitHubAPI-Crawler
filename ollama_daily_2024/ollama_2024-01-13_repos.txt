@@ -1,0 +1,6 @@
+https://api.github.com/repos/lebrunel/ollama-ex
+https://api.github.com/repos/OwlAIProject/Owl
+https://api.github.com/repos/vinodvpillai/AI_Ollama
+https://api.github.com/repos/ghostzero/ollama-client
+https://api.github.com/repos/tgraupmann/HTML5_Ollama_Speech
+https://api.github.com/repos/monofuel/llama_leap

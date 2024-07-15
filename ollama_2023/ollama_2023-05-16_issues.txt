@@ -1,0 +1,3 @@
+https://api.github.com/repos/sqlchat/sqlchat
+https://api.github.com/repos/edward3h/minecraft-webhook
+https://api.github.com/repos/QuivrHQ/quivr

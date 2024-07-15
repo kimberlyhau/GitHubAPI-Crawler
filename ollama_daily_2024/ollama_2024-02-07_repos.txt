@@ -1,0 +1,14 @@
+https://api.github.com/repos/LexiestLeszek/qwen_rag_ollama
+https://api.github.com/repos/beeCuiet/llm-twitter-thread-bot
+https://api.github.com/repos/SpaceTerran/ollama-webui_and_liteLLM-proxy
+https://api.github.com/repos/BatSmacker84/guillama
+https://api.github.com/repos/ScottLL/autogen-ollama
+https://api.github.com/repos/koreniac/ollama-webui
+https://api.github.com/repos/asunsada/ollama-webui
+https://api.github.com/repos/foutfin/ollama-ui
+https://api.github.com/repos/TomBers/ollama_live
+https://api.github.com/repos/marlinprotocol/ollama_oyster_setup
+https://api.github.com/repos/deependhulla/zulip-bot-ollama-gpt-single
+https://api.github.com/repos/karlosvas/chat-with-pdf
+https://api.github.com/repos/jwansek/noetic-llama
+https://api.github.com/repos/Serge-Ntumba/manage_personal_finance_llms

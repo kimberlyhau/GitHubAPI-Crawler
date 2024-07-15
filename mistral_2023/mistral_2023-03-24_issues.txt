@@ -1,0 +1,6 @@
+https://api.github.com/repos/lm-sys/FastChat
+https://api.github.com/repos/ZeroK-RTS/CrashReports
+https://api.github.com/repos/The-OpenROAD-Project/OpenLane
+https://api.github.com/repos/ZeroK-RTS/CrashReports
+https://api.github.com/repos/karthink/gptel
+https://api.github.com/repos/openstack-k8s-operators/ci-framework

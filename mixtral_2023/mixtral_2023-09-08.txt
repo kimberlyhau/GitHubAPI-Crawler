@@ -1,0 +1,9 @@
+https://api.github.com/repos/turboderp/exllamav2
+https://api.github.com/repos/huggingface/text-generation-inference
+https://api.github.com/repos/oobabooga/text-generation-webui
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/brave/brave-core
+https://api.github.com/repos/BerriAI/litellm
+https://api.github.com/repos/vllm-project/vllm
+https://api.github.com/repos/flexflow/FlexFlow
+https://api.github.com/repos/the-crypt-keeper/can-ai-code

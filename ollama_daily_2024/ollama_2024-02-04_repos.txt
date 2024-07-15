@@ -1,0 +1,15 @@
+https://api.github.com/repos/valiantlynx/ollama-docker
+https://api.github.com/repos/ivanfioravanti/autogram
+https://api.github.com/repos/mattt/ollama-swift
+https://api.github.com/repos/djliden/ollama-elisp-sdk
+https://api.github.com/repos/scottmysliwy/ollamagen
+https://api.github.com/repos/dgiebert/fleet-ollama
+https://api.github.com/repos/davidamacey/run_ollamawebui
+https://api.github.com/repos/abdza/ollama-langchain
+https://api.github.com/repos/rottitime/ollama-battle
+https://api.github.com/repos/Mablunt/ollama.github.io
+https://api.github.com/repos/mfmezger/ollama-taipy-chat
+https://api.github.com/repos/dispe/langchain-ollama-local-demo
+https://api.github.com/repos/LukeThoma5/ollama-arch-linux-amd-gpu
+https://api.github.com/repos/gavmor/condor
+https://api.github.com/repos/analyticalmonk/local_llm_tts_summarization

@@ -1,0 +1,7 @@
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/sgol13/elixir-chatbot
+https://api.github.com/repos/EricLBuehler/candle-lora
+https://api.github.com/repos/GENZITSU/UsefulMaterials
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/vllm-project/vllm
+https://api.github.com/repos/ggerganov/llama.cpp

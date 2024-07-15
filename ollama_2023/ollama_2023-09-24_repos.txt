@@ -1,0 +1,6 @@
+https://api.github.com/repos/mthongvanh/amallo
+https://api.github.com/repos/peteha/ollamabuild
+https://api.github.com/repos/abdullah-bl/ai-ollama
+https://api.github.com/repos/derak-kilgo/vagrant-ollama
+https://api.github.com/repos/mgomes/heroku-buildpack-ollama
+https://api.github.com/repos/thebigbone/explain-code

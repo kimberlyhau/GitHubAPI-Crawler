@@ -1,0 +1,2 @@
+https://api.github.com/repos/bbreton3/stablelm-zephyr-serverless
+https://api.github.com/repos/fabiomatricardi/StableLM-Zephyr3B_Playground

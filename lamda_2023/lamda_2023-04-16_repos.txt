@@ -1,0 +1,10 @@
+https://api.github.com/repos/Cyril-Muchiri/lamdas101
+https://api.github.com/repos/Luchok45/Lamda
+https://api.github.com/repos/fuadagus/lamda
+https://api.github.com/repos/wesleykel/lamda-zod
+https://api.github.com/repos/mocakosan/sansbook-lamda
+https://api.github.com/repos/imneeteeshyadav98/aws-lamda
+https://api.github.com/repos/chadchang001/Lamda_evolution
+https://api.github.com/repos/M-Topcu/Lamda-Learning
+https://api.github.com/repos/soma-bharath/AWS-Lamda-provisioning
+https://api.github.com/repos/DanVerh/university-terraform-aws-lab

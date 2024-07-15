@@ -1,0 +1,5 @@
+https://api.github.com/repos/agrebenkina/vicuna
+https://api.github.com/repos/mrkpr0d/Vicuna_Bot
+https://api.github.com/repos/rishiraj/Wizard-Vicuna-13B-Uncensored-HF
+https://api.github.com/repos/Murder-on-Vicuna-Street/backend
+https://api.github.com/repos/Algorant/chatbot-in-rust

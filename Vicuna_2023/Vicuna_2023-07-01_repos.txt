@@ -1,0 +1,8 @@
+https://api.github.com/repos/declare-lab/flacuna
+https://api.github.com/repos/AbineshSivakumar/Llama-2-7B-QLoRA-Vicuna
+https://api.github.com/repos/FMXExpress/AI-Translate
+https://api.github.com/repos/chengzl18/Vicuna-LoRA
+https://api.github.com/repos/Carolmelon/vicuna_falcon
+https://api.github.com/repos/zihaod/LAVENDER_Vicuna
+https://api.github.com/repos/nucent0802/vicuna-finetune-on-sagemaker
+https://api.github.com/repos/RulinShao/VL-Instruct

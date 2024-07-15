@@ -1,0 +1,14 @@
+https://api.github.com/repos/OpenGVLab/Ask-Anything
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/huggingface/candle
+https://api.github.com/repos/huggingface/candle
+https://api.github.com/repos/sotokisehiro/chatux-server-llm
+https://api.github.com/repos/Stability-AI/lm-evaluation-harness
+https://api.github.com/repos/mlc-ai/mlc-llm
+https://api.github.com/repos/llm-jp/awesome-japanese-llm
+https://api.github.com/repos/llm-jp/awesome-japanese-llm
+https://api.github.com/repos/mlc-ai/mlc-llm
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/Sosuke115/qlora_ja
+https://api.github.com/repos/nod-ai/SHARK
+https://api.github.com/repos/Lightning-AI/litgpt

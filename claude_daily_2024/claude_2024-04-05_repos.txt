@@ -1,0 +1,15 @@
+https://api.github.com/repos/galaxyapi/claude-3
+https://api.github.com/repos/martinxu9/claude-table-extractor
+https://api.github.com/repos/X-3306/New-Prompt-to-bypass-claude3
+https://api.github.com/repos/llegomark/discord-bot-claude-gemini
+https://api.github.com/repos/skrinak/claude3
+https://api.github.com/repos/Archichis/telegram-claude
+https://api.github.com/repos/manjeetkumar53/claude-ai
+https://api.github.com/repos/jeanClaudescript/jeanClaudescript
+https://api.github.com/repos/DannyMac180/claude-3-tools
+https://api.github.com/repos/kkpkishan/bedrock-claude-chat
+https://api.github.com/repos/Mavlarn/auto_evaluation_with_claude
+https://api.github.com/repos/entrepeneur4lyf/AiNewsAgency
+https://api.github.com/repos/vedantprof/Document-Q-A-using-AWS-Bedrock-Langchain-and-Claude-Llama-2-model.
+https://api.github.com/repos/theclaymethod/anthropic-zod-example
+https://api.github.com/repos/shettydevesh/ai-coach-testing-site

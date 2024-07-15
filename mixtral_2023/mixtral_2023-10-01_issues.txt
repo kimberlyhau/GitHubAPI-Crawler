@@ -1,0 +1,5 @@
+https://api.github.com/repos/casper-hansen/AutoAWQ
+https://api.github.com/repos/hasibzunair/generative-models-tutorial
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/turboderp/exllamav2
+https://api.github.com/repos/ollama/ollama

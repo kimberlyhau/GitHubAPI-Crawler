@@ -1,0 +1,6 @@
+https://api.github.com/repos/aws-samples/semantic-search-with-amazon-opensearch
+https://api.github.com/repos/stanford-crfm/ecosystem-graphs
+https://api.github.com/repos/jungwoo-ha/WeeklyArxivTalk
+https://api.github.com/repos/amazon-science/alexa-teacher-models
+https://api.github.com/repos/anarchy-ai/LLM-VM
+https://api.github.com/repos/langchain-ai/langchain

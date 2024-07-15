@@ -1,0 +1,2 @@
+https://api.github.com/repos/stevensu1977/bedrock-claude-functioncalling
+https://api.github.com/repos/mariaaghata08pkl/claudetejoao08pkl

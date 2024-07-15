@@ -1,0 +1,6 @@
+https://api.github.com/repos/mekb-turtle/discord-ai-bot
+https://api.github.com/repos/BerriAI/litellm
+https://api.github.com/repos/MassimilianoPasquini97/raycast_ollama
+https://api.github.com/repos/mxyng/discollama
+https://api.github.com/repos/samalba/dagger-chatbot
+https://api.github.com/repos/TouShang6015/Hugai-chatgpt

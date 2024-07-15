@@ -1,0 +1,3 @@
+https://api.github.com/repos/vacmar01/mixtral_data_extraction
+https://api.github.com/repos/BulletLaunch/Mixtral-Inference-APIs
+https://api.github.com/repos/netzack/mixtral.replicate.dev-

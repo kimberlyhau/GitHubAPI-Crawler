@@ -1,0 +1,12 @@
+https://api.github.com/repos/VinAIResearch/PhoGPT
+https://api.github.com/repos/microsoft/autogen
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/di-sukharev/opencommit
+https://api.github.com/repos/vizhub-core/vzcode
+https://api.github.com/repos/simonw/llm
+https://api.github.com/repos/abetlen/llama-cpp-python
+https://api.github.com/repos/kevinhermawan/Ollamac
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/noco-ai/spellbook-docker
+https://api.github.com/repos/huggingface/trl
+https://api.github.com/repos/the-crypt-keeper/can-ai-code

@@ -1,0 +1,14 @@
+https://api.github.com/repos/gregpboon/claude
+https://api.github.com/repos/ClaudeChan1228/ClaudeChan1228.github.io
+https://api.github.com/repos/muumuunimuu/Claude-web-
+https://api.github.com/repos/aviz85/Claude-UIs
+https://api.github.com/repos/jghughesai/claude-BOM-script
+https://api.github.com/repos/tmofinder/jean-claude-bayala
+https://api.github.com/repos/johndpope/SPEAK-hack
+https://api.github.com/repos/travmiller/spacegame
+https://api.github.com/repos/arudnitsky/ukrainian-gtypist
+https://api.github.com/repos/omarjatoi/monet
+https://api.github.com/repos/miracsengonul/car-parking-game
+https://api.github.com/repos/liuchuang1218/image-cropper-tool
+https://api.github.com/repos/bigsk1/llm-adapter
+https://api.github.com/repos/ChayaLipshitz/NutriChef-AI

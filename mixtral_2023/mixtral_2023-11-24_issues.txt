@@ -1,0 +1,15 @@
+https://api.github.com/repos/huggingface/chat-ui
+https://api.github.com/repos/AutoGPTQ/AutoGPTQ
+https://api.github.com/repos/huggingface/chat-ui
+https://api.github.com/repos/ROCm/flash-attention
+https://api.github.com/repos/vllm-project/vllm
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/charmbracelet/mods
+https://api.github.com/repos/microsoft/autogen
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/modelscope/swift
+https://api.github.com/repos/LibrePhotos/librephotos
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/BerriAI/litellm
+https://api.github.com/repos/ggerganov/ggml
+https://api.github.com/repos/ollama/ollama

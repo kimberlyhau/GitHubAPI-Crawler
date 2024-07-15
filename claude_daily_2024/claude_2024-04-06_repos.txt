@@ -1,0 +1,6 @@
+https://api.github.com/repos/exec/claude-exec-cli
+https://api.github.com/repos/AndraxDev/speak-gpt-web
+https://api.github.com/repos/the-rahulpatel/claudetest
+https://api.github.com/repos/ClaudeJohnson/claudejohnson
+https://api.github.com/repos/FelixLeChat92/ContextForClaude3
+https://api.github.com/repos/yogendra-yatnalkar/VLM-drives-in-GTA

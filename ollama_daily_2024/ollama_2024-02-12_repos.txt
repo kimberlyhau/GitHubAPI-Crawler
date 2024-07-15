@@ -1,0 +1,11 @@
+https://api.github.com/repos/ohdoking/ollama-with-rag
+https://api.github.com/repos/aficiomaquinas/ollama-salad
+https://api.github.com/repos/rydnr/basics-ollama
+https://api.github.com/repos/h3110Fr13nd/ollama-lambda
+https://api.github.com/repos/eddumelendez/ollama-poc
+https://api.github.com/repos/eddumelendez/testcontainers-ollama-test
+https://api.github.com/repos/lab1702/ollama-streamlit-ui
+https://api.github.com/repos/lfdominguez/roz
+https://api.github.com/repos/microchipgnu/near-autonomous-wallet
+https://api.github.com/repos/skodnik/local-LLM
+https://api.github.com/repos/johnathan-greenaway/cli-FSD

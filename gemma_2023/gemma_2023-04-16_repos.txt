@@ -1,0 +1,2 @@
+https://api.github.com/repos/team-westside/gemma-app
+https://api.github.com/repos/team-westside/gemma-backend

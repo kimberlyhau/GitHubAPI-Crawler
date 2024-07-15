@@ -1,0 +1,14 @@
+https://api.github.com/repos/wi2trier/cbrkit
+https://api.github.com/repos/kazssym/stablelm-study-2
+https://api.github.com/repos/huggingface/transformers
+https://api.github.com/repos/IQTLabs/daisybell
+https://api.github.com/repos/jian-mo/QAQG
+https://api.github.com/repos/sammcj/llamalink
+https://api.github.com/repos/courtois-neuromod/cneuromax
+https://api.github.com/repos/huggingface/huggingface.js
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/InseeFrLab/satellite-images-dev
+https://api.github.com/repos/aleksanderbl29/ML
+https://api.github.com/repos/PKU-YuanGroup/MoE-LLaVA
+https://api.github.com/repos/stephenhky/PyShortTextCategorization
+https://api.github.com/repos/hongbo-miao/hongbomiao.com

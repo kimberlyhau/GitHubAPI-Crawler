@@ -1,0 +1,7 @@
+https://api.github.com/repos/Aldiwildan77/assistant-ollama-crewai
+https://api.github.com/repos/ly2xxx/local-rag-ollama
+https://api.github.com/repos/fgheorghe/ollama-desktop-gui
+https://api.github.com/repos/Deluxer/RAG-API
+https://api.github.com/repos/LakshitLuhadia/Mistral-7b
+https://api.github.com/repos/videmsky/docschat-pgvector
+https://api.github.com/repos/Juissie-GW/Juissie.jl

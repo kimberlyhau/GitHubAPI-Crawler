@@ -1,0 +1,3 @@
+https://api.github.com/repos/amazon-science/alexa-teacher-models
+https://api.github.com/repos/jungwoo-ha/WeeklyArxivTalk
+https://api.github.com/repos/aws-samples/semantic-search-with-amazon-opensearch

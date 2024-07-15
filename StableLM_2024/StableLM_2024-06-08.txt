@@ -1,0 +1,11 @@
+https://api.github.com/repos/google-ai-edge/mediapipe-samples
+https://api.github.com/repos/TinyLLaVA/TinyLLaVA_Factory
+https://api.github.com/repos/realbrodiwhite/CAREERCAPTAINAI_TEST
+https://api.github.com/repos/chatchat-space/Langchain-Chatchat
+https://api.github.com/repos/CopywriterPro-ai/copywriterproai-frontend
+https://api.github.com/repos/CopywriterPro-ai/copywriterproai-backend
+https://api.github.com/repos/jiangsongtao/TinyMed
+https://api.github.com/repos/stevelaskaridis/awesome-mobile-llm
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/x-tabdeveloping/turftopic
+https://api.github.com/repos/ScandEval/ScandEval

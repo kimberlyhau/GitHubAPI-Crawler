@@ -1,0 +1,14 @@
+https://api.github.com/repos/samwit/ollama-tutorials
+https://api.github.com/repos/lgdd/chatollama
+https://api.github.com/repos/PromptMixerDev/prompt-mixer-ollama-connector
+https://api.github.com/repos/egermano/poc-rag-ollama
+https://api.github.com/repos/vital121/-AutoGen-Ollama-Instructions-
+https://api.github.com/repos/mavacpjm/OLLAMADOCSv1
+https://api.github.com/repos/sebastiencg/api-ollama
+https://api.github.com/repos/ismaelc/ollama-utility
+https://api.github.com/repos/bsccode/Ollama-Chatbot
+https://api.github.com/repos/CosminIordache/chatbot-ollama-flet
+https://api.github.com/repos/sashabaranov/ollama-helm-chart
+https://api.github.com/repos/ssghost/Nextjs-Ollama-Frontend
+https://api.github.com/repos/osoderholm/runpod-tiny-ollama
+https://api.github.com/repos/vital121/docker-autogen--memgpt-ollama

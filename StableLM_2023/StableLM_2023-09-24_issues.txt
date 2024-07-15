@@ -1,0 +1,8 @@
+https://api.github.com/repos/llm-attacks/llm-attacks
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/the-crypt-keeper/can-ai-code
+https://api.github.com/repos/Stability-AI/StableLM
+https://api.github.com/repos/huggingface/peft
+https://api.github.com/repos/oobabooga/text-generation-webui
+https://api.github.com/repos/nomic-ai/gpt4all
+https://api.github.com/repos/Lightning-AI/litgpt

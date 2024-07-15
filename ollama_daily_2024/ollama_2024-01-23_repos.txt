@@ -1,0 +1,8 @@
+https://api.github.com/repos/jcmccormick/runtts
+https://api.github.com/repos/Jhonnyr97/ollama
+https://api.github.com/repos/NacreousDawn596/ONacUI
+https://api.github.com/repos/leroybm/ollama-rag
+https://api.github.com/repos/Dom-Cogan/extended_ollama_conversation
+https://api.github.com/repos/carlca/rust_xp_ollama
+https://api.github.com/repos/cacilhas/llama-desktop
+https://api.github.com/repos/vw-wob-it-edu/KARL

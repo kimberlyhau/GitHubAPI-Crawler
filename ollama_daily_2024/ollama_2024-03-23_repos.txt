@@ -1,0 +1,16 @@
+https://api.github.com/repos/alisson-anjos/ComfyUI-Ollama-Describer
+https://api.github.com/repos/Nagi-ovo/CRAG-Ollama-Chat
+https://api.github.com/repos/jjmlovesgit/BetterLocalOllamaRag-
+https://api.github.com/repos/jakubburkiewicz/node-red-contrib-ollama
+https://api.github.com/repos/Lunik/lolla
+https://api.github.com/repos/luisgdev/ollama-demo
+https://api.github.com/repos/kaarelkaarelson/colab_ollama
+https://api.github.com/repos/obaraelijah/ollama-inquire
+https://api.github.com/repos/Axodouble/Ollama-Botify
+https://api.github.com/repos/JohnPonciano/Ollama-embedchainAPI
+https://api.github.com/repos/kyoh86/ddc-source-ollama
+https://api.github.com/repos/bdauvissat/test-quarkus-ollama
+https://api.github.com/repos/kennethwork101/kwwutils
+https://api.github.com/repos/mightymensa/rag-portal
+https://api.github.com/repos/Abhishekvidhate/Code-Assistant-using-CodeLlama-via-Ollama-
+https://api.github.com/repos/untergunter/rag

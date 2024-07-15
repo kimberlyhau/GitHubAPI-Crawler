@@ -1,0 +1,3 @@
+https://api.github.com/repos/yangjianxin1/Firefly
+https://api.github.com/repos/ssbuild/llm_finetuning
+https://api.github.com/repos/luo-anthony/DeveloperGPT

@@ -1,0 +1,11 @@
+https://api.github.com/repos/docker/genai-stack
+https://api.github.com/repos/ollama/ollama-js
+https://api.github.com/repos/1Panel-dev/MaxKB
+https://api.github.com/repos/Wannabeasmartguy/GPT-Gradio-Agent
+https://api.github.com/repos/Sly777/hayde
+https://api.github.com/repos/dcasota/ollama-scripts
+https://api.github.com/repos/Zochory/ollama-chat
+https://api.github.com/repos/JayNakrani/ollama-lib-issue
+https://api.github.com/repos/francisduvivier/test-ollama-litellm
+https://api.github.com/repos/kevingoh/interpreter
+https://api.github.com/repos/vince-lam/gpt-summariser

@@ -1,0 +1,6 @@
+https://api.github.com/repos/Stability-AI/lm-evaluation-harness
+https://api.github.com/repos/bentoml/OpenLLM
+https://api.github.com/repos/Stability-AI/StableLM
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/meta-llama/codellama
+https://api.github.com/repos/defenseunicorns/leapfrogai

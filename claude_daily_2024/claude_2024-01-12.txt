@@ -1,0 +1,15 @@
+https://api.github.com/repos/guardrails-ai/guardrails
+https://api.github.com/repos/xtekky/gpt4free
+https://api.github.com/repos/opensearch-project/skills
+https://api.github.com/repos/fmhy/FMHYedit
+https://api.github.com/repos/GITenberg/The-life-of-John-Worth-Kern_72468
+https://api.github.com/repos/ArpitRajAryal/Project-12---Claude-Shannon-Algorithm-II
+https://api.github.com/repos/JanjaProgrammers/Certification_Repo
+https://api.github.com/repos/epam/ai-dial-adapter-bedrock
+https://api.github.com/repos/kujian/githubTrending
+https://api.github.com/repos/Zahra-k-b/Coursework-Planner
+https://api.github.com/repos/ArpitRajAryal/Project-11---Claude-Shannon-Algorithm-I
+https://api.github.com/repos/kimkihoon0515/mlops_crawling
+https://api.github.com/repos/Timothy023/RLMEC
+https://api.github.com/repos/awsdocs/aws-doc-sdk-examples
+https://api.github.com/repos/engineervix/cookiecutter-wagtail-vix

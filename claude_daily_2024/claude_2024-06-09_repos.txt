@@ -1,0 +1,4 @@
+https://api.github.com/repos/J-Claudes/J-Claudes
+https://api.github.com/repos/thu-ml/MMTrustEval
+https://api.github.com/repos/zer0int/Golden-Gate-CLIP
+https://api.github.com/repos/mikkelsvartveit/2cal

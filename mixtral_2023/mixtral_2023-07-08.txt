@@ -1,0 +1,2 @@
+https://api.github.com/repos/microsoft/DeepSpeed
+https://api.github.com/repos/InternLM/xtuner

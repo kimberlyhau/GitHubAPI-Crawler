@@ -1,0 +1,12 @@
+https://api.github.com/repos/Stability-AI/lm-evaluation-harness
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/Stability-AI/StableLM
+https://api.github.com/repos/amachang/learning_japanese_stablelm
+https://api.github.com/repos/huggingface/optimum-habana
+https://api.github.com/repos/OpenGVLab/Ask-Anything
+https://api.github.com/repos/BerriAI/litellm
+https://api.github.com/repos/llm-jp/awesome-japanese-llm
+https://api.github.com/repos/p1atdev/stablelm_lora
+https://api.github.com/repos/ravenscroftj/turbopilot
+https://api.github.com/repos/drikin/backspace
+https://api.github.com/repos/Geczy/chathub

@@ -1,0 +1,14 @@
+https://api.github.com/repos/simonw/llm
+https://api.github.com/repos/dejanvasic85/ses-next
+https://api.github.com/repos/lastmile-ai/aiconfig
+https://api.github.com/repos/joaomdmoura/crewAI-examples
+https://api.github.com/repos/lamalab-org/chem-bench
+https://api.github.com/repos/Bin-Huang/chatbox
+https://api.github.com/repos/Yukeaaa/arxiv-daily
+https://api.github.com/repos/souslesens/souslesensVocables
+https://api.github.com/repos/mlflow/mlflow
+https://api.github.com/repos/aws-samples/qnabot-on-aws-plugin-samples
+https://api.github.com/repos/brave/brave-browser
+https://api.github.com/repos/Vishwasp05/Todo-Claude
+https://api.github.com/repos/sariat0001/MODULE-JS3
+https://api.github.com/repos/kimkihoon0515/mlops_crawling

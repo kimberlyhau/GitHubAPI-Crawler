@@ -1,0 +1,14 @@
+https://api.github.com/repos/intelligentnode/IntelliChat
+https://api.github.com/repos/Jjarrard/Gemini-V3-Flash-Voron-V0
+https://api.github.com/repos/3dreu/Tronxy-Gemini-klipper
+https://api.github.com/repos/JulioAlaniz/gemini
+https://api.github.com/repos/psakore/GeminiMatchingEngine
+https://api.github.com/repos/TheGreatJoules/CSP-GeminiClient
+https://api.github.com/repos/jayfrost321/gemini-plumbing
+https://api.github.com/repos/jmwelshV2/Gemini_Key
+https://api.github.com/repos/Vinibo/ansible-gemini-fullstack
+https://api.github.com/repos/giacomosansoni/Website-Gemini-Blue
+https://api.github.com/repos/oliveirabalsa/gemini-todo-backend
+https://api.github.com/repos/dannielss/gemini-technical-challenge-backend
+https://api.github.com/repos/HadiDastangoo/GoogleGemini-RTL-Style
+https://api.github.com/repos/Lartu/MOXDown

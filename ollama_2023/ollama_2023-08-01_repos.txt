@@ -1,0 +1,5 @@
+https://api.github.com/repos/ollama-ui/ollama-ui
+https://api.github.com/repos/quack-ai/companion-vscode
+https://api.github.com/repos/jellydn/llama2-personal-ai
+https://api.github.com/repos/Akintunde102/ollama-webui
+https://api.github.com/repos/Akintunde102/ollama-nestjs-api

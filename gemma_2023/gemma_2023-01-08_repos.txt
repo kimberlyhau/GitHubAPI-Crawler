@@ -1,0 +1,3 @@
+https://api.github.com/repos/jamespartridge37/gemma
+https://api.github.com/repos/jb621-star/GEMMA_mod
+https://api.github.com/repos/Hackademy-Part-Time-6/EjemplosDOM1_Gemma

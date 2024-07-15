@@ -1,0 +1,17 @@
+https://api.github.com/repos/aws-samples/aws-bedrock-claude3-ui
+https://api.github.com/repos/cloudmagic80/claude
+https://api.github.com/repos/yostos/claude3-samples
+https://api.github.com/repos/PrathameshDalal/Claude3API-images
+https://api.github.com/repos/Elehiggle/Claude3MattermostChatbot
+https://api.github.com/repos/m18902558210/telegram-claude
+https://api.github.com/repos/florisdobber/claude-raycast
+https://api.github.com/repos/gitddtom/Claude-tool
+https://api.github.com/repos/gitddtom/Claude--api--tool
+https://api.github.com/repos/heng1df/claude-on-wechat
+https://api.github.com/repos/hinskip92/Claude-3-Streamlit
+https://api.github.com/repos/RitikPatill/Chat-App-Claude-API
+https://api.github.com/repos/rohanmg/bedrock-claude-chat-alb
+https://api.github.com/repos/kalyanvikkurthi/RAG-Claude-AI-Conversation-Agen
+https://api.github.com/repos/johnk963/Claude-3-Opus-consciousness-experiment
+https://api.github.com/repos/ishimwe1234567/ishimwe_murara_jean_claude_222005870_assignment_web_technology
+https://api.github.com/repos/9Shiro9/voice-chatbot-whisper-gpt-tts

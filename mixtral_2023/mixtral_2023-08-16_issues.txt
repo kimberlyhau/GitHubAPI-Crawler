@@ -1,0 +1,2 @@
+https://api.github.com/repos/skypilot-org/skypilot
+https://api.github.com/repos/brave/source-suggestions

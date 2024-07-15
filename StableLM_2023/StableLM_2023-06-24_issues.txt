@@ -1,0 +1,10 @@
+https://api.github.com/repos/fairhopeweb/chathub
+https://api.github.com/repos/ChuckFork/github-daily
+https://api.github.com/repos/bentoml/OpenLLM
+https://api.github.com/repos/ocdevel/gnothi
+https://api.github.com/repos/run-llama/llama_index
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/nod-ai/SHARK
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/ggerganov/ggml
+https://api.github.com/repos/ggerganov/llama.cpp

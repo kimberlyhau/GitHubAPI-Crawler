@@ -1,0 +1,15 @@
+https://api.github.com/repos/nekomeowww/ollama-operator
+https://api.github.com/repos/ericcurtin/podman-ollama
+https://api.github.com/repos/redhat-developer-demos/cde-ollama-continue
+https://api.github.com/repos/milosgajdos/bot-banter
+https://api.github.com/repos/smhmayboudi/flowise-ollama
+https://api.github.com/repos/ArtanKarrica/ollama-inovice-annotator
+https://api.github.com/repos/r420wens83/help-with-ollama
+https://api.github.com/repos/dineshra/lc_ollama_nomic
+https://api.github.com/repos/TyreseDev/Tyrese_Ollama-Images
+https://api.github.com/repos/farwish/electron-ollama-chats
+https://api.github.com/repos/22p21s0045/ollama-open-UI
+https://api.github.com/repos/Bruhgyaa/Ollama-chatbot-With-llama-model
+https://api.github.com/repos/sovos15/CAKE-TIME-
+https://api.github.com/repos/dhruvshrma/local-llm-interface
+https://api.github.com/repos/Halcy0nic/JYLA

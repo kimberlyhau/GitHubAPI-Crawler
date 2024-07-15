@@ -1,0 +1,17 @@
+https://api.github.com/repos/aws-samples/generative-ai-use-cases-jp
+https://api.github.com/repos/SocialGouv/code-du-travail-numerique
+https://api.github.com/repos/Vis4Sense/student-projects
+https://api.github.com/repos/aws-samples/serverless-pdf-chat
+https://api.github.com/repos/sasso-gonzalez/Jean-Claude-s-Patisserie
+https://api.github.com/repos/cormiertyshawn895/Retroactive
+https://api.github.com/repos/code-for-magdeburg/magdeburggiesst
+https://api.github.com/repos/epam/ai-dial-adapter-bedrock
+https://api.github.com/repos/A-Bahadory/Coursework-Planner
+https://api.github.com/repos/dair-ai/Prompt-Engineering-Guide
+https://api.github.com/repos/rhasspy/piper
+https://api.github.com/repos/sourcegraph/sourcegraph
+https://api.github.com/repos/openfoodfacts/smooth-app
+https://api.github.com/repos/kimkihoon0515/mlops_crawling
+https://api.github.com/repos/fly51fly/aicoco
+https://api.github.com/repos/LRudL/evalugator
+https://api.github.com/repos/AkeruAI/akeru

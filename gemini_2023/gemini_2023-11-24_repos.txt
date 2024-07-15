@@ -1,0 +1,13 @@
+https://api.github.com/repos/Jazee6/cloudflare-ai-web
+https://api.github.com/repos/phanxuanquang/AI-Handbook
+https://api.github.com/repos/digvijaybind/gemini
+https://api.github.com/repos/Saraahmedd/GeminiFrontend
+https://api.github.com/repos/george510257/gemini-upms
+https://api.github.com/repos/george510257/gemini-parent
+https://api.github.com/repos/arun443/CapGemini_test
+https://api.github.com/repos/MLC-Gemini/Gemini-Archive-SearchWebApp
+https://api.github.com/repos/jowilf/qwikcrud
+https://api.github.com/repos/KalashnikovProjects/DiscordKlaudyBot
+https://api.github.com/repos/jrTilak/bumbleBee
+https://api.github.com/repos/webmural/utm
+https://api.github.com/repos/kevin-t11/netflix-gpt

@@ -1,0 +1,8 @@
+https://api.github.com/repos/leona/helix-gpt
+https://api.github.com/repos/MSalman5230/RAG-with-LangChain-Chatbot
+https://api.github.com/repos/Innovathor69/ollama
+https://api.github.com/repos/joschrag/langchain-ollama-agents
+https://api.github.com/repos/wildcat7534/sakura
+https://api.github.com/repos/sania089/AI-Blog-Creation-using-Ollama
+https://api.github.com/repos/AvicennaJr/FyneAI
+https://api.github.com/repos/omondijeff/crewai-blogging-tool

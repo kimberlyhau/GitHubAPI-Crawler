@@ -1,0 +1,2 @@
+https://api.github.com/repos/ClaudeNelson/ClaudeNelson
+https://api.github.com/repos/gregriff/gpt-cli

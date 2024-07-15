@@ -1,0 +1,13 @@
+https://api.github.com/repos/oobabooga/text-generation-webui
+https://api.github.com/repos/Stability-AI/lm-evaluation-harness
+https://api.github.com/repos/SocialGouv/cdtn-monolog
+https://api.github.com/repos/louisgv/local.ai
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/deep-diver/LLM-As-Chatbot
+https://api.github.com/repos/ivgtr/github-weeklyTrends
+https://api.github.com/repos/stanford-crfm/ecosystem-graphs
+https://api.github.com/repos/dsi-icl/do-voice-interaction
+https://api.github.com/repos/douglas-reid/replicate-stablelm-tuned-alpha-7b
+https://api.github.com/repos/szwnba/affweb
+https://api.github.com/repos/sahil280114/serverless-template-stableLM
+https://api.github.com/repos/Stability-AI/StableLM

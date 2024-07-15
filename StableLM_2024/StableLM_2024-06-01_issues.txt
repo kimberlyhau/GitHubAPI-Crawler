@@ -1,0 +1,12 @@
+https://api.github.com/repos/intel-analytics/ipex-llm
+https://api.github.com/repos/mindspore-lab/mindnlp
+https://api.github.com/repos/patnorris/DecentralizedAIonIC
+https://api.github.com/repos/andeya/ai-pet
+https://api.github.com/repos/openvinotoolkit/openvino_notebooks
+https://api.github.com/repos/nilsherzig/LLocalSearch
+https://api.github.com/repos/Git-abouvier/LLocalSearch
+https://api.github.com/repos/sarvex/semantic-kernel
+https://api.github.com/repos/sarvex/cortex
+https://api.github.com/repos/mlc-ai/web-llm-chat
+https://api.github.com/repos/mlc-ai/mlc-llm
+https://api.github.com/repos/mlc-ai/web-llm

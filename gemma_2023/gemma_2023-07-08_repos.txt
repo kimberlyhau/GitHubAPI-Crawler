@@ -1,0 +1,4 @@
+https://api.github.com/repos/GemmaGarrigosa/GemmaGarrigosa
+https://api.github.com/repos/trulede/gemma
+https://api.github.com/repos/Naveen-Kadri/GEMMA
+https://api.github.com/repos/bioc/gemma.R

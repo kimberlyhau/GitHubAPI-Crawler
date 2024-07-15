@@ -1,0 +1,10 @@
+https://api.github.com/repos/Claudetepfernandes/Claudete
+https://api.github.com/repos/s9hn/COSMO-compose
+https://api.github.com/repos/rajalahti/claude-translator
+https://api.github.com/repos/ErUr/slack-call-claude-api
+https://api.github.com/repos/Brainfeed-1996/Exercices_CPP_13
+https://api.github.com/repos/Brainfeed-1996/Exercice_CPP_16
+https://api.github.com/repos/Brainfeed-1996/Exercice_CPP_15
+https://api.github.com/repos/Brainfeed-1996/Exercices_CPP_14
+https://api.github.com/repos/sagnik-datta-02/ChatwithPDF
+https://api.github.com/repos/Brainfeed-1996/Exercice_CPP_17

@@ -1,0 +1,14 @@
+https://api.github.com/repos/conanak99/simple-claude-translate
+https://api.github.com/repos/opmvpc/claude
+https://api.github.com/repos/bluewaterenergy/claude
+https://api.github.com/repos/Laudiaa/claude
+https://api.github.com/repos/alam156/ClaudeAPI
+https://api.github.com/repos/polofesse/ClaudeConseil
+https://api.github.com/repos/ZhuZhengyi/telegram-claude2
+https://api.github.com/repos/Laudiaa/claude-tea
+https://api.github.com/repos/bestfriendai/telegram-claude
+https://api.github.com/repos/AshSimmonds/pomodoro-claude-opus
+https://api.github.com/repos/prasanthnarasimha/pydoc-pep-bot
+https://api.github.com/repos/fankaidev/membrain
+https://api.github.com/repos/webmaster-exit-1/Subscriber-newsletter
+https://api.github.com/repos/Rapid369/RapidDev

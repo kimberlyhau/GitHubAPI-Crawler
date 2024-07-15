@@ -1,0 +1,5 @@
+https://api.github.com/repos/MMHK/bedrock-claude-proxy
+https://api.github.com/repos/k8scat/claude-api-proxy-python
+https://api.github.com/repos/Superman1359/llm-apps
+https://api.github.com/repos/johndpope/HPENet-hack
+https://api.github.com/repos/TaniseSalles/Natural-ou-fake-Natty

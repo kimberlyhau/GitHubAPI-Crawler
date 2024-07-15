@@ -1,0 +1,11 @@
+https://api.github.com/repos/genetics-statistics/GEMMA
+https://api.github.com/repos/qiskit-advocate/qamp-spring-23
+https://api.github.com/repos/arduino/ArduinoCore-avr
+https://api.github.com/repos/arduino/ArduinoCore-avr
+https://api.github.com/repos/Moore-Institute-4-Plastic-Pollution-Res/Microplastic_Data_Portal
+https://api.github.com/repos/huggingface/transformers
+https://api.github.com/repos/VNG-Realisatie/gemma-zaken
+https://api.github.com/repos/costero-e/beacon2-ri-api
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/neo4j/apoc
+https://api.github.com/repos/umbcs/umbcs.github.io

@@ -1,0 +1,4 @@
+https://api.github.com/repos/h2oai/sql-sidekick
+https://api.github.com/repos/microsoft/DeepSpeed
+https://api.github.com/repos/huggingface/huggingface_hub
+https://api.github.com/repos/guidance-ai/guidance

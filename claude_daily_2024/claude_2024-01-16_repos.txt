@@ -1,0 +1,2 @@
+https://api.github.com/repos/spinachs/telegram-claude
+https://api.github.com/repos/blufa/o-modelsis-backend-Jean-Claude-CAMARA

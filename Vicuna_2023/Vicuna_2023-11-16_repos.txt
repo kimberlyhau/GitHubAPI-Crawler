@@ -1,0 +1,3 @@
+https://api.github.com/repos/jyotidabass/Stable_Vicuna13B_8bit_in_Colab
+https://api.github.com/repos/ShishirMaidenCodeLife/Document-Chat-SQL-Chat_Dutch_fastAPI
+https://api.github.com/repos/prototux/evira-gpt-discord-bot

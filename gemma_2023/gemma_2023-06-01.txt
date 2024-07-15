@@ -1,0 +1,16 @@
+https://api.github.com/repos/rlangefe/pygemma
+https://api.github.com/repos/ersilia-os/eos526j
+https://api.github.com/repos/ivancho1392/Gemma
+https://api.github.com/repos/tayyabhaseeb/Black-Jack-gemma-version
+https://api.github.com/repos/northeastern-rc/training_GEMMA
+https://api.github.com/repos/ikolaxis/devsecops-crash-test
+https://api.github.com/repos/arduino/ArduinoCore-avr
+https://api.github.com/repos/microsoft/live-share
+https://api.github.com/repos/YinLiLin/hibayes
+https://api.github.com/repos/gautam-sabnis/genetic_correlation
+https://api.github.com/repos/icl-utk-edu/slate
+https://api.github.com/repos/ersilia-os/eos9sa2
+https://api.github.com/repos/VNG-Realisatie/GEMMA-Archi-repository
+https://api.github.com/repos/PavlidisLab/gemma.R
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/Gemma1984/Gemma1984

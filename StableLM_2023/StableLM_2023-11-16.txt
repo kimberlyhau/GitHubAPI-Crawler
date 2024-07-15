@@ -1,0 +1,12 @@
+https://api.github.com/repos/explosion/spaCy
+https://api.github.com/repos/evalplus/evalplus
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/nod-ai/SHARK
+https://api.github.com/repos/openvinotoolkit/openvino.genai
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/go-skynet/go-llama.cpp
+https://api.github.com/repos/rozek/node-red-flow-stablelm-3b-4e1t
+https://api.github.com/repos/AutoGPTQ/AutoGPTQ
+https://api.github.com/repos/prp-e/stablelm_finetune
+https://api.github.com/repos/unterwegi/dotfiles
+https://api.github.com/repos/axolotl-ai-cloud/axolotl

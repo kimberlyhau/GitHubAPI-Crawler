@@ -1,0 +1,504 @@
+from: 2023-07-01
+to: 2023-07-07
+Repo search
+10
+10
+Code search
+0
+0
+Issues search
+143
+143
+Total number
+75
+sum repos
+10
+sum code
+0
+sum issues
+143
+sum total
+75
+from: 2023-07-08
+to: 2023-07-15
+Repo search
+16
+16
+Code search
+0
+0
+Issues search
+187
+187
+Total number
+98
+sum repos
+26
+sum code
+0
+sum issues
+330
+sum total
+173
+from: 2023-07-16
+to: 2023-07-23
+Repo search
+25
+25
+Code search
+0
+0
+Issues search
+232
+232
+Total number
+122
+sum repos
+51
+sum code
+0
+sum issues
+562
+sum total
+295
+from: 2023-07-24
+to: 2023-07-31
+Repo search
+18
+18
+Code search
+0
+0
+Issues search
+197
+197
+Total number
+97
+sum repos
+69
+sum code
+0
+sum issues
+759
+sum total
+392
+from: 2023-08-01
+to: 2023-08-07
+Repo search
+13
+13
+Code search
+0
+0
+Issues search
+230
+230
+Total number
+115
+sum repos
+82
+sum code
+0
+sum issues
+989
+sum total
+507
+from: 2023-08-08
+to: 2023-08-15
+Repo search
+22
+22
+Code search
+0
+0
+Issues search
+175
+175
+Total number
+90
+sum repos
+104
+sum code
+0
+sum issues
+1164
+sum total
+597
+from: 2023-08-16
+to: 2023-08-23
+Repo search
+14
+14
+Code search
+0
+0
+Issues search
+216
+216
+Total number
+94
+sum repos
+118
+sum code
+0
+sum issues
+1380
+sum total
+691
+from: 2023-08-24
+to: 2023-08-31
+Repo search
+28
+28
+Code search
+0
+0
+Issues search
+240
+240
+Total number
+108
+sum repos
+146
+sum code
+0
+sum issues
+1620
+sum total
+799
+from: 2023-09-01
+to: 2023-09-07
+Repo search
+14
+14
+Code search
+0
+0
+Issues search
+225
+225
+Total number
+80
+sum repos
+160
+sum code
+0
+sum issues
+1845
+sum total
+879
+from: 2023-09-08
+to: 2023-09-15
+Repo search
+31
+31
+Code search
+0
+0
+Issues search
+304
+304
+Total number
+115
+sum repos
+191
+sum code
+0
+sum issues
+2149
+sum total
+994
+from: 2023-09-16
+to: 2023-09-23
+Repo search
+14
+14
+Code search
+0
+0
+Issues search
+148
+148
+Total number
+81
+sum repos
+205
+sum code
+0
+sum issues
+2297
+sum total
+1075
+from: 2023-09-24
+to: 2023-09-30
+Repo search
+12
+12
+Code search
+0
+0
+Issues search
+258
+258
+Total number
+107
+sum repos
+217
+sum code
+0
+sum issues
+2555
+sum total
+1182
+from: 2023-10-01
+to: 2023-10-07
+Repo search
+18
+18
+Code search
+0
+0
+Issues search
+200
+200
+Total number
+98
+sum repos
+235
+sum code
+0
+sum issues
+2755
+sum total
+1280
+from: 2023-10-08
+to: 2023-10-15
+Repo search
+19
+19
+Code search
+0
+0
+Issues search
+181
+181
+Total number
+91
+sum repos
+254
+sum code
+0
+sum issues
+2936
+sum total
+1371
+from: 2023-10-16
+to: 2023-10-23
+Repo search
+29
+29
+Code search
+0
+0
+Issues search
+179
+179
+Total number
+110
+sum repos
+283
+sum code
+0
+sum issues
+3115
+sum total
+1481
+from: 2023-10-24
+to: 2023-10-31
+Repo search
+14
+14
+Code search
+0
+0
+Issues search
+201
+201
+Total number
+108
+sum repos
+297
+sum code
+0
+sum issues
+3316
+sum total
+1589
+from: 2023-11-01
+to: 2023-11-07
+Repo search
+9
+9
+Code search
+0
+0
+Issues search
+164
+164
+Total number
+84
+sum repos
+306
+sum code
+0
+sum issues
+3480
+sum total
+1673
+from: 2023-11-08
+to: 2023-11-15
+Repo search
+19
+19
+Code search
+0
+0
+Issues search
+202
+202
+Total number
+98
+sum repos
+325
+sum code
+0
+sum issues
+3682
+sum total
+1771
+from: 2023-11-16
+to: 2023-11-23
+Repo search
+16
+16
+Code search
+0
+0
+Issues search
+201
+201
+Total number
+89
+sum repos
+341
+sum code
+0
+sum issues
+3883
+sum total
+1860
+from: 2023-11-24
+to: 2023-11-30
+Repo search
+13
+13
+Code search
+0
+0
+Issues search
+175
+175
+Total number
+87
+sum repos
+354
+sum code
+0
+sum issues
+4058
+sum total
+1947
+from: 2023-12-01
+to: 2023-12-07
+Repo search
+34
+34
+Code search
+0
+0
+Issues search
+220
+220
+Total number
+157
+sum repos
+388
+sum code
+0
+sum issues
+4278
+sum total
+2104
+from: 2023-12-08
+to: 2023-12-15
+Repo search
+253
+253
+Code search
+0
+0
+Issues search
+540
+540
+Total number
+518
+sum repos
+641
+sum code
+0
+sum issues
+4818
+sum total
+2622
+from: 2023-12-16
+to: 2023-12-23
+Repo search
+636
+636
+Code search
+0
+0
+Issues search
+765
+765
+Total number
+995
+sum repos
+1277
+sum code
+0
+sum issues
+5583
+sum total
+3617
+from: 2023-12-24
+to: 2023-12-31
+Repo search
+696
+696
+Code search
+0
+0
+Issues search
+555
+555
+Total number
+1011
+sum repos
+1973
+sum code
+0
+sum issues
+6138
+sum total
+4628

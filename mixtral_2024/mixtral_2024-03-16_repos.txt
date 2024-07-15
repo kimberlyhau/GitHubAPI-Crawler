@@ -1,0 +1,8 @@
+https://api.github.com/repos/NabilBoubekri/CSharp-MixtralAIWrapper
+https://api.github.com/repos/Hitendra0165/Database_Administrator_with_Mixtral
+https://api.github.com/repos/NexaAI/open-actions
+https://api.github.com/repos/jakecyr/omni-tokenizer
+https://api.github.com/repos/Infatoshi/mixtral-8x7B-cli-chat
+https://api.github.com/repos/thstmddns/hasoldeco_Mixtral-8x7B-Instruct-v0.1
+https://api.github.com/repos/gio-muccio/My_mistral
+https://api.github.com/repos/Sudar278/Doc_Q-A_Bot

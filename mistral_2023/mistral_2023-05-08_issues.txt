@@ -1,0 +1,9 @@
+https://api.github.com/repos/Devographics/surveys
+https://api.github.com/repos/paulpierre/RasaGPT
+https://api.github.com/repos/huggingface/transformers
+https://api.github.com/repos/huggingface/transformers
+https://api.github.com/repos/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+https://api.github.com/repos/stanford-crfm/levanter
+https://api.github.com/repos/puppetlabs/puppetlabs-stdlib
+https://api.github.com/repos/aMytho/brave-frontier-godot
+https://api.github.com/repos/canonical/cloud-init

@@ -1,0 +1,14 @@
+https://api.github.com/repos/0xngmi/llamazip
+https://api.github.com/repos/llamacorn1921/llamacorn1921
+https://api.github.com/repos/DavidCorbelle/llamadaApiPRIA
+https://api.github.com/repos/philogicae/ai-notebooks-colab
+https://api.github.com/repos/PaZakwan/llamador-paciente
+https://api.github.com/repos/eirenevp/llama-compiler
+https://api.github.com/repos/apt-sim/AdePT_LLAMA_ACAT22
+https://api.github.com/repos/cslevelup/flat_rose_llama
+https://api.github.com/repos/kaesluder/drama-llama-py
+https://api.github.com/repos/kaesluder/drama-llama-react
+https://api.github.com/repos/beseku/llama-studio-01
+https://api.github.com/repos/PapaRoni-YT/barba-de-un-barbaro-llamado-barbara
+https://api.github.com/repos/RAHB-REALTORS-Association/transcriber-describer
+https://api.github.com/repos/boomcrash/Api-Rest-.Net

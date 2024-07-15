@@ -1,0 +1,17 @@
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/keras-team/keras-nlp
+https://api.github.com/repos/stanfordnlp/dspy
+https://api.github.com/repos/Adgar90/M07Login
+https://api.github.com/repos/Simon-Coetzee/motifBreakR
+https://api.github.com/repos/aVadim483/fast-excel-templator
+https://api.github.com/repos/crowdisciple/GDP204
+https://api.github.com/repos/Legal-Innovation-Lab-Wales/include-journey
+https://api.github.com/repos/PavlidisLab/TGEMO
+https://api.github.com/repos/PavlidisLab/TGEMO
+https://api.github.com/repos/PavlidisLab/TGEMO
+https://api.github.com/repos/avrdudes/avrdude
+https://api.github.com/repos/open-formulieren/open-forms
+https://api.github.com/repos/TomographicImaging/CIL-User-Showcase
+https://api.github.com/repos/langchain-ai/langchain
+https://api.github.com/repos/avrdudes/avrdude

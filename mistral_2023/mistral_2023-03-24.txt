@@ -1,0 +1,7 @@
+https://api.github.com/repos/ZeroK-RTS/CrashReports
+https://api.github.com/repos/The-OpenROAD-Project/OpenLane
+https://api.github.com/repos/iang755/MistralRLFramework
+https://api.github.com/repos/openstack-k8s-operators/ci-framework
+https://api.github.com/repos/rishiagrawal2609/describe_cloudwatch_alarm_mistral_aws
+https://api.github.com/repos/karthink/gptel
+https://api.github.com/repos/lm-sys/FastChat

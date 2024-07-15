@@ -1,0 +1,14 @@
+https://api.github.com/repos/huggingface/transformers
+https://api.github.com/repos/explosion/spacy-llm
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/huggingface/optimum-habana
+https://api.github.com/repos/huggingface/optimum-intel
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/elixir-nx/ortex
+https://api.github.com/repos/codegrande/generative-ai-on-aws
+https://api.github.com/repos/karthink/gptel
+https://api.github.com/repos/vllm-project/vllm
+https://api.github.com/repos/stephenhky/PyShortTextCategorization
+https://api.github.com/repos/jian-mo/QAQG
+https://api.github.com/repos/stephenhky/PyShortTextCategorization
+https://api.github.com/repos/jian-mo/QAQG

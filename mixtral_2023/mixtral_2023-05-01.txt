@@ -1,0 +1,3 @@
+https://api.github.com/repos/darrenburns/elia
+https://api.github.com/repos/highb/logseq-notas-ex-machina
+https://api.github.com/repos/hpcaitech/ColossalAI

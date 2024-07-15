@@ -1,0 +1,5 @@
+https://api.github.com/repos/brianpetro/obsidian-smart-connections
+https://api.github.com/repos/stephane-klein/backlog
+https://api.github.com/repos/1Panel-dev/appstore
+https://api.github.com/repos/chains-project/besu
+https://api.github.com/repos/amd/RyzenAI-SW

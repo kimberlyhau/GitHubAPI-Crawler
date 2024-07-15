@@ -1,0 +1,6 @@
+https://api.github.com/repos/daemawiki/Claude
+https://api.github.com/repos/alizeeshan-07/Content_Generation_with_Claude2_Using_AWS_Bedrock
+https://api.github.com/repos/ZOFUS/telegram-claude
+https://api.github.com/repos/andytwoods/claude_starburstplay
+https://api.github.com/repos/chtEthan/bedrock-claude-chat-main
+https://api.github.com/repos/hjohnson12/chattailor-ai

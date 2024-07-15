@@ -1,0 +1,5 @@
+https://api.github.com/repos/steevelefort/claudeextended
+https://api.github.com/repos/VilleClaude/VilleClaude
+https://api.github.com/repos/h00s/claude-telegram-bot
+https://api.github.com/repos/historiasconarte/Claude-Monet-es-innovaci-n-art-stica-y-t-cnica
+https://api.github.com/repos/TrustSid/Research-Paper-Summarizer-Chatbot

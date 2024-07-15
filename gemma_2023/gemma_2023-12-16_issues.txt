@@ -1,0 +1,15 @@
+https://api.github.com/repos/EleutherAI/lm-evaluation-harness
+https://api.github.com/repos/vllm-project/vllm
+https://api.github.com/repos/VNG-Realisatie/gemma-zaken
+https://api.github.com/repos/AlgoETS/AINewsTracker
+https://api.github.com/repos/psugihara/FreeChat
+https://api.github.com/repos/VainF/Torch-Pruning
+https://api.github.com/repos/vespa-engine/sample-apps
+https://api.github.com/repos/arduino/ArduinoCore-avr
+https://api.github.com/repos/nod-ai/SHARK-Turbine
+https://api.github.com/repos/OscarPM24/M07_UF2_Practica4
+https://api.github.com/repos/huggingface/transformers
+https://api.github.com/repos/ossmith/HARE
+https://api.github.com/repos/kit-data-manager/indexing-service
+https://api.github.com/repos/ersilia-os/ersilia
+https://api.github.com/repos/ersilia-os/ersilia

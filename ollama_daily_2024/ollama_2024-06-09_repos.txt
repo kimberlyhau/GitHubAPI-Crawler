@@ -1,0 +1,17 @@
+https://api.github.com/repos/firefoxNX/learn_ollama
+https://api.github.com/repos/Flomanxl/Float-ollama
+https://api.github.com/repos/DevanshKhare/langchain-ollama
+https://api.github.com/repos/poorjanos/translator-ollama
+https://api.github.com/repos/dustinwloring1988/ollama-image-renamer
+https://api.github.com/repos/shoebham/bRAG-ollama
+https://api.github.com/repos/FrancoStino/nextjs-ollama-llm-ui
+https://api.github.com/repos/ShubhamSupekar/SpringWithOllamaStreamChat
+https://api.github.com/repos/takuro-furukawa/spring-ai-sample
+https://api.github.com/repos/divakarkumarp/nvidia-nim
+https://api.github.com/repos/Piotr1215/smart-docs
+https://api.github.com/repos/flaviodelgrosso/llm-chain-map-reduce
+https://api.github.com/repos/flweber/discord-llama
+https://api.github.com/repos/tsjdev-apps/openai-localllm-chat-copilot
+https://api.github.com/repos/huico882/Test-and-Code-Suggestion-AI
+https://api.github.com/repos/razasayed/rag-api
+https://api.github.com/repos/ElianRenteria/Rag

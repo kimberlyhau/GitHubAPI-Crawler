@@ -1,0 +1,2 @@
+https://api.github.com/repos/liushuangls/go-anthropic
+https://api.github.com/repos/SriLaxmi1993/Anthropic-Claude-2-examples

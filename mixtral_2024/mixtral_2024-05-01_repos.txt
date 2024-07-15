@@ -1,0 +1,7 @@
+https://api.github.com/repos/Crystalcareai/Mixtral-Deepseek
+https://api.github.com/repos/mhodierne1402/fine-tuning-mixtral
+https://api.github.com/repos/IAMSAGAYAABINESH/GymGPT
+https://api.github.com/repos/Sachin-Bhat/local-llm-test
+https://api.github.com/repos/quao627/LLM-learning
+https://api.github.com/repos/svjack/CodeActAgent-Gradio
+https://api.github.com/repos/jparkerweb/bedrock-proxy-endpoint

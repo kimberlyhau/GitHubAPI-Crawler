@@ -1,0 +1,3 @@
+https://api.github.com/repos/modal-labs/llm-finetuning
+https://api.github.com/repos/yashar1908/Text-translation-using-Mistral-7B
+https://api.github.com/repos/justinh-rahb/chat2gpt-ui

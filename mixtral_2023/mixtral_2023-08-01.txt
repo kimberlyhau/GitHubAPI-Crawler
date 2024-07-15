@@ -1,0 +1,7 @@
+https://api.github.com/repos/microsoft/DeepSpeed
+https://api.github.com/repos/paul-gauthier/aider
+https://api.github.com/repos/huggingface/transformers
+https://api.github.com/repos/simonw/llm
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/modal-labs/modal-examples
+https://api.github.com/repos/sourcegraph/cody

@@ -1,0 +1,4 @@
+https://api.github.com/repos/claude45/claude451
+https://api.github.com/repos/Exp-Primer-Copilot-Cohort-1/experience-primer-copilot-MathisClaudel
+https://api.github.com/repos/johnathan-greenaway/cli-FSD
+https://api.github.com/repos/elizabethsiegle/valentinesday-poem-generator-sendgrid-anthropic-replicate-replit-exa

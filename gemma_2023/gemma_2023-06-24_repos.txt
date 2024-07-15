@@ -1,0 +1,4 @@
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/GonzaloNog/gemma2
+https://api.github.com/repos/gemmadurbin/gemmadurbin
+https://api.github.com/repos/Gemmaluvsjay/Gemmaluvsjay

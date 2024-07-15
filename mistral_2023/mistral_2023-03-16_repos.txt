@@ -1,0 +1,6 @@
+https://api.github.com/repos/enricoros/big-AGI
+https://api.github.com/repos/mudler/LocalAI
+https://api.github.com/repos/longy2k/obsidian-bmo-chatbot
+https://api.github.com/repos/arakoodev/EdgeChains
+https://api.github.com/repos/stochasticai/xTuring
+https://api.github.com/repos/christophebe/julius-gpt

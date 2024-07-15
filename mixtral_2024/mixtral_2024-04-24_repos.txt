@@ -1,0 +1,10 @@
+https://api.github.com/repos/wang-zhibo/duckgo_api
+https://api.github.com/repos/AIDevBytes/Custom-Dolphin-Models
+https://api.github.com/repos/emrekapusuzz/RAG-Qdrant-Mixtral-Streamlit
+https://api.github.com/repos/kentonson/bob-plugin-groq-translate
+https://api.github.com/repos/aahrong/mixtral-8x7b-gguf
+https://api.github.com/repos/cymnyon/mixtral-8x7b-fine-tuning
+https://api.github.com/repos/aahrong/mixtral-8x7b-gguf-p2
+https://api.github.com/repos/lruizap/ConserGPT-Demo
+https://api.github.com/repos/ArslanKAS/Getting-Started-with-Mistral
+https://api.github.com/repos/shivamsnaik/genai-mistral-ai

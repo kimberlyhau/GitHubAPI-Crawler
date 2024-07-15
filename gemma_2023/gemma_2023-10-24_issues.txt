@@ -1,0 +1,10 @@
+https://api.github.com/repos/VNG-Realisatie/GEMMA-Archi-repository
+https://api.github.com/repos/huggingface/candle
+https://api.github.com/repos/Adgar90/M07Login
+https://api.github.com/repos/olozhika/ArXivDaily_StarFormation
+https://api.github.com/repos/olozhika/ArXivDaily_StarFormation
+https://api.github.com/repos/8gratitude8/gemmapwa
+https://api.github.com/repos/communitiesuk/funding-service-design-post-award-data-store
+https://api.github.com/repos/canonical/canonical.com
+https://api.github.com/repos/NERC-EDS/citationNotebook
+https://api.github.com/repos/BlokasLabs/USBMIDI

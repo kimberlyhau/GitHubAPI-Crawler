@@ -1,0 +1,12 @@
+https://api.github.com/repos/oobabooga/text-generation-webui
+https://api.github.com/repos/joehoover/bragi
+https://api.github.com/repos/Atome-FE/llama-node
+https://api.github.com/repos/microsoft/vscode
+https://api.github.com/repos/Facico/Chinese-Vicuna
+https://api.github.com/repos/rustformers/llm
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/NVIDIA/FasterTransformer
+https://api.github.com/repos/skypilot-org/skypilot
+https://api.github.com/repos/vproc/vicuna
+https://api.github.com/repos/gotzmann/llama.go
+https://api.github.com/repos/lm-sys/FastChat

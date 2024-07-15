@@ -1,0 +1,16 @@
+https://api.github.com/repos/BerriAI/litellm
+https://api.github.com/repos/pymike00/tinychat
+https://api.github.com/repos/irthomasthomas/undecidability
+https://api.github.com/repos/INCATools/ontology-access-kit
+https://api.github.com/repos/chathub-dev/chathub
+https://api.github.com/repos/jupyterlab/jupyter-ai
+https://api.github.com/repos/backnotprop/prompt-tower
+https://api.github.com/repos/chrissyhunt/headlinewise
+https://api.github.com/repos/uezo/aiavatarkit
+https://api.github.com/repos/OpenInterpreter/open-interpreter
+https://api.github.com/repos/Vikingfr/upptime
+https://api.github.com/repos/aiguestdj/plex-extension
+https://api.github.com/repos/OpenDevin/OpenDevin
+https://api.github.com/repos/karpathy/llm.c
+https://api.github.com/repos/expectedparrot/edsl
+https://api.github.com/repos/guanyilun/arxiv-actions

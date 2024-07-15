@@ -1,0 +1,17 @@
+https://api.github.com/repos/jgarland79/ollama-webui-docker
+https://api.github.com/repos/Tr33Bug/Open-Ollama-RAG-ChatApp
+https://api.github.com/repos/Lavkushwaha/ollama_local_flutter_app
+https://api.github.com/repos/b1ip/ollama_modelfile_template
+https://api.github.com/repos/PromptEngineer48/Ollama_custom
+https://api.github.com/repos/siva-arunachalam/ol
+https://api.github.com/repos/leolivier/ollama-rag
+https://api.github.com/repos/ViennaSand/ollama_simplistic
+https://api.github.com/repos/buildLittleWorlds/ollama-auto
+https://api.github.com/repos/CARROTThomas/api-ollama-master
+https://api.github.com/repos/Gloridust/Ollama-continuous-dialogue
+https://api.github.com/repos/andrewbasterfield/langchain-ollama-rag
+https://api.github.com/repos/brinkqiang/dmollama
+https://api.github.com/repos/adijayainc/LLM-ollama-webui-Raspberry-Pi5
+https://api.github.com/repos/costular/droidai
+https://api.github.com/repos/jan-gerritsen/local_rag
+https://api.github.com/repos/antoprince001/notes-scribe

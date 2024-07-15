@@ -1,0 +1,14 @@
+https://api.github.com/repos/ssbuild/mixtral_moe_finetuning
+https://api.github.com/repos/cvarrei/SQLAgent_llm
+https://api.github.com/repos/Goekdeniz-Guelmez/mixtral_from_scratch
+https://api.github.com/repos/Gussyy/mixtral-with-rag
+https://api.github.com/repos/AmeerArsala/mixtral-llm-inference
+https://api.github.com/repos/laynz28/mixtral-46.7b-chat
+https://api.github.com/repos/AmadeusWizard/Python-Programs---made-by-Ai
+https://api.github.com/repos/Kirisakii/animatronic-seattle-sdxl-mixtralofexperts-solar-ai-old-v-3.1
+https://api.github.com/repos/Kirisakii/animatronic-seattle-sdxl-mixtralofexperts-solar-ai-old-v-9.5
+https://api.github.com/repos/Kirisakii/animatronic-seattle-sdxl-mixtralofexperts-solar-ai-old-v-9.0.0
+https://api.github.com/repos/Kirisakii/animatronic-seattle-sdxl-mixtralofexperts-solar-ai-old-v-9.0.2
+https://api.github.com/repos/ZatON318/orbit_dc_assistant
+https://api.github.com/repos/viasky657/GoogleCollabFiles
+https://api.github.com/repos/justinfilip/gpt-threads

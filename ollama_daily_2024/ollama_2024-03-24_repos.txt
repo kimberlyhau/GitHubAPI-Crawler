@@ -1,0 +1,14 @@
+https://api.github.com/repos/drazdra/ollama-chats
+https://api.github.com/repos/shivaraj-bh/ollama-flake
+https://api.github.com/repos/jstoppa/ollama_chat_app
+https://api.github.com/repos/2chanhaeng/ollama-study
+https://api.github.com/repos/garrdbyrd/ollama-utility
+https://api.github.com/repos/kwkoo/ollama-rag
+https://api.github.com/repos/Simeoncollins/Ollama-gui
+https://api.github.com/repos/petitsurfeur/ollama-docker
+https://api.github.com/repos/goujonmael/PyQt5-Chatbot-Client
+https://api.github.com/repos/hrushik98/ollama-llama2-uncensored
+https://api.github.com/repos/greatoldcactus/text-generation-ollama-api
+https://api.github.com/repos/kotBanditsky/LangChain-Character-Telegram-Mistral-Ollama-Bot
+https://api.github.com/repos/Mark2M/svollama-ai-portal
+https://api.github.com/repos/fankaidev/membrain

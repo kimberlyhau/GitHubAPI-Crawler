@@ -1,0 +1,14 @@
+https://api.github.com/repos/OpenAdaptAI/OpenAdapt
+https://api.github.com/repos/TransformerLensOrg/TransformerLens
+https://api.github.com/repos/tsunamayo/Starship-EVO
+https://api.github.com/repos/TransformerOptimus/SuperAGI
+https://api.github.com/repos/meta-llama/llama
+https://api.github.com/repos/huggingface/optimum-neuron
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/bitsandbytes-foundation/bitsandbytes
+https://api.github.com/repos/bancika/diy-layout-creator
+https://api.github.com/repos/mosaicml/llm-foundry
+https://api.github.com/repos/huggingface/autotrain-advanced
+https://api.github.com/repos/tsunamayo/Starship-EVO
+https://api.github.com/repos/tsunamayo/Starship-EVO
+https://api.github.com/repos/sosreport/sos

@@ -1,0 +1,6 @@
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/genetics-statistics/GEMMA
+https://api.github.com/repos/costero-e/beacon2-ri-api
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/ersilia-os/ersilia
+https://api.github.com/repos/ersilia-os/ersilia

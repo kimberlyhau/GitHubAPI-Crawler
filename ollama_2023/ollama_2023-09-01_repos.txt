@@ -1,0 +1,10 @@
+https://api.github.com/repos/Intellicode/writer
+https://api.github.com/repos/esiqveland/slack-ollama-bot
+https://api.github.com/repos/jonathandale/chat-ollama
+https://api.github.com/repos/dustyfresh/ollama-streamlit-chat
+https://api.github.com/repos/kacesensitive/ollama-twitch
+https://api.github.com/repos/xavimondev/easyreadme
+https://api.github.com/repos/while-basic/ollama-dash
+https://api.github.com/repos/csterritt/wllama
+https://api.github.com/repos/adrianliechti/llama
+https://api.github.com/repos/lori-assistant/identity

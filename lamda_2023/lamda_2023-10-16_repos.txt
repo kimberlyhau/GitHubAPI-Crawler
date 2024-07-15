@@ -1,0 +1,14 @@
+https://api.github.com/repos/ghktn/LamdaStream
+https://api.github.com/repos/bsgopal/LamdaExpression
+https://api.github.com/repos/ahmedelhdad123/lamdaExpression
+https://api.github.com/repos/lamdan19/robu_lamdan19_ws
+https://api.github.com/repos/strran19/robu_lamdan19_ws
+https://api.github.com/repos/nkarthi82/lamdajava
+https://api.github.com/repos/abdelazziz20/lamda-fxn
+https://api.github.com/repos/tirth177/email-lamda
+https://api.github.com/repos/Sandeshk93/Serverless-Lamda
+https://api.github.com/repos/VivekSinha15/Node_Lamda_AWS_Upgrad
+https://api.github.com/repos/ankitalpha/aws-open-search
+https://api.github.com/repos/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-lamdanghoang
+https://api.github.com/repos/mzacho/refinement-types
+https://api.github.com/repos/ChiefRiver/ReactSPA_Auth0_AWSAPIGW_PoC

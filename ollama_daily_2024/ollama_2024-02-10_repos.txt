@@ -1,0 +1,13 @@
+https://api.github.com/repos/LexiestLeszek/sova_ollama
+https://api.github.com/repos/vollcheck/ollama-clj
+https://api.github.com/repos/tr1ckydev/ollama-zig
+https://api.github.com/repos/SkullMag/OllamaSpotlight
+https://api.github.com/repos/leolivier/ollama-experiment
+https://api.github.com/repos/tobiasfabian/nova-ollama
+https://api.github.com/repos/tommytech99/ollama-front-end
+https://api.github.com/repos/qapquiz/rust-xp-ollama
+https://api.github.com/repos/chakri15797/ollama-ui-app
+https://api.github.com/repos/Rex-82/Langchain-Ollama-RAG-Application
+https://api.github.com/repos/argentinamoose/speech-to-ollama-to-sound
+https://api.github.com/repos/dmaharana/ollama-pgvector-text-embedding-sample
+https://api.github.com/repos/sanjaybip/llm-clients

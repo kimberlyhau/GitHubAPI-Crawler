@@ -1,0 +1,17 @@
+https://api.github.com/repos/fly-apps/ollama-open-webui
+https://api.github.com/repos/chigkim/VOLlama
+https://api.github.com/repos/Yami-Bitshark/data-chat-ollama
+https://api.github.com/repos/uw-psych/ollama-container
+https://api.github.com/repos/rahilfaizan/Ollama-chat
+https://api.github.com/repos/AleixFerre/ollama-test
+https://api.github.com/repos/granludo/fake_ollama
+https://api.github.com/repos/kithokit/ollama-chatbot
+https://api.github.com/repos/skye0402/ollama-simple-chat
+https://api.github.com/repos/filbe/diploi-ollama-template
+https://api.github.com/repos/HubertReX/local-llms-sandbox
+https://api.github.com/repos/deependhulla/gpt-debian12
+https://api.github.com/repos/ma-thi-as/DocSume
+https://api.github.com/repos/42dotmk/llama-client
+https://api.github.com/repos/Seanyap90/cardgreetings
+https://api.github.com/repos/village0/slack_bot
+https://api.github.com/repos/GenaiTechne/gtsystem

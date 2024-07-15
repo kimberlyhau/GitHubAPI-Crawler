@@ -1,0 +1,14 @@
+https://api.github.com/repos/mountaineerbr/shellChatGPT
+https://api.github.com/repos/mentat/gemini
+https://api.github.com/repos/Thavamasios/Gemini
+https://api.github.com/repos/decaffeinatedcoffee/GeminiPro
+https://api.github.com/repos/Laurence-RM/GeminiTransactionScraper
+https://api.github.com/repos/vijaykumar-gemini/vijaykumar-gemini
+https://api.github.com/repos/SHARON442/Gemini-Ai
+https://api.github.com/repos/gem-priyankapatil/SerenityBDDForGemini
+https://api.github.com/repos/Fery-K/MSDA_Gemini_1
+https://api.github.com/repos/shilinlee/openGemini_test
+https://api.github.com/repos/TaRealGeminiMiah/TaRealGeminiMiah
+https://api.github.com/repos/Cj-Rodriguez101/OpenGem
+https://api.github.com/repos/LucasSantus/ask-sql
+https://api.github.com/repos/Andyreww/Genshin-Impact-Assistant

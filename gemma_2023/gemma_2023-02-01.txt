@@ -1,0 +1,8 @@
+https://api.github.com/repos/VNG-Realisatie/vng-api-common
+https://api.github.com/repos/MetaMask/eth-phishing-detect
+https://api.github.com/repos/icl-utk-edu/slate
+https://api.github.com/repos/cockroachdb/docs
+https://api.github.com/repos/GemmaTurner-Gearset/Gemma-Pipelines
+https://api.github.com/repos/kokkos/kokkos
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/ersilia-os/ersilia

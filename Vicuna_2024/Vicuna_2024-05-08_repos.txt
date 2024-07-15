@@ -1,0 +1,3 @@
+https://api.github.com/repos/MrArkys/VicunaLand2
+https://api.github.com/repos/chuangyesirenzu/vicuna-13b-1.1
+https://api.github.com/repos/110752002/LifelineSuicidePrediction

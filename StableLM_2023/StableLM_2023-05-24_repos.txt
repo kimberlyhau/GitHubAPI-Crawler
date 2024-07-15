@@ -1,0 +1,2 @@
+https://api.github.com/repos/vihangd/alpaca-qlora
+https://api.github.com/repos/kevinbednarek/llama_index

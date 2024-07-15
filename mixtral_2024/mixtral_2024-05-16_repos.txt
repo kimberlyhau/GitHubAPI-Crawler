@@ -1,0 +1,3 @@
+https://api.github.com/repos/igorbkz/mixtralSD
+https://api.github.com/repos/MuhammadTalmeez337/Healthcare-chatbot-using-mixtral-LLM-and-Pubmed
+https://api.github.com/repos/abdullah-w-21/Pdf-forms-to-HTML-using-GenAI

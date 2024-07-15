@@ -1,0 +1,13 @@
+https://api.github.com/repos/unifyai/unify
+https://api.github.com/repos/aumoai/labs-mixtral7B-instruct-finetunning
+https://api.github.com/repos/suddencreator/mixtralTraining
+https://api.github.com/repos/steadytaha/ChatWithPDF
+https://api.github.com/repos/ShenDezhou/Mixtral-Tokenizer
+https://api.github.com/repos/Anup-Zessta/mixtral_aws
+https://api.github.com/repos/jtheol/streamlit-mixtral
+https://api.github.com/repos/Atomic-man007/Mixtral-finetune
+https://api.github.com/repos/AkhilSharma90/Mixtral-7B-bot
+https://api.github.com/repos/jtheol/streamlit-site-chat
+https://api.github.com/repos/ad-si/cai
+https://api.github.com/repos/flyingwaters/Chinese-Vertical-landing-MoE
+https://api.github.com/repos/phibenz/pragmatics-templates

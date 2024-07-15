@@ -1,0 +1,2 @@
+https://api.github.com/repos/sozercan/aikit
+https://api.github.com/repos/fcxmarquez/enki-ai

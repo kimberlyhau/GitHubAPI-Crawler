@@ -1,0 +1,10 @@
+https://api.github.com/repos/johndpope/MegaPortrait-hack
+https://api.github.com/repos/moe-mizrak/laravel-claude
+https://api.github.com/repos/baksohyeon/i-want-claude-history
+https://api.github.com/repos/pavanprabhu2000/ChatBot-using-Bedrock
+https://api.github.com/repos/Brainfeed-1996/Exercices_CPP_11
+https://api.github.com/repos/Brainfeed-1996/Exercices_CPP_7
+https://api.github.com/repos/Brainfeed-1996/Exercices_CPP_12
+https://api.github.com/repos/Brainfeed-1996/Exercices_CPP_10
+https://api.github.com/repos/Brainfeed-1996/Exercices_CPP_8
+https://api.github.com/repos/Brainfeed-1996/Exercices_CPP_9

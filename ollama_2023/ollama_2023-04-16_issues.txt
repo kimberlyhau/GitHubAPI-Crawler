@@ -1,0 +1,10 @@
+https://api.github.com/repos/invertedorigin/home-infra
+https://api.github.com/repos/abetlen/llama-cpp-python
+https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui
+https://api.github.com/repos/l3r8yJ/volpi-qa
+https://api.github.com/repos/huggingface/text-generation-inference
+https://api.github.com/repos/bluecitylights/langchain-playground
+https://api.github.com/repos/pythops/tenere
+https://api.github.com/repos/langchain-ai/langchain
+https://api.github.com/repos/TheR1D/shell_gpt
+https://api.github.com/repos/ggerganov/llama.cpp

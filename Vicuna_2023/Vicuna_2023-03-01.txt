@@ -1,0 +1,4 @@
+https://api.github.com/repos/huggingface/accelerate
+https://api.github.com/repos/xNul/chat-llama-discord-bot
+https://api.github.com/repos/oobabooga/text-generation-webui
+https://api.github.com/repos/langchain-ai/langchain

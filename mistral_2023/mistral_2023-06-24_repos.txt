@@ -1,0 +1,5 @@
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/EvilPsyCHo/Play-with-LLMs
+https://api.github.com/repos/llm-tools/embedJs
+https://api.github.com/repos/narain-priyanka/Mistral
+https://api.github.com/repos/zaibutcooler/gengo

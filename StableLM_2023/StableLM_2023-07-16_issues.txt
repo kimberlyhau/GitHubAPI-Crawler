@@ -1,0 +1,17 @@
+https://api.github.com/repos/saurabharch/Ask-Anything
+https://api.github.com/repos/vllm-project/vllm
+https://api.github.com/repos/oobabooga/text-generation-webui
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/Yukeaaa/arxiv-daily
+https://api.github.com/repos/TransformerLensOrg/TransformerLens
+https://api.github.com/repos/chathub-dev/chathub
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/Stability-AI/lm-evaluation-harness
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/yuchenlin/LLM-Blender
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/simonw/llm-replicate
+https://api.github.com/repos/UNopenGIS/7
+https://api.github.com/repos/mudler/LocalAI

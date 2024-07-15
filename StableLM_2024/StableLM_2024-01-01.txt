@@ -1,0 +1,10 @@
+https://api.github.com/repos/axolotl-ai-cloud/axolotl
+https://api.github.com/repos/gaybro8777/chathub
+https://api.github.com/repos/h2oai/h2ogpt
+https://api.github.com/repos/mightyhouseinc/ollama-webui
+https://api.github.com/repos/Stability-AI/StableSwarmUI
+https://api.github.com/repos/fly51fly/aicoco
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/huggingface/blog
+https://api.github.com/repos/geekan/MetaGPT

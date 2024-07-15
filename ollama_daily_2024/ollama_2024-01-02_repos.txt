@@ -1,0 +1,6 @@
+https://api.github.com/repos/edonadei/langchain-ollama-boilerplate
+https://api.github.com/repos/MuhammadUsamaAwan/ollama-chatbot-ui
+https://api.github.com/repos/christianhellsten/ollama-macos-app
+https://api.github.com/repos/SHAHIR123/LLM-RAG-Web-application
+https://api.github.com/repos/carmelosantana/alpaca-bot
+https://api.github.com/repos/fernanclok/AI-middleware

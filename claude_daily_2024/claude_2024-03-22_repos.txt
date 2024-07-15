@@ -1,0 +1,13 @@
+https://api.github.com/repos/ccappetta/bidirectional_streaming_ai_voice
+https://api.github.com/repos/masllsam/Claude3_TelegramBot
+https://api.github.com/repos/alfredcs/mmrag
+https://api.github.com/repos/ClaudeZyz/ClaudeZyz
+https://api.github.com/repos/parmarjh/claude3-protein
+https://api.github.com/repos/ragibmondal/claude3video
+https://api.github.com/repos/shmnrr/ClaudeMetaPrompt
+https://api.github.com/repos/lrwerneck/ClaudeManimWorkflow
+https://api.github.com/repos/ivandityap/Claude3-Document-Inteligent
+https://api.github.com/repos/plyght/MacClaude
+https://api.github.com/repos/jeremiahoclark/claude_slack
+https://api.github.com/repos/scottyeung/multiplayer-chat-room
+https://api.github.com/repos/wingedsheep/text-adventure-agent

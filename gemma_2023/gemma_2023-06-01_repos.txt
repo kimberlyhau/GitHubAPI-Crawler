@@ -1,0 +1,5 @@
+https://api.github.com/repos/VNG-Realisatie/GEMMA-Archi-repository
+https://api.github.com/repos/Gemma1984/Gemma1984
+https://api.github.com/repos/ivancho1392/Gemma
+https://api.github.com/repos/northeastern-rc/training_GEMMA
+https://api.github.com/repos/tayyabhaseeb/Black-Jack-gemma-version

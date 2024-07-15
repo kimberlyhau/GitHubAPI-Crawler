@@ -1,0 +1,13 @@
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/icl-utk-edu/slate
+https://api.github.com/repos/ersilia-os/ersilia
+https://api.github.com/repos/langchain-ai/langchain
+https://api.github.com/repos/mantidproject/mantid
+https://api.github.com/repos/cockroachdb/docs
+https://api.github.com/repos/GemboJones/news-api
+https://api.github.com/repos/DianaCazangiu/testSoftware
+https://api.github.com/repos/torchbox/rca-wagtail-2019
+https://api.github.com/repos/VNG-Realisatie/gemma-postman-tests
+https://api.github.com/repos/VNG-Realisatie/documenten-api
+https://api.github.com/repos/PavlidisLab/GemBrow
+https://api.github.com/repos/open-zaak/open-zaak

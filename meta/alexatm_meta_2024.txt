@@ -1,0 +1,126 @@
+from: 2024-01-01
+to: 2024-01-31
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+0
+0
+Total number
+0
+sum repos
+0
+sum code
+0
+sum issues
+0
+sum total
+0
+from: 2024-02-01
+to: 2024-02-29
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+0
+0
+Total number
+0
+sum repos
+0
+sum code
+0
+sum issues
+0
+sum total
+0
+from: 2024-03-01
+to: 2024-03-31
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+0
+0
+Total number
+0
+sum repos
+0
+sum code
+0
+sum issues
+0
+sum total
+0
+from: 2024-04-01
+to: 2024-04-30
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+0
+0
+Total number
+0
+sum repos
+0
+sum code
+0
+sum issues
+0
+sum total
+0
+from: 2024-05-01
+to: 2024-05-31
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+0
+0
+Total number
+0
+sum repos
+0
+sum code
+0
+sum issues
+0
+sum total
+0
+from: 2024-06-01
+to: 2024-06-30
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+0
+0
+Total number
+0
+sum repos
+0
+sum code
+0
+sum issues
+0
+sum total
+0

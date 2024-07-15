@@ -1,0 +1,11 @@
+https://api.github.com/repos/manuelbento19/ollama-bot
+https://api.github.com/repos/Gaurav-Gosain/discollama
+https://api.github.com/repos/tedbrunell/ollama-on-ocp
+https://api.github.com/repos/inno-waluza/OllamaChat
+https://api.github.com/repos/pkelly03/ollama-playground
+https://api.github.com/repos/webaayu/mcqgen-ollama
+https://api.github.com/repos/OmarMWarraich/ror_ollama_chatbot
+https://api.github.com/repos/adarsh8081/ChatBot-Using-OLLAMA
+https://api.github.com/repos/Swizec/analyze-feedback
+https://api.github.com/repos/dkman94/swift-ollama-photo-captioner
+https://api.github.com/repos/vishwajeetk1160/arm-template-generator

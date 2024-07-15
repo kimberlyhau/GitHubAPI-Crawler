@@ -1,0 +1,17 @@
+https://api.github.com/repos/joydeb28/llm-lab
+https://api.github.com/repos/rmgogogo/nano-aigc
+https://api.github.com/repos/langchain4j/langchain4j
+https://api.github.com/repos/DaniJER/gemma
+https://api.github.com/repos/genetics-statistics/GEMMA
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/songquanpeng/one-api
+https://api.github.com/repos/carmelosantana/alpaca-bot
+https://api.github.com/repos/emon5122/portfolio-backend
+https://api.github.com/repos/userAdmin13/GEMMART
+https://api.github.com/repos/keras-team/keras-nlp
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/kavyalee45/gemmartPOM
+https://api.github.com/repos/RJDan/gemma_snap
+https://api.github.com/repos/mlc-ai/mlc-llm
+https://api.github.com/repos/cafaxo/Llama2.jl
+https://api.github.com/repos/BergerPerkins/Google-LLM-Apps-Gemini-Gemma

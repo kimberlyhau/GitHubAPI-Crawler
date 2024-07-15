@@ -1,0 +1,9 @@
+https://api.github.com/repos/lm-sys/vicuna-blog-eval
+https://api.github.com/repos/kjerk/instructblip-pipeline
+https://api.github.com/repos/zihaod/vid_vicuna
+https://api.github.com/repos/shl518/Vicuna-Chatgpt-NextWeb
+https://api.github.com/repos/trouvaille2023/vicuna-33b-v1.3
+https://api.github.com/repos/lucataco/cog-vicuna-13b-v1.3
+https://api.github.com/repos/lucataco/cog-vicuna-7b-v1.3
+https://api.github.com/repos/lucataco/cog-vicuna-33b-v1.3
+https://api.github.com/repos/Israelsmmx/IA_Engines

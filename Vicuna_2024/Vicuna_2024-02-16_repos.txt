@@ -1,0 +1,3 @@
+https://api.github.com/repos/Pr3mKum4r/VicunaBackend
+https://api.github.com/repos/LuisAVasquez/aristotelian_knowledge_graph
+https://api.github.com/repos/acfilok96/Llava

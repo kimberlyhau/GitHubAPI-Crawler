@@ -1,0 +1,2 @@
+https://api.github.com/repos/Tim-Chen11/stableLM3b
+https://api.github.com/repos/murdadesmaeeli/lit-gpt_LegalLLM

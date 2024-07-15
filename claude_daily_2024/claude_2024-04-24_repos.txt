@@ -1,0 +1,9 @@
+https://api.github.com/repos/dnjinmin/claude
+https://api.github.com/repos/ppaanngggg/token-counter
+https://api.github.com/repos/miorafanantenana12/claude-api
+https://api.github.com/repos/doniamalala/Claude-api
+https://api.github.com/repos/Alignment-Lab-AI/Preft-data-claude
+https://api.github.com/repos/claudeth2004/E-jay---claudeth
+https://api.github.com/repos/claudeonrs/claudeonrs.github.io
+https://api.github.com/repos/GaryBoone/ai_debate
+https://api.github.com/repos/jiuyee123/hamimelon

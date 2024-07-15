@@ -1,0 +1,14 @@
+https://api.github.com/repos/smallcloudai/refact
+https://api.github.com/repos/unslothai/unsloth
+https://api.github.com/repos/mlc-ai/web-llm
+https://api.github.com/repos/HabanaAI/optimum-habana-fork
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/ml-explore/mlx
+https://api.github.com/repos/vllm-project/vllm
+https://api.github.com/repos/mlc-ai/mlc-llm
+https://api.github.com/repos/mirpo/fastapi-gen
+https://api.github.com/repos/jian-mo/QAQG
+https://api.github.com/repos/odaiko42/huggingface-chat-ui
+https://api.github.com/repos/jian-mo/QAQG
+https://api.github.com/repos/stephenhky/PyShortTextCategorization
+https://api.github.com/repos/stephenhky/PyShortTextCategorization

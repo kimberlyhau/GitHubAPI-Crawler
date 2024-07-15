@@ -1,0 +1,12 @@
+https://api.github.com/repos/fatwang2/search2ai
+https://api.github.com/repos/robertjkeck2/mistral-ui
+https://api.github.com/repos/patw/VectorStream
+https://api.github.com/repos/ogigo/finetune-mistral-7b
+https://api.github.com/repos/cadifyai/tool2schema
+https://api.github.com/repos/ulutsoftlls/mistral
+https://api.github.com/repos/NbAiLab/nb-mistral
+https://api.github.com/repos/terryzeng007/mistral_test
+https://api.github.com/repos/ahmedelsayed968/RAG-Mistral
+https://api.github.com/repos/Matthieu-Coddity/captain-mistral-docker
+https://api.github.com/repos/chriamue/chat-flame-backend
+https://api.github.com/repos/BiGHeaDMaX/Nouvelles-methodes-extraction-mots-cles

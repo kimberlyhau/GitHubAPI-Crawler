@@ -1,0 +1,7 @@
+https://api.github.com/repos/aws-samples/aws-genai-llm-chatbot
+https://api.github.com/repos/lukemarsden/dagger-ai
+https://api.github.com/repos/afondiel/ChatGPT-Prompt-Engineering-DeepLearningAI
+https://api.github.com/repos/MisTraleuh/mistraleuh.github.io
+https://api.github.com/repos/EleBarbavara/calibrators
+https://api.github.com/repos/EleBarbavara/galaxy_cluster
+https://api.github.com/repos/Jndenk26/GentriBuy

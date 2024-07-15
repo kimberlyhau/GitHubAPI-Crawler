@@ -1,0 +1,4 @@
+https://api.github.com/repos/essy16/claudeLLM
+https://api.github.com/repos/Chinpeerapat/claude-writer
+https://api.github.com/repos/hfarazul/Claude-Tools-Exercises
+https://api.github.com/repos/samestrin/llm-interface

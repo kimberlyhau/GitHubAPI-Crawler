@@ -1,0 +1,8 @@
+https://api.github.com/repos/aws/amazon-sagemaker-examples
+https://api.github.com/repos/aws/amazon-sagemaker-examples
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/aws/amazon-sagemaker-examples
+https://api.github.com/repos/aws/amazon-sagemaker-examples
+https://api.github.com/repos/withcatai/catai
+https://api.github.com/repos/Lightning-AI/litgpt

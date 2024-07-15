@@ -1,0 +1,13 @@
+https://api.github.com/repos/mshumer/claude-prompt-engineer
+https://api.github.com/repos/AoElite/claude4j
+https://api.github.com/repos/jeanclaudenzayisenga/claude
+https://api.github.com/repos/ClaudeGroove/ClaudeGroove
+https://api.github.com/repos/xiehust/autogen_claude3
+https://api.github.com/repos/arunaws-git/amazon-bedrock-claude3-langchain
+https://api.github.com/repos/clauderhay/claude-gpt
+https://api.github.com/repos/Pranesh1801/Claude_Opus
+https://api.github.com/repos/rito00/Claude-WideScreen
+https://api.github.com/repos/pop2pop3/Claude-3-API-examples
+https://api.github.com/repos/serkanyasr/ChatAI-with-ChatGPT-Gemini-and-Claude
+https://api.github.com/repos/AarushSah/llm-file-categorizer
+https://api.github.com/repos/reliableJARED/AIFunctionManager

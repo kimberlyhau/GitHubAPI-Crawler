@@ -1,0 +1,14 @@
+https://api.github.com/repos/VNG-Realisatie/zgw-infra
+https://api.github.com/repos/VNG-Realisatie/gemma-zaken
+https://api.github.com/repos/hmcts/github-slack-user-mappings
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/lihotim/gemma-woo-accounting-app
+https://api.github.com/repos/avrdudes/avrdude
+https://api.github.com/repos/icl-utk-edu/slate
+https://api.github.com/repos/Aryan-Deshpande/GemmaDev
+https://api.github.com/repos/TomographicImaging/CIL
+https://api.github.com/repos/GemboJones/news-api
+https://api.github.com/repos/mediahackza/datadesk
+https://api.github.com/repos/ersilia-os/eos6fza
+https://api.github.com/repos/Ultimaker/Cura
+https://api.github.com/repos/gememma/wirebrush

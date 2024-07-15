@@ -1,0 +1,12 @@
+https://api.github.com/repos/alexrudall/ruby-openai
+https://api.github.com/repos/ThomasPof/discord-bot-ffvl
+https://api.github.com/repos/danny-avila/LibreChat
+https://api.github.com/repos/sunner/ChatALL
+https://api.github.com/repos/davidmigloz/langchain_dart
+https://api.github.com/repos/Vikingfr/upptime
+https://api.github.com/repos/agnaistic/agnai
+https://api.github.com/repos/wwwzhouhui/Claude2-PyAPI
+https://api.github.com/repos/kimkihoon0515/mlops_crawling
+https://api.github.com/repos/lobehub/lobe-chat
+https://api.github.com/repos/sourcegraph/jetbrains
+https://api.github.com/repos/ModelSurge/sd-webui-comfyui

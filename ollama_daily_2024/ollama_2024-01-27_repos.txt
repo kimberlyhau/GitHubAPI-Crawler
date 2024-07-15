@@ -1,0 +1,13 @@
+https://api.github.com/repos/muka/ollama-docker
+https://api.github.com/repos/LeonhardTissen/discordOllama
+https://api.github.com/repos/remy415/ollama_tegra_fix
+https://api.github.com/repos/kuanhunglingary/ollamaLiteLLM
+https://api.github.com/repos/eltechno/OllamaPaperBot
+https://api.github.com/repos/koji/ollama-js
+https://api.github.com/repos/Andersonfn/ollama-code-handler
+https://api.github.com/repos/paulistatk/ollama-code-handler
+https://api.github.com/repos/mfmezger/go-ollama-rag
+https://api.github.com/repos/beeCuiet/reddit-llm-comment-bot
+https://api.github.com/repos/zmitchell/local_llm
+https://api.github.com/repos/avisionh/sqlgpt
+https://api.github.com/repos/terminaldweller/milla

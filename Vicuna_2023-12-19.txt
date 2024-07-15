@@ -1,0 +1,9 @@
+https://api.github.com/repos/NVIDIA/TensorRT-LLM
+https://api.github.com/repos/huggingface/transformers
+https://api.github.com/repos/NixOS/nixpkgs
+https://api.github.com/repos/THUDM/CogVLM
+https://api.github.com/repos/AI-ANK/Na2SQL
+https://api.github.com/repos/vllm-project/vllm
+https://api.github.com/repos/SafeAILab/EAGLE
+https://api.github.com/repos/onysakura/news-daily
+https://api.github.com/repos/Yukeaaa/arxiv-daily

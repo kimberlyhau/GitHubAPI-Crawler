@@ -1,0 +1,16 @@
+https://api.github.com/repos/whyiyhw/chatgpt-wechat
+https://api.github.com/repos/danny-avila/LibreChat
+https://api.github.com/repos/The-MoonTg-project/Moon-Userbot
+https://api.github.com/repos/Jayfeather233/shinxbot2
+https://api.github.com/repos/codesoap/gmir
+https://api.github.com/repos/dinesh6802/Gemini
+https://api.github.com/repos/YutingHe-list/GEMINI
+https://api.github.com/repos/roenbis/gemini
+https://api.github.com/repos/appropriation1234/FIAP
+https://api.github.com/repos/BDS-Gemini/Gemini_BDS
+https://api.github.com/repos/BroadcastFlow/commitlint-gemini
+https://api.github.com/repos/ROM-Dump/xiaomi_gemini_dump
+https://api.github.com/repos/sirlaurie/chatgpt-for-telegram
+https://api.github.com/repos/PhamDangNguyen/-Control-KDS-Gemini-88-Plus-Dual-Rate-Syringe-Pump-using-python-and-Serial
+https://api.github.com/repos/Driebble/useless-bot
+https://api.github.com/repos/carandev/movie-to-emoji

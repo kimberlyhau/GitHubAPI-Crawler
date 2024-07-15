@@ -1,0 +1,3 @@
+https://api.github.com/repos/AugustDev/enchanted
+https://api.github.com/repos/cwli9009/Vicuna7B_qlora
+https://api.github.com/repos/arturoeanton/go-example-ollama2-client

@@ -1,0 +1,7 @@
+https://api.github.com/repos/mahfuzrahmandsuh23/Groq_Langchain_MixtralLLMRAG
+https://api.github.com/repos/XuYipei/Mixtral-Train
+https://api.github.com/repos/ventz/easy-llms
+https://api.github.com/repos/Siris2314/ytsum
+https://api.github.com/repos/trinh82/chat-with-mysql
+https://api.github.com/repos/I-Veb/Image_To_Text_Caption_Generation
+https://api.github.com/repos/CalettiGabriele/DRAG

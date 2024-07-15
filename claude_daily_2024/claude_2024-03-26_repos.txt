@@ -1,0 +1,6 @@
+https://api.github.com/repos/ahmadrosid/laravel-claude-chatbot
+https://api.github.com/repos/unifyai/unify
+https://api.github.com/repos/TOSHISTATS/RAG-with-Claude3-Haiku
+https://api.github.com/repos/KlayClarke/ai-ssistant
+https://api.github.com/repos/shakedzy/eevee-chat
+https://api.github.com/repos/LocalSymmetry/lofn

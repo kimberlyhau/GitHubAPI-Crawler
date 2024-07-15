@@ -1,0 +1,6 @@
+https://api.github.com/repos/sozercan/aikit
+https://api.github.com/repos/rh670892215/GemmaORM
+https://api.github.com/repos/MonishKanneboina/GemMatching
+https://api.github.com/repos/BryanVK/PT-Gemma-Paramitra
+https://api.github.com/repos/gemmariecanlom/gemmariecanlom.github.io
+https://api.github.com/repos/difonjohaiv/Gemma-fine-tune

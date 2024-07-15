@@ -1,0 +1,10 @@
+https://api.github.com/repos/evangstav/claude.nvim
+https://api.github.com/repos/trevorspires/Claude3-Apps
+https://api.github.com/repos/Yusuke-Shimizu/cert-teacher-claude3
+https://api.github.com/repos/TahaHaoulani/claude3-demo-summit
+https://api.github.com/repos/xiehust/claude_nlp
+https://api.github.com/repos/songzhipeng87/telegram-claude
+https://api.github.com/repos/inside-out-gear/Claude-AI-Discord-Bot
+https://api.github.com/repos/tushar2704/Powerful-RAG-Applications
+https://api.github.com/repos/tcw321/brserver
+https://api.github.com/repos/adnanmarufdip/SWAPI_Project

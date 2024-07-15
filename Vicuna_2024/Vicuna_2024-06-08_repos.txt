@@ -1,0 +1,3 @@
+https://api.github.com/repos/mbzuai-oryx/VideoGPT-plus
+https://api.github.com/repos/PKU-Alignment/llms-resist-alignment
+https://api.github.com/repos/abdur75648/MedicalGPT

@@ -1,0 +1,10 @@
+https://api.github.com/repos/stavsap/comfyui-ollama
+https://api.github.com/repos/MAK227/OllamaChat-Streamlit
+https://api.github.com/repos/JaviMerino/rstudio_ollama
+https://api.github.com/repos/slowmagic10/alist-ollama
+https://api.github.com/repos/glemmaPaul/ollama-research
+https://api.github.com/repos/nicklansley/ollama_usage_examples
+https://api.github.com/repos/leolivier/ollama-rag-llamaidx
+https://api.github.com/repos/gladuz/ollama-chat-golang
+https://api.github.com/repos/sunny2309/panel_chatbot
+https://api.github.com/repos/Kamalesh9483/Multi_Programming_Code_Assistant_Codellama_ollama_gradeio

@@ -1,0 +1,8 @@
+https://api.github.com/repos/InftyAI/llmlite
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/oobabooga/text-generation-webui
+https://api.github.com/repos/alan-turing-institute/reginald
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/mudler/LocalAI
+https://api.github.com/repos/explosion/spacy-llm

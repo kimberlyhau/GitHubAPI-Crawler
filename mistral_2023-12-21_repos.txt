@@ -1,0 +1,5 @@
+https://api.github.com/repos/fboulnois/llama-cpp-docker
+https://api.github.com/repos/wmalloc/MistralAIKit
+https://api.github.com/repos/justinwlin/Ollama_Runpod_mistral7b
+https://api.github.com/repos/Debdeepghosal/Saathi_chatbot_mistral7b_quantized
+https://api.github.com/repos/abdullohndm/mistral-llm

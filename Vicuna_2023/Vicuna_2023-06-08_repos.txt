@@ -1,0 +1,8 @@
+https://api.github.com/repos/FMXExpress/CodeDroidAI
+https://api.github.com/repos/jackaduma/Recurrent-LLM
+https://api.github.com/repos/FuxiaoLiu/LRV-Instruction
+https://api.github.com/repos/carlpeaslee/replicate-vicuna-chat
+https://api.github.com/repos/Wangshengyang2004/Vicuna-Setup-Tutorial
+https://api.github.com/repos/ReihanehIranManesh/fine_tuning_vicuna
+https://api.github.com/repos/youyanghust/stable-vicuna-13B-HF
+https://api.github.com/repos/spv420/llama_tui

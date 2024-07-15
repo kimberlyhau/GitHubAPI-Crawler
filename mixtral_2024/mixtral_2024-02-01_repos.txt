@@ -1,0 +1,11 @@
+https://api.github.com/repos/inferless/Mixtral-8x7B-v0.1
+https://api.github.com/repos/fly-apps/ollama-open-webui
+https://api.github.com/repos/ibnaleem/mixtral.py
+https://api.github.com/repos/PeterBaelish/MixtralKit_finetune
+https://api.github.com/repos/JamiesonLabUTSW/mixtral-promptflow-deploy
+https://api.github.com/repos/PolyAgent/mixtral-prompt-app
+https://api.github.com/repos/suvraadeep/Alfred-TTS-using-Mixtral
+https://api.github.com/repos/melanie531/Mixtral-8x7b-finetuning-deployment-SageMaker
+https://api.github.com/repos/sudy-super/neoxtral
+https://api.github.com/repos/DrishtiShrrrma/mixtral-8x7b-vs-mistral-vs-llama2-english-to-hinglish-translation
+https://api.github.com/repos/LikithMeruvu/Generative-text

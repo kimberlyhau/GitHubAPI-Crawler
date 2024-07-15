@@ -1,0 +1,11 @@
+https://api.github.com/repos/aws-samples/advanced-rag-patterns-on-mixtral
+https://api.github.com/repos/trinib/ZORG-Jailbreak-Prompt-Text
+https://api.github.com/repos/Hrishikesh332/Groq-Mixtral-Chat
+https://api.github.com/repos/captaindpt/run-mixtral8x7b
+https://api.github.com/repos/aws-samples/query-databases-with-natural-language
+https://api.github.com/repos/FoxHound-DevsHouse/Mixtral-Fireworks.AI-API-Call
+https://api.github.com/repos/notmehul/Phixtral
+https://api.github.com/repos/deepp23/Fake-News-Detection-using-Mixtral-7b
+https://api.github.com/repos/Ming-999/Mixtral-8x7B-Instruct-v0.1
+https://api.github.com/repos/SanketRakshe/twitterbioGPT
+https://api.github.com/repos/t800-x/helix

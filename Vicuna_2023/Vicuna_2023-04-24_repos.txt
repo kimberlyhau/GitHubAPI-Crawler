@@ -1,0 +1,14 @@
+https://api.github.com/repos/HaxyMoly/Vicuna-LangChain
+https://api.github.com/repos/VPGTrans/VPGTrans
+https://api.github.com/repos/idosal/AgentLLM
+https://api.github.com/repos/wangqi/game-npc-vicuna
+https://api.github.com/repos/practical-dreamer/vicuna_fastchat_preprocess
+https://api.github.com/repos/rozek/node-red-flow-vicuna
+https://api.github.com/repos/Josue1855/vicuna
+https://api.github.com/repos/segoviasegovia/desafio-vicuna
+https://api.github.com/repos/gaborszenesi/vicuna_api
+https://api.github.com/repos/gaborszenesi/vicuna_fastchat_api
+https://api.github.com/repos/Honkware/quick-stable-vicuna
+https://api.github.com/repos/ChaoticByte/Eucalyptus-Chat
+https://api.github.com/repos/vivCoding/jazzy-cat
+https://api.github.com/repos/nuhmanpk/Awesome-open-LLM

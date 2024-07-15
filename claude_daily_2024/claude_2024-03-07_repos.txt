@@ -1,0 +1,14 @@
+https://api.github.com/repos/arunslb123/anthropic_claude3_masterclass
+https://api.github.com/repos/gelbzucht/bedrock_claude3_multimodal_streamlit
+https://api.github.com/repos/sh2/extension-summarize-translate-claude
+https://api.github.com/repos/dvcrn/anthropic-cli
+https://api.github.com/repos/SiddharthUchil/Claude3-function-calling
+https://api.github.com/repos/engchina/chat-claude3-opus
+https://api.github.com/repos/akmhmgc/claude_sample
+https://api.github.com/repos/01claude/my-BRAND-01claude
+https://api.github.com/repos/ENATION-UK/page-builder
+https://api.github.com/repos/UBOS-Asset-Store/UBOS-template-talk-with-claude-nr
+https://api.github.com/repos/nick0918964388/Anthropic-Claude-Clone-in-Next.JS-and-Langchain
+https://api.github.com/repos/achrafaitibba/realtime-multiplayer-drawing-app
+https://api.github.com/repos/lprekon/two-syllable-generator
+https://api.github.com/repos/kapyan/woochatnio

@@ -1,0 +1,14 @@
+https://api.github.com/repos/unslothai/unsloth
+https://api.github.com/repos/anthropics/anthropic-sdk-typescript
+https://api.github.com/repos/DynamonAI/LLMsEasyFinetune
+https://api.github.com/repos/anish2105/Enchatty
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/dandange8005/Ultra-Essentials
+https://api.github.com/repos/Exp-Primer-Copilot-Cohort-1/experience-primer-copilot-Gemma-Bell
+https://api.github.com/repos/shmishra99/testRep
+https://api.github.com/repos/triton-inference-server/vllm_backend
+https://api.github.com/repos/mediahackza/datadesk
+https://api.github.com/repos/PavlidisLab/TGEMO
+https://api.github.com/repos/google/highway
+https://api.github.com/repos/kokkos/kokkos.github.io
+https://api.github.com/repos/Ranginang67/Firecrack

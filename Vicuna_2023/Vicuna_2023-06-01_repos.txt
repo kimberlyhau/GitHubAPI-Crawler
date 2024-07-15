@@ -1,0 +1,14 @@
+https://api.github.com/repos/petterthowsen/banana-Wizard-Vicuna-30B-Uncensored-GPTQ
+https://api.github.com/repos/saluberis/Wizard-Vicuna-30B-Uncensored
+https://api.github.com/repos/saluberis/Wizard-Vicuna-30B-Uncensored-GPTQ
+https://api.github.com/repos/zguo0525/vicuna4tools
+https://api.github.com/repos/MridangK/Vicuna
+https://api.github.com/repos/KiraSovrin/vicuna_colab
+https://api.github.com/repos/krotxe/vicuna-fix
+https://api.github.com/repos/tszgc/Vicuna-7b-Lora-swft
+https://api.github.com/repos/emelnov/vicuna-test-saiga_7b
+https://api.github.com/repos/FMXExpress/Python-GUI-Vicuna-13b-Client
+https://api.github.com/repos/Kurtyjlee/Complex-QA
+https://api.github.com/repos/seansunn/similarity_search
+https://api.github.com/repos/reyyanxahmed/SoloGPT
+https://api.github.com/repos/icebaker/nano-bots

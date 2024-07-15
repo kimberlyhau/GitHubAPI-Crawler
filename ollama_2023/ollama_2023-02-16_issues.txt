@@ -1,0 +1,2 @@
+https://api.github.com/repos/clarknova99/home-cluster
+https://api.github.com/repos/mikrethor/its-magic

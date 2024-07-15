@@ -1,0 +1,5 @@
+https://api.github.com/repos/we-be/claude-tools-agent
+https://api.github.com/repos/claudedegas/claudedegas
+https://api.github.com/repos/mile888/claude_vs_gpt
+https://api.github.com/repos/echohello-dev/transcribe-me
+https://api.github.com/repos/Nerdmaster/llm-feeder

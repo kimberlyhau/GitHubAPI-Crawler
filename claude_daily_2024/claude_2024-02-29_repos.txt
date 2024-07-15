@@ -1,0 +1,4 @@
+https://api.github.com/repos/noDiego/whatsapp-claude-gpt
+https://api.github.com/repos/ktutak1337/Stellar-Chat
+https://api.github.com/repos/chiyoungkim/claude_prompt_builder
+https://api.github.com/repos/JCthedevelop3r/Portfolio_Jean-Claude_Minot_01

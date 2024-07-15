@@ -1,0 +1,2 @@
+https://api.github.com/repos/ishiki-hikuhiku-game/claudeShannonUltimateMachineFlutter
+https://api.github.com/repos/CToledo65/Claudemir

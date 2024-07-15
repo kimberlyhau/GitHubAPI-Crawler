@@ -1,0 +1,14 @@
+https://api.github.com/repos/NL-AMS-LOCGOV/zaakafhandelcomponent
+https://api.github.com/repos/open-zaak/open-zaak
+https://api.github.com/repos/genetics-statistics/GEMMA
+https://api.github.com/repos/VNG-Realisatie/gemma-zaken
+https://api.github.com/repos/team-westside/gemma-backend
+https://api.github.com/repos/VNG-Realisatie/documenten-api
+https://api.github.com/repos/icl-utk-edu/slate
+https://api.github.com/repos/cockroachdb/docs
+https://api.github.com/repos/costero-e/beacon2-ri-api
+https://api.github.com/repos/trilinos/Trilinos
+https://api.github.com/repos/huggingface/transformers
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/adafruit/Adafruit_DotStar
+https://api.github.com/repos/team-westside/gemma-app

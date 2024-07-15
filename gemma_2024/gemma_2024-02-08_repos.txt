@@ -1,0 +1,10 @@
+https://api.github.com/repos/google/gemma.cpp
+https://api.github.com/repos/gemma78/gemma78
+https://api.github.com/repos/AyoubTachafine/gemma
+https://api.github.com/repos/PavlidisLab/gemmaDifExpDump
+https://api.github.com/repos/Taeseo06/SchoolHelperChatbot-Gemma2B-Finetuning
+https://api.github.com/repos/ManiMana/Predproff-Gemma
+https://api.github.com/repos/gemmadwi-mg/gemma-portofolio
+https://api.github.com/repos/gemmapink/gemmapink.github.io
+https://api.github.com/repos/FeGem99/Caso-di-Studio-ICON
+https://api.github.com/repos/bananya-ml/Gemini-apps

@@ -1,0 +1,4 @@
+https://api.github.com/repos/eomahony/Numberjack
+https://api.github.com/repos/stanford-crfm/mistral
+https://api.github.com/repos/radar/mtg
+https://api.github.com/repos/radar/mtg

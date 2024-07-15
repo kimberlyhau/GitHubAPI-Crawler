@@ -1,0 +1,4 @@
+https://api.github.com/repos/gemmadlou/semantiq
+https://api.github.com/repos/arduino/ArduinoCore-avr
+https://api.github.com/repos/cockroachdb/docs
+https://api.github.com/repos/ersilia-os/ersilia

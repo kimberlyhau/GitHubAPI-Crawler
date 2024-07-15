@@ -1,0 +1,17 @@
+https://api.github.com/repos/mshumer/gpt-prompt-engineer
+https://api.github.com/repos/danielmiessler/fabric
+https://api.github.com/repos/lukaszliniewicz/Pandrator
+https://api.github.com/repos/Loyalsoldier/v2ray-rules-dat
+https://api.github.com/repos/Skyvern-AI/skyvern
+https://api.github.com/repos/claude-morningstar47/api_mongodb
+https://api.github.com/repos/aws-samples/amazon-bedrock-samples
+https://api.github.com/repos/rollwagen/bods
+https://api.github.com/repos/langchain-ai/langchainjs
+https://api.github.com/repos/ooooohira/paper_summary
+https://api.github.com/repos/ComposioHQ/composio
+https://api.github.com/repos/Portkey-AI/gateway
+https://api.github.com/repos/bincooo/chatgpt-adapter
+https://api.github.com/repos/danielmiessler/fabric
+https://api.github.com/repos/fingerthief/minimal-chat
+https://api.github.com/repos/endomorphosis/ipfs_transformers
+https://api.github.com/repos/doubleTroub1e/nodepayai

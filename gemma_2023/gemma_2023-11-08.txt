@@ -1,0 +1,16 @@
+https://api.github.com/repos/ayush-verma07/GemMatching
+https://api.github.com/repos/VNG-Realisatie/gemma-zaken
+https://api.github.com/repos/ikolaxis/devsecops-crash-test
+https://api.github.com/repos/QwenLM/Qwen
+https://api.github.com/repos/RobertGemmaJr/gemma-wedding-2022
+https://api.github.com/repos/mjrs33/paper
+https://api.github.com/repos/mlc-ai/mlc-llm
+https://api.github.com/repos/jgeraigery/Dromedary
+https://api.github.com/repos/rhettrina/gemma
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/langchain-ai/langchain
+https://api.github.com/repos/ZeidBsaibes/instock-backend-mercury
+https://api.github.com/repos/adafruit/CircuitPython_NAU7802
+https://api.github.com/repos/hansenlab/bnbc
+https://api.github.com/repos/AaronFortG/ProjWeb1
+https://api.github.com/repos/XiaoTaoWang/HiCLift

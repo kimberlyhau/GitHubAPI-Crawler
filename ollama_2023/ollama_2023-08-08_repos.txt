@@ -1,0 +1,9 @@
+https://api.github.com/repos/zweifisch/ollama
+https://api.github.com/repos/AgentOps-AI/agentops
+https://api.github.com/repos/technovangelist/OllamaModelFile-VSCodeExtension
+https://api.github.com/repos/drhino/ollama-client
+https://api.github.com/repos/frankroeder/parrot.nvim
+https://api.github.com/repos/sakkke/ollama-arch
+https://api.github.com/repos/davidkingzyb/BlenderSlot
+https://api.github.com/repos/sinanazem/llm-apps
+https://api.github.com/repos/c7b0rg/LLaMA-Ollama

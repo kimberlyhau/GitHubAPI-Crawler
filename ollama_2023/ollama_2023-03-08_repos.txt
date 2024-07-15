@@ -1,0 +1,4 @@
+https://api.github.com/repos/ChatGPTNextWeb/ChatGPT-Next-Web
+https://api.github.com/repos/Leask/halbot
+https://api.github.com/repos/rizerphe/obsidian-companion
+https://api.github.com/repos/SanHacks/AiGen

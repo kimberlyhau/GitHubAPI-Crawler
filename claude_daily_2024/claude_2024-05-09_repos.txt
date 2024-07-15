@@ -1,0 +1,10 @@
+https://api.github.com/repos/aws-samples/sample-connector-for-bedrock
+https://api.github.com/repos/Venchy211/Claude
+https://api.github.com/repos/quimby10/claude2
+https://api.github.com/repos/abhiramps-7thpillar/claude_backend
+https://api.github.com/repos/quimby10/claude-2
+https://api.github.com/repos/tizkovatereza/Claude-Code-Interpreter-in-TypeScript
+https://api.github.com/repos/ThiagoCHM/bootcamp_nexa
+https://api.github.com/repos/OpoJack/budget-bill
+https://api.github.com/repos/Krishnateja244/DocumentQA-search-RAG-app-using-AWS-Bedrock-and-LangChain
+https://api.github.com/repos/saddlerto/genai-wiki

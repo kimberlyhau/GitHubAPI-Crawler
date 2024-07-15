@@ -1,0 +1,16 @@
+https://api.github.com/repos/sundali69/LamdaCS
+https://api.github.com/repos/sanilew/LamdaBackend
+https://api.github.com/repos/adityagupta36/LamdaExpressions
+https://api.github.com/repos/LupumloKolisi/lamda
+https://api.github.com/repos/Quadrivium4/Lamda
+https://api.github.com/repos/elrey-nt/lamda
+https://api.github.com/repos/Leen-Mashlah/lamdatest
+https://api.github.com/repos/codedreamerRick/Lamda_Expression
+https://api.github.com/repos/ashwathbuddy/github_lamda
+https://api.github.com/repos/sktvera/aws-lamda-eccargo
+https://api.github.com/repos/nivethasivakumar75/AWS_Lamda_Teachback
+https://api.github.com/repos/raja082721/Athena-Lamda-Splunk-Integration
+https://api.github.com/repos/JeffMottaDev/java-api-movies
+https://api.github.com/repos/TrongNhan30520/Composite-image-use-canvas-on-lamda-aws
+https://api.github.com/repos/vishnukalyan47/Akamai_logPush
+https://api.github.com/repos/maha100104/StringIsEmpytOrNotByLamdaExp

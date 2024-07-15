@@ -1,0 +1,12 @@
+https://api.github.com/repos/sugarforever/ollama-libraries-example
+https://api.github.com/repos/klindziukp/spring-ai-ollama-llama
+https://api.github.com/repos/da-z/ollama-ui
+https://api.github.com/repos/neomatrixcode/ollama
+https://api.github.com/repos/JonStratton/ollama-bridge
+https://api.github.com/repos/TheTallBlonde1/ollama_ai
+https://api.github.com/repos/vriznet/ollama-test
+https://api.github.com/repos/kelvinator2/ollama-noAVX
+https://api.github.com/repos/cryptictech/multi-ollama-docker-example
+https://api.github.com/repos/mrtimo/ollama-web-ui-google-directions
+https://api.github.com/repos/Kakachia777/LLaVA1.6
+https://api.github.com/repos/song9537/full-stack-gpt

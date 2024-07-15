@@ -1,0 +1,15 @@
+https://api.github.com/repos/tomviner/llm-claude
+https://api.github.com/repos/OpenAdaptAI/OpenAdapt
+https://api.github.com/repos/code-dot-org/aiproxy
+https://api.github.com/repos/anthropics/anthropic-cookbook
+https://api.github.com/repos/aws-samples/amazon-bedrock-samples
+https://api.github.com/repos/sourcegraph/cody
+https://api.github.com/repos/chathub-dev/chathub
+https://api.github.com/repos/aws-samples/langchain-agents
+https://api.github.com/repos/sourcegraph/cody
+https://api.github.com/repos/concordia-dcart/CART210-glossary
+https://api.github.com/repos/kimkihoon0515/mlops_crawling
+https://api.github.com/repos/claudegel/sinope-zha
+https://api.github.com/repos/langchain-ai/langchain
+https://api.github.com/repos/aws-samples/bedrock-claude-chat
+https://api.github.com/repos/verveguy/tana-helper

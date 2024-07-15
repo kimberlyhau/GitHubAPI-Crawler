@@ -1,0 +1,6 @@
+https://api.github.com/repos/umtksa/ollama
+https://api.github.com/repos/nicholaslck/tldraw-ollama
+https://api.github.com/repos/spotdemo4/discord-ollama
+https://api.github.com/repos/crenz/Ollama-ChatDocs
+https://api.github.com/repos/ziemowit-s/ollama_web_client
+https://api.github.com/repos/Brandon7CC/MODELFORGE

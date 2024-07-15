@@ -1,0 +1,13 @@
+https://api.github.com/repos/developersdigest/ollama-anywhere
+https://api.github.com/repos/LexiestLeszek/scrapeGPT
+https://api.github.com/repos/TEAMPB/ollama4j-vaadin-ui
+https://api.github.com/repos/pejuko/follamac
+https://api.github.com/repos/Kajetan-Grabara-Grabar/OllamaInTheBox
+https://api.github.com/repos/blue-bear-tech/ollama-compose
+https://api.github.com/repos/bots-garden/ollama-ide
+https://api.github.com/repos/aficiomaquinas/ollama-wizardlm-uncensored
+https://api.github.com/repos/aficiomaquinas/ollama-llama2-uncensored
+https://api.github.com/repos/bishwaTharu/Ollama-LLamaindex-RAG-Examples-
+https://api.github.com/repos/phattantran1997/discord_bot
+https://api.github.com/repos/babithg/genai_chatbot
+https://api.github.com/repos/codingforentrepreneurs/Smarter-Web-Scraping-with-Python

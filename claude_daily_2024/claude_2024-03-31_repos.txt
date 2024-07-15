@@ -1,0 +1,15 @@
+https://api.github.com/repos/wshobson/financial-chat
+https://api.github.com/repos/llm-ui-kit/llm-ui
+https://api.github.com/repos/moonpath/claude-to-gpt
+https://api.github.com/repos/VictorTaelin/AIEMU
+https://api.github.com/repos/schroneko/discordbot-with-claude
+https://api.github.com/repos/ReallyEasyAI/Anthropic-Claude-for-Google-Sheets-Extension
+https://api.github.com/repos/DiogoBrazil/chat-bot-streamli-claude3
+https://api.github.com/repos/timmyeats/aws-bedrock-claude3-lambda-terraform
+https://api.github.com/repos/nodematiclabs/claude-pipelines
+https://api.github.com/repos/gizm000/chatgpt-vs-claude
+https://api.github.com/repos/Academic-ID/sapienAI
+https://api.github.com/repos/ardasevinc/Soluna-Gaia-Claude-Hermes
+https://api.github.com/repos/blallen22/llm-rag-claude-snapchat-reviews
+https://api.github.com/repos/ozanyarci/TextBasedAdventureGame
+https://api.github.com/repos/lrspeiser/Grue.is

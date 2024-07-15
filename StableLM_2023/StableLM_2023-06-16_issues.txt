@@ -1,0 +1,15 @@
+https://api.github.com/repos/postgresml/postgresml
+https://api.github.com/repos/PanagiotisFytas/get-daily-arxiv-noti
+https://api.github.com/repos/Stability-AI/lm-evaluation-harness
+https://api.github.com/repos/Yukeaaa/arxiv-daily
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/bentoml/BentoML
+https://api.github.com/repos/defenseunicorns/leapfrogai
+https://api.github.com/repos/X-lab2017/open-digger
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/Pan-ML/panml
+https://api.github.com/repos/OpenNMT/CTranslate2
+https://api.github.com/repos/ivgtr/github-weeklyTrends
+https://api.github.com/repos/mlc-ai/mlc-llm
+https://api.github.com/repos/EleutherAI/lm-evaluation-harness

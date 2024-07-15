@@ -1,0 +1,7 @@
+https://api.github.com/repos/inferless/Vicuna-7b-8k
+https://api.github.com/repos/inferless/Vicuna-7b-1.1
+https://api.github.com/repos/Lennon-cheng/ft-repo
+https://api.github.com/repos/felixchao/Vicuna-Chemical-Expert
+https://api.github.com/repos/nickaggarwal/Vicuna-7b-1.1
+https://api.github.com/repos/smtexas99/GenerativeAI-Llama-App
+https://api.github.com/repos/yanshuaidong/LocalAI

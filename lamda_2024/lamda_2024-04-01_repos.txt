@@ -1,0 +1,16 @@
+https://api.github.com/repos/jieonsim/j0317_lamda
+https://api.github.com/repos/ropa99/LamdaExercise
+https://api.github.com/repos/TechWhizSachin/LamdaTest-Certifications
+https://api.github.com/repos/nghia-hoang/lamdanew
+https://api.github.com/repos/silan1993/lamda-nodejs
+https://api.github.com/repos/Ahsultan/HelloLamda
+https://api.github.com/repos/Lev-Dolzhenko/landing-lamda-
+https://api.github.com/repos/Spandana-Gajangi/lamda_typesctipt_sam
+https://api.github.com/repos/Santhoshns2001/LinqUsingLamda
+https://api.github.com/repos/nainishkukekar/Lamdatest_certification_latest
+https://api.github.com/repos/MbohBless/api_gateway_lamda
+https://api.github.com/repos/sarthaksharma22/codebuild-for-lamda
+https://api.github.com/repos/zimoli-lamda/zimoli-lamda.github.io
+https://api.github.com/repos/minatonamikazeee/git_hub_lamda_demo
+https://api.github.com/repos/Devika1304/AWS_POCs
+https://api.github.com/repos/nzluis/miranda_nodeAPI

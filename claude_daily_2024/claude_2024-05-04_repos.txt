@@ -1,0 +1,10 @@
+https://api.github.com/repos/IncomeStreamSurfer/claudeperplexity
+https://api.github.com/repos/paralin/claude
+https://api.github.com/repos/Dharil33/Pandas-Query-Engine-Claude3
+https://api.github.com/repos/tantowish/claude-test
+https://api.github.com/repos/VectorMind/claude-test
+https://api.github.com/repos/RajKKapadia/YouTube-SQL-Chatbot-Postgres-Claude
+https://api.github.com/repos/taoyongac/claude_opus_based_literature_mining_for_scientific_research
+https://api.github.com/repos/Mos2077/fakeornattyaigenerativa
+https://api.github.com/repos/Mos2077/nexa-iagenerativa-desafiosdecodigo
+https://api.github.com/repos/MatthewPDingle/Spaceship-Survival

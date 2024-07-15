@@ -1,0 +1,11 @@
+https://api.github.com/repos/b-tocs/abap_btocs_ollama
+https://api.github.com/repos/oliverbravery/fbco
+https://api.github.com/repos/mlpierce22/tea
+https://api.github.com/repos/codecaine-zz/ollama
+https://api.github.com/repos/vinodvpillai/AI_AutoGen_LiteLLM_Ollama
+https://api.github.com/repos/shemishtamesh/ollama-rofi
+https://api.github.com/repos/jburgess/ollama-helm
+https://api.github.com/repos/yuminglong318/Org-Classification-Ollama
+https://api.github.com/repos/pratheeshrussell/flowise-ollama-demo
+https://api.github.com/repos/ThomasVitale/llm-images
+https://api.github.com/repos/brianlugo1/AIConnector

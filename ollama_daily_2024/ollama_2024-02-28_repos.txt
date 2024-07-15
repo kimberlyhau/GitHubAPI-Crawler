@@ -1,0 +1,13 @@
+https://api.github.com/repos/mdsrmed/Ollama
+https://api.github.com/repos/chris-windsor/alpaca
+https://api.github.com/repos/it-spectre-ru/04-ollama
+https://api.github.com/repos/llaferla/svelte-ollama
+https://api.github.com/repos/danjour/ChatOllama
+https://api.github.com/repos/sunny2309/ollama_python_library_tutorial
+https://api.github.com/repos/BrunoPoiano/Ollama-WebUi
+https://api.github.com/repos/Zbrooklyn/Langflow-With-Ollama
+https://api.github.com/repos/ygalblum/ansible-collection-ollama
+https://api.github.com/repos/define42/ollama-with-gui
+https://api.github.com/repos/datametal/local-llm-stack-nextjs
+https://api.github.com/repos/rrolin11/chatbot-ai-lab
+https://api.github.com/repos/jugodfroy/ChatBot_Langchain_customer_service

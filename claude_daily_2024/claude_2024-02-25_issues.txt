@@ -1,0 +1,13 @@
+https://api.github.com/repos/binary-husky/gpt_academic
+https://api.github.com/repos/ChuckFork/github-daily
+https://api.github.com/repos/0x5bfa/FluentHub
+https://api.github.com/repos/jill64/sveltekit-adapter-aws
+https://api.github.com/repos/aws-samples/private-llm-qa-bot
+https://api.github.com/repos/Layr-Labs/eigenlayer-docs
+https://api.github.com/repos/pabl-o-ce/poscye-discord-ai-bot
+https://api.github.com/repos/kujian/githubTrending
+https://api.github.com/repos/FabianaCampanari/create_llama_projects
+https://api.github.com/repos/Yukeaaa/arxiv-daily
+https://api.github.com/repos/sketch-ai-de/sketch-ai
+https://api.github.com/repos/longhorn/longhorn-tests
+https://api.github.com/repos/JonathansManoel/Curso-Django

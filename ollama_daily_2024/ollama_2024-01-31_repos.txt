@@ -1,0 +1,11 @@
+https://api.github.com/repos/warmice71/LLM-Ollama
+https://api.github.com/repos/kspviswa/PyOMlx
+https://api.github.com/repos/kspviswa/pyOllaMx
+https://api.github.com/repos/kwame-mintah/vscode-ollama-local-code-copilot
+https://api.github.com/repos/datametal/Ollama-Supabase-LangChain-NextJS
+https://api.github.com/repos/Fyphen1223/OllamaTest
+https://api.github.com/repos/jooray/lxmf-ai-bot
+https://api.github.com/repos/W-Wuxian/NANIKA
+https://api.github.com/repos/officialsahyaboutorabi/OpenVoice
+https://api.github.com/repos/QuantumByteStudios/AI-Interdisciplinary-Authenticator
+https://api.github.com/repos/ibnaleem/mistral-discord

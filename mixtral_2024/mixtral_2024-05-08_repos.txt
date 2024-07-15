@@ -1,0 +1,12 @@
+https://api.github.com/repos/empower-ai/empower-functions
+https://api.github.com/repos/hectorpine/multiple-model-crew
+https://api.github.com/repos/igorbkz/mixtral
+https://api.github.com/repos/blake41/mixtral-embedchain
+https://api.github.com/repos/PABannier/MakeItPunchier
+https://api.github.com/repos/2351672564/Mixtral-for-Driving
+https://api.github.com/repos/SrinivasanJayakumar75/Querying-website-using-langchain-groq-chromadb-Mixtral
+https://api.github.com/repos/SamuelkohP04/Mixtral-8x7b-Retrieval-Augmented-Generation-LLM
+https://api.github.com/repos/abdullah-w-21/Chat-with-multitable-DB
+https://api.github.com/repos/hamzahey/Rag-Application-with-Open-source-embeddings-and-Groq-Mixtral-Model-with-Casandra-based-Vector-Store
+https://api.github.com/repos/mongodb-developer/MistralAI_Walkthrough
+https://api.github.com/repos/marchmello1/Audio-text-QnA

@@ -1,0 +1,14 @@
+https://api.github.com/repos/tusharhero/aitelegrambot
+https://api.github.com/repos/PicoMLX/PicoMLXServer
+https://api.github.com/repos/mickymultani/Groq-RAG
+https://api.github.com/repos/superyhee/ollama-oneclick-aws
+https://api.github.com/repos/cat007cat/ollama-gemma
+https://api.github.com/repos/kouissar/ollama-streamlit
+https://api.github.com/repos/nbiish/ollama_index
+https://api.github.com/repos/jsanchezba/ollama-server
+https://api.github.com/repos/kurone02/ollama-code-interpreter
+https://api.github.com/repos/okaditya84/Time-series-forecasting
+https://api.github.com/repos/mdsrmed/Chat-UI
+https://api.github.com/repos/SiddharthUchil/Auto-content-categorizer-for-GS
+https://api.github.com/repos/brokegen/brokegen
+https://api.github.com/repos/ikramhasan/AutoBlog-AI-Blog-Generator

@@ -1,0 +1,4 @@
+https://api.github.com/repos/oobabooga/text-generation-webui
+https://api.github.com/repos/skypilot-org/skypilot
+https://api.github.com/repos/opnsense/plugins
+https://api.github.com/repos/alokdidde/vicuna

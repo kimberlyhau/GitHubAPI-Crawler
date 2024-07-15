@@ -1,0 +1,12 @@
+https://api.github.com/repos/CryogenicPlanet/claude-function-ts
+https://api.github.com/repos/yukinaga/claude3
+https://api.github.com/repos/ragibmondal/claude3streamlit
+https://api.github.com/repos/ragibmondal/claude3typescript
+https://api.github.com/repos/JosephBytes/Claudes-Electronics
+https://api.github.com/repos/roveneliah/claude-exports
+https://api.github.com/repos/xuzhiqin1990/paper_show_by_claude
+https://api.github.com/repos/navjordj/RepoToText
+https://api.github.com/repos/iy3r/code-collector
+https://api.github.com/repos/DanielCarmichaelGit/Grav-Labs
+https://api.github.com/repos/ranvier2d2/HeyDATA-Metaprompt-plus-BionicReading
+https://api.github.com/repos/Enriques-Reyes/AI_Generated_Python_Challanges

@@ -1,0 +1,4 @@
+https://api.github.com/repos/ThivaV/mistral_helloworld
+https://api.github.com/repos/Entaigner/haystack-mistralai
+https://api.github.com/repos/aritrasen87/Mistral-7B-DPO
+https://api.github.com/repos/MinhxThanh/My-Mistral-Telegram-Bot

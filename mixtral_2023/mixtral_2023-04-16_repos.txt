@@ -1,0 +1,3 @@
+https://api.github.com/repos/aandrew-me/tgpt
+https://api.github.com/repos/themaximalist/llm.js
+https://api.github.com/repos/gulabpatel/LLMs

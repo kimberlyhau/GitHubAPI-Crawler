@@ -1,0 +1,9 @@
+https://api.github.com/repos/openGemini/openGemini.github.io
+https://api.github.com/repos/Zain-ul-din/whatsapp-ai-bot
+https://api.github.com/repos/doggy8088/ChatGPTToolkitExtension
+https://api.github.com/repos/Galaxy-MicroService-Community/Gemini
+https://api.github.com/repos/nidhi9315/GeminiTraining
+https://api.github.com/repos/gupta-rajnish/GEMINI_ELECTRONICS
+https://api.github.com/repos/immannino/sage-gemini
+https://api.github.com/repos/oxidecomputer/hw-lpc55-carrier
+https://api.github.com/repos/jdriselvato/GemLog-Client

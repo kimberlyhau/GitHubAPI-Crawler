@@ -1,0 +1,2 @@
+https://api.github.com/repos/ClaudeRobbinCR/claudews
+https://api.github.com/repos/arnauJutglar/SegmentateImages

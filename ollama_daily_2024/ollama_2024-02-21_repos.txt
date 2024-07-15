@@ -1,0 +1,16 @@
+https://api.github.com/repos/DataDropp/OllamaDroid
+https://api.github.com/repos/amithkoujalgi/ollama4j-web-ui
+https://api.github.com/repos/renatocava/ollama_llava
+https://api.github.com/repos/sleeperb-cs/ollama_example
+https://api.github.com/repos/diegodmb/ollama-webui
+https://api.github.com/repos/sarahec/ollama-nix
+https://api.github.com/repos/palosab/encasedllama
+https://api.github.com/repos/JapiKredi/LLama2_ollama
+https://api.github.com/repos/RishikarK/LangchainUsingOllama
+https://api.github.com/repos/sudhirslab/local-llm-with-ollama
+https://api.github.com/repos/richarda23/ollama-web-demo
+https://api.github.com/repos/WilliamDowning/AI-Ollama-PDF-QA
+https://api.github.com/repos/dantebarba/plexlama
+https://api.github.com/repos/treisland/LangChain-Chatbot
+https://api.github.com/repos/vrajp3301/ImageMark
+https://api.github.com/repos/vijayredkar/Local-LLM-GPT

@@ -1,0 +1,11 @@
+https://api.github.com/repos/ivackerdev/go-mixtral
+https://api.github.com/repos/TerminalGravity/mixtral-trader
+https://api.github.com/repos/Jamil-Palma/technical-interview-with-tensorrt-llm-rtx-mixtral
+https://api.github.com/repos/ISMXam/mixtral-offloading
+https://api.github.com/repos/AadiXC0DE/Mixtral_testV2
+https://api.github.com/repos/quamernasim/AI-Chatbot-Using-Mixtral-8x7B-PGVector-Llama-Index-With-Websockets-For-SaaS
+https://api.github.com/repos/Wivik/ai-text-quality-reviewer
+https://api.github.com/repos/tam-albert/zyzx
+https://api.github.com/repos/antoinelemor/EVD.COVID_ANALYSIS
+https://api.github.com/repos/SrujanGowda1998/German-Biography-Generator-using-LLM
+https://api.github.com/repos/antoinelemor/FR.POL.GEN

@@ -1,0 +1,12 @@
+https://api.github.com/repos/ROCm/flash-attention
+https://api.github.com/repos/mlc-ai/web-llm
+https://api.github.com/repos/EleutherAI/lm-evaluation-harness
+https://api.github.com/repos/mlc-ai/binary-mlc-llm-libs
+https://api.github.com/repos/NVIDIA/TensorRT
+https://api.github.com/repos/mlc-ai/web-llm
+https://api.github.com/repos/mlc-ai/web-llm
+https://api.github.com/repos/szwnba/affweb
+https://api.github.com/repos/TinyLLaVA/TinyLLaVA_Factory
+https://api.github.com/repos/jian-mo/QAQG
+https://api.github.com/repos/MARIO-Math-Reasoning/vllm
+https://api.github.com/repos/stephenhky/PyShortTextCategorization

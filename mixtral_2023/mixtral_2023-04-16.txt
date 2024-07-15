@@ -1,0 +1,4 @@
+https://api.github.com/repos/aandrew-me/tgpt
+https://api.github.com/repos/gulabpatel/LLMs
+https://api.github.com/repos/LZL0/stable-diffusion-webui
+https://api.github.com/repos/themaximalist/llm.js

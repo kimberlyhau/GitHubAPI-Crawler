@@ -1,0 +1,6 @@
+https://api.github.com/repos/Stability-AI/lm-evaluation-harness
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/run-llama/llama_index
+https://api.github.com/repos/rowheat02/osm-gpt
+https://api.github.com/repos/ml-energy/leaderboard

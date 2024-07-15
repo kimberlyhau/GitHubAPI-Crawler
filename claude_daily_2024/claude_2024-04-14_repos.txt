@@ -1,0 +1,6 @@
+https://api.github.com/repos/jwa91/RAG_chatbot
+https://api.github.com/repos/yoazmenda/claude-java
+https://api.github.com/repos/claudebreck/claudebreck.github.io
+https://api.github.com/repos/vatsalsaglani/claudetools-vision-example
+https://api.github.com/repos/ananyajain10/sentiment-analysis-langchain-claude
+https://api.github.com/repos/yashwanth2804/multi-llm-rust-app

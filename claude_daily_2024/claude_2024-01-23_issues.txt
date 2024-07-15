@@ -1,0 +1,13 @@
+https://api.github.com/repos/ramzimalhas/langchain
+https://api.github.com/repos/ramzimalhas/AGiXT
+https://api.github.com/repos/aishaathmanlali/Coursework-Planner
+https://api.github.com/repos/ramzimalhas/quivr-secondbrain
+https://api.github.com/repos/aws-samples/bedrock-claude-chat
+https://api.github.com/repos/CitizenLabDotCo/citizenlab
+https://api.github.com/repos/Ironclad/rivet
+https://api.github.com/repos/kimkihoon0515/mlops_crawling
+https://api.github.com/repos/BerriAI/litellm
+https://api.github.com/repos/anthropics/anthropic-sdk-typescript
+https://api.github.com/repos/aws-samples/bedrock-claude-chat
+https://api.github.com/repos/LeeKyungwook/get-arxiv-noti
+https://api.github.com/repos/ministryofjustice/opg-data-lpa-instructions-preferences

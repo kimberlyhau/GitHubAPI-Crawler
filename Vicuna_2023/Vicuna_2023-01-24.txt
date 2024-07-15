@@ -1,0 +1,3 @@
+https://api.github.com/repos/skypilot-org/skypilot
+https://api.github.com/repos/opnsense/plugins
+https://api.github.com/repos/railmapgen/rmg-templates

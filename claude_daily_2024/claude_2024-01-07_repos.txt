@@ -1,0 +1,2 @@
+https://api.github.com/repos/nathanborror/swift-anthropic
+https://api.github.com/repos/claudemirton/claudemirton.github.io

@@ -1,0 +1,5 @@
+https://api.github.com/repos/howon-ryu/vicuna
+https://api.github.com/repos/Aipura/Vicuna
+https://api.github.com/repos/chalithaw/vicuna-7b
+https://api.github.com/repos/Hypoxiic/Vicuna-7b-fine-tune-summarisation
+https://api.github.com/repos/KompleteAI/xllm

@@ -1,0 +1,8 @@
+https://api.github.com/repos/langgptai/LLM-Jailbreaks
+https://api.github.com/repos/edwardbrazier/claude_test
+https://api.github.com/repos/nursery01/claude-ai
+https://api.github.com/repos/AnchitSingh/Claude-Data-Download
+https://api.github.com/repos/arihaniyer9/Healthcare-Chatbot-using-Claude
+https://api.github.com/repos/amaan8429/langchain-claude-voyager-PdfReader
+https://api.github.com/repos/tak-bro/VarAI
+https://api.github.com/repos/ebe25/code-reviewer-anthropic

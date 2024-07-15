@@ -1,0 +1,9 @@
+https://api.github.com/repos/carlrobertoh/CodeGPT
+https://api.github.com/repos/RockChinQ/revLibs
+https://api.github.com/repos/vastsa/AILink
+https://api.github.com/repos/danny-avila/LibreChat
+https://api.github.com/repos/fenwii/AiX3
+https://api.github.com/repos/claudemirtech/claudemirtech
+https://api.github.com/repos/aakshay001/Claude-Shannon-s-Gamplay
+https://api.github.com/repos/ilarkdao/AI-JOE
+https://api.github.com/repos/Claude-Blanchet-Babin/GD1A_SIDE_Claude_BLANCHET-BABIN

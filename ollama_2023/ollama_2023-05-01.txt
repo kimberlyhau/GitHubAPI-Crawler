@@ -1,0 +1,14 @@
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/omigroup/omi-archive
+https://api.github.com/repos/suzuki-shunsuke/github-action-validate-envoy-proxy
+https://api.github.com/repos/gha-trigger/commit-status-action
+https://api.github.com/repos/suzuki-shunsuke/guide-github-action-renovate
+https://api.github.com/repos/gha-trigger/test-start-action
+https://api.github.com/repos/gha-trigger/end-action
+https://api.github.com/repos/finaldie/auto-news
+https://api.github.com/repos/pgalko/BambooAI
+https://api.github.com/repos/gha-trigger/example-terraform
+https://api.github.com/repos/gotzmann/booster
+https://api.github.com/repos/darrenburns/elia
+https://api.github.com/repos/highb/logseq-notas-ex-machina
+https://api.github.com/repos/FooQoo/chatgpt-linebot-starter

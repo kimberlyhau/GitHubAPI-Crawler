@@ -1,0 +1,13 @@
+https://api.github.com/repos/aMytho/brave-frontier-godot
+https://api.github.com/repos/icebaker/nano-bots-spec
+https://api.github.com/repos/Devographics/surveys
+https://api.github.com/repos/paulpierre/RasaGPT
+https://api.github.com/repos/icebaker/ruby-nano-bots
+https://api.github.com/repos/puppetlabs/puppetlabs-stdlib
+https://api.github.com/repos/ceranco/mistral
+https://api.github.com/repos/zjunlp/EasyEdit
+https://api.github.com/repos/canonical/cloud-init
+https://api.github.com/repos/huggingface/transformers
+https://api.github.com/repos/stanford-crfm/levanter
+https://api.github.com/repos/GDjkhp/level-up-loser-python-branch
+https://api.github.com/repos/RVC-Project/Retrieval-based-Voice-Conversion-WebUI

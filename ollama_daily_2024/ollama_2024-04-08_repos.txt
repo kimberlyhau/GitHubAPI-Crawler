@@ -1,0 +1,12 @@
+https://api.github.com/repos/tonykipkemboi/ollama_pdf_rag
+https://api.github.com/repos/Isa1asN/local-rag
+https://api.github.com/repos/AIDevBytes/LLava-Image-Analyzer
+https://api.github.com/repos/byebyebruce/ollama-chatbot
+https://api.github.com/repos/wangn25/ollama-local
+https://api.github.com/repos/DayByDayBy/tell_me_why
+https://api.github.com/repos/bowen31337/ollama-server-auth
+https://api.github.com/repos/crs/ollama-rag-de
+https://api.github.com/repos/SushieA1/LLM-js
+https://api.github.com/repos/coding-net-cloud-studio/z22_c6_d27_e22_labs_cs_linux_command_base
+https://api.github.com/repos/Ryuzaki1415/DocQuest
+https://api.github.com/repos/Utsav0702/ZenBot-Elevating-conversations

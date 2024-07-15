@@ -1,0 +1,17 @@
+https://api.github.com/repos/Anonimus8987/lamda47
+https://api.github.com/repos/Dianaalejandra1446/lamdasYstreams
+https://api.github.com/repos/HariharanThavaa/LIL-Functional-Java
+https://api.github.com/repos/Anonimus8987/lamda_-_-
+https://api.github.com/repos/Kanishkarweb/Lamda-Prime
+https://api.github.com/repos/yashisokar/lamdatest
+https://api.github.com/repos/yashisokar/lamdatestt
+https://api.github.com/repos/DEVILprozack/Lamda-Backend
+https://api.github.com/repos/hoangtuan438/lamda-deploy
+https://api.github.com/repos/Badreeddinetanger/Marouane-lamdaini
+https://api.github.com/repos/YaqoobIlyas/Cloud_Api_AWS_lamda
+https://api.github.com/repos/kp820/aws_lamda_code
+https://api.github.com/repos/emalisuranga/amplify-lamda-learning
+https://api.github.com/repos/Scott123180/jest-template-lamda
+https://api.github.com/repos/Danish1790/AwsLamda-RdsOracleNodeJS
+https://api.github.com/repos/akrima/CsvS3AwsLamdaDynamoDb
+https://api.github.com/repos/eduardopaulino123/Google-Bard

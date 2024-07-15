@@ -1,0 +1,9 @@
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/casper-hansen/AutoAWQ
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/dair-ai/Prompt-Engineering-Guide
+https://api.github.com/repos/iwiwi/epochraft-hf-fsdp
+https://api.github.com/repos/huggingface/peft
+https://api.github.com/repos/Yukeaaa/arxiv-daily
+https://api.github.com/repos/vllm-project/vllm
+https://api.github.com/repos/tomaarsen/attention_sinks

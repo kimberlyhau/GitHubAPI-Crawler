@@ -1,0 +1,14 @@
+https://api.github.com/repos/devoxx/DevoxxGenieIDEAPlugin
+https://api.github.com/repos/PrabhuKiran8790/ollama-playground
+https://api.github.com/repos/reid41/shell-pilot
+https://api.github.com/repos/samclement/ollama-ai
+https://api.github.com/repos/JT2M0L3Y/twilio-ollama
+https://api.github.com/repos/lucasdiegorr/ollama-devops
+https://api.github.com/repos/CARROTThomas/vue_ia_ollama
+https://api.github.com/repos/AddChew/ollama-openai-instructor
+https://api.github.com/repos/ccb-hms/ollama-rag-workshop
+https://api.github.com/repos/AbBasit-Pro/static-chatbot-Ollama-locally
+https://api.github.com/repos/johnsonhk88/ollama-llm-setup-linux
+https://api.github.com/repos/prss-io/prssai
+https://api.github.com/repos/ADITYAMAHAKALI/twiiter_thread_creator
+https://api.github.com/repos/premanand8800/Chat_with_website

@@ -1,0 +1,8 @@
+https://api.github.com/repos/google/generative-ai-docs
+https://api.github.com/repos/yangjianxin1/Firefly
+https://api.github.com/repos/luo-anthony/DeveloperGPT
+https://api.github.com/repos/gemmalabs/gemmalabs.github.io
+https://api.github.com/repos/shanikweb/shanikgarden
+https://api.github.com/repos/D-gallinson/Devil-DFTD-FOI-Coevolution
+https://api.github.com/repos/YuanmingZhang65/mrMLM
+https://api.github.com/repos/pamseale/cfg-group-project

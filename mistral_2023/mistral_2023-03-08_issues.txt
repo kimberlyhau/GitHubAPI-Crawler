@@ -1,0 +1,7 @@
+https://api.github.com/repos/phiberoptick/n8n
+https://api.github.com/repos/jackalchenxu/jackalchenxu
+https://api.github.com/repos/woctezuma/sample-steam-reviews
+https://api.github.com/repos/openai/openai-python
+https://api.github.com/repos/oobabooga/text-generation-webui
+https://api.github.com/repos/home-assistant/core
+https://api.github.com/repos/secondlife/jira-archive

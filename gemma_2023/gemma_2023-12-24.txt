@@ -1,0 +1,13 @@
+https://api.github.com/repos/MAK-Gemma/MAK-Gemma
+https://api.github.com/repos/libretiny-eu/libretiny
+https://api.github.com/repos/mlc-ai/mlc-llm
+https://api.github.com/repos/icl-utk-edu/slate
+https://api.github.com/repos/ersilia-os/ersilia
+https://api.github.com/repos/genetics-statistics/GEMMA
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/gwbuhl/gemmahat
+https://api.github.com/repos/brave/source-suggestions
+https://api.github.com/repos/vllm-project/vllm
+https://api.github.com/repos/Hansimov/hf-llm-api
+https://api.github.com/repos/robertgarrigos/entrades_twitter
+https://api.github.com/repos/inferflow/inferflow

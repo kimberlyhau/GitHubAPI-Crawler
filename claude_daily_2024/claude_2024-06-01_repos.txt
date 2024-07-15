@@ -1,0 +1,7 @@
+https://api.github.com/repos/mymsa123/Claude
+https://api.github.com/repos/canyavuzdb/ClaudeTDDLibraryApp
+https://api.github.com/repos/ziyanwould/AIForAl
+https://api.github.com/repos/ramikowaluru/claude-tools
+https://api.github.com/repos/Load-Ma/Jean-Claude-ext
+https://api.github.com/repos/hollymandel/astound
+https://api.github.com/repos/faizanhabib-amu/RAG-Web-App

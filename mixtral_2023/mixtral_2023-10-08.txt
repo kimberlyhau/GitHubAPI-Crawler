@@ -1,0 +1,8 @@
+https://api.github.com/repos/AkihikoWatanabe/paper_notes
+https://api.github.com/repos/turboderp/exllamav2
+https://api.github.com/repos/vegu-ai/talemate
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/zed-industries/zed
+https://api.github.com/repos/vllm-project/vllm
+https://api.github.com/repos/hiyouga/LLaMA-Factory
+https://api.github.com/repos/J4NN0/llm-rag

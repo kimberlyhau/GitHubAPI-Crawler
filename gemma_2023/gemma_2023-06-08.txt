@@ -1,0 +1,17 @@
+https://api.github.com/repos/RobertGemmaJr/gemma-wedding-2022
+https://api.github.com/repos/TheRakeshPurohit/Prompt-Engineering-Guide
+https://api.github.com/repos/SocialGouv/cdtn-monolog
+https://api.github.com/repos/freebayes/freebayes
+https://api.github.com/repos/open-zaak/open-zaak
+https://api.github.com/repos/voichek/kmersGWAS
+https://api.github.com/repos/easybuilders/easybuild-easyconfigs
+https://api.github.com/repos/arduino/arduino-cli
+https://api.github.com/repos/belalyasin/GemManagementProject
+https://api.github.com/repos/dsi-icl/do-voice-interaction
+https://api.github.com/repos/imdanaka/GemmarketYip.github.io
+https://api.github.com/repos/xorbitsai/inference
+https://api.github.com/repos/gememma/wirebrush
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/frankvogt/vcf2gwas
+https://api.github.com/repos/codelibry/la-gemma
+https://api.github.com/repos/vs4vijay/AI-Playground

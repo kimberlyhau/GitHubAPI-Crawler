@@ -1,0 +1,4 @@
+https://api.github.com/repos/MicrobialGenomics-IrsicaixaOrg/mistralDP
+https://api.github.com/repos/igorklyopov/mistral
+https://api.github.com/repos/moni-dz/mistral
+https://api.github.com/repos/ElDokmak/LLMs-variety

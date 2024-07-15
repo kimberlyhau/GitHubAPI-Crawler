@@ -1,0 +1,7 @@
+https://api.github.com/repos/Natallia-Bahlai/anthropic-claude3-best-practices
+https://api.github.com/repos/claudemirrossi/claudemirrossi
+https://api.github.com/repos/keyom-ai/claude-api
+https://api.github.com/repos/giagara/laravel-claude-ai-tools
+https://api.github.com/repos/Stilltong/AnthropicAPI-go-wrapper
+https://api.github.com/repos/ayenisholah/telegram-ai-bot
+https://api.github.com/repos/iaewing/olympics-flags

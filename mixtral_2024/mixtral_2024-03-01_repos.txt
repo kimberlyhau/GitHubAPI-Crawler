@@ -1,0 +1,10 @@
+https://api.github.com/repos/Mylinde/FreeGPT
+https://api.github.com/repos/AkimfromParis/Mixtral_RAG
+https://api.github.com/repos/Amokh2018/Mixtral-RAG
+https://api.github.com/repos/Maykeye/hqq-memory-efficient-quantization
+https://api.github.com/repos/billpku/Fine-Tune-LLM-in-Action-Mixtral-8x7B
+https://api.github.com/repos/ElCheve/LLM_Mixtral
+https://api.github.com/repos/marcosnataqs/crewAI-mixtral-8x7b
+https://api.github.com/repos/NotoriousArnav/SimpleChatBot
+https://api.github.com/repos/Artspiderinvest12/g7_mixtral_7x8_moe_awq_agents
+https://api.github.com/repos/RMNCLDYO/mistral-ai-toolkit

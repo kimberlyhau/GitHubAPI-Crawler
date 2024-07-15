@@ -1,0 +1,7 @@
+https://api.github.com/repos/casper-hansen/AutoAWQ
+https://api.github.com/repos/oobabooga/text-generation-webui
+https://api.github.com/repos/ElDokmak/LLMs-variety
+https://api.github.com/repos/vllm-project/vllm
+https://api.github.com/repos/vivekuppal/transcribe
+https://api.github.com/repos/Dao-AILab/flash-attention
+https://api.github.com/repos/Cap-go/website

@@ -1,0 +1,392 @@
+from: 2024-01-01
+to: 2024-01-07
+Repo search
+376
+376
+Code search
+0
+0
+Issues search
+584
+584
+Total number
+820
+sum repos
+376
+sum code
+0
+sum issues
+584
+sum total
+820
+from: 2024-01-08
+to: 2024-01-15
+Repo search
+406
+406
+Code search
+0
+0
+Issues search
+464
+464
+Total number
+672
+sum repos
+782
+sum code
+0
+sum issues
+1048
+sum total
+1492
+from: 2024-01-16
+to: 2024-01-23
+Repo search
+480
+480
+Code search
+0
+0
+Issues search
+468
+468
+Total number
+759
+sum repos
+1262
+sum code
+0
+sum issues
+1516
+sum total
+2251
+from: 2024-01-24
+to: 2024-01-31
+Repo search
+415
+415
+Code search
+0
+0
+Issues search
+541
+541
+Total number
+716
+sum repos
+1677
+sum code
+0
+sum issues
+2057
+sum total
+2967
+from: 2024-02-01
+to: 2024-02-07
+Repo search
+360
+360
+Code search
+0
+0
+Issues search
+509
+509
+Total number
+660
+sum repos
+2037
+sum code
+0
+sum issues
+2566
+sum total
+3627
+from: 2024-02-08
+to: 2024-02-15
+Repo search
+384
+384
+Code search
+0
+0
+Issues search
+592
+592
+Total number
+749
+sum repos
+2421
+sum code
+0
+sum issues
+3158
+sum total
+4376
+from: 2024-02-16
+to: 2024-02-23
+Repo search
+539
+539
+Code search
+0
+0
+Issues search
+836
+836
+Total number
+1050
+sum repos
+2960
+sum code
+0
+sum issues
+3994
+sum total
+5426
+from: 2024-02-24
+to: 2024-02-29
+Repo search
+428
+428
+Code search
+0
+0
+Issues search
+643
+643
+Total number
+823
+sum repos
+3388
+sum code
+0
+sum issues
+4637
+sum total
+6249
+from: 2024-03-01
+to: 2024-03-07
+Repo search
+452
+452
+Code search
+0
+0
+Issues search
+653
+653
+Total number
+903
+7152
+from: 2024-03-08
+to: 2024-03-15
+Repo search
+504
+504
+Code search
+0
+0
+Issues search
+667
+667
+Total number
+912
+8064
+from: 2024-03-16
+to: 2024-03-23
+Repo search
+530
+530
+Code search
+0
+0
+Issues search
+723
+723
+Total number
+946
+9010
+from: 2024-03-24
+to: 2024-03-31
+Repo search
+529
+529
+Code search
+0
+0
+Issues search
+772
+772
+Total number
+955
+9965
+from: 2024-04-01
+to: 2024-04-07
+Repo search
+470
+470
+Code search
+0
+0
+Issues search
+683
+679
+Total number
+875
+10840
+from: 2024-04-08
+to: 2024-04-15
+Repo search
+526
+526
+Code search
+0
+0
+Issues search
+1005
+1003
+Total number
+1105
+11945
+from: 2024-04-16
+to: 2024-04-23
+Repo search
+671
+671
+Code search
+0
+0
+Issues search
+951
+951
+Total number
+1220
+13165
+from: 2024-04-24
+to: 2024-04-30
+Repo search
+589
+589
+Code search
+0
+0
+Issues search
+674
+674
+Total number
+953
+14118
+from: 2024-05-01
+to: 2024-05-07
+Repo search
+565
+565
+Code search
+0
+0
+Issues search
+852
+852
+Total number
+1165
+15283
+from: 2024-05-08
+to: 2024-05-15
+Repo search
+1429
+1020
+Code search
+0
+0
+Issues search
+886
+886
+Total number
+1570
+16853
+from: 2024-05-16
+to: 2024-05-23
+Repo search
+745
+745
+Code search
+0
+0
+Issues search
+1159
+1019
+Total number
+1409
+18262
+from: 2024-05-24
+to: 2024-05-31
+Repo search
+729
+729
+Code search
+0
+0
+Issues search
+1008
+1008
+Total number
+1284
+19546
+from: 2024-06-01
+to: 2024-06-07
+Repo search
+590
+590
+Code search
+0
+0
+Issues search
+788
+788
+Total number
+1092
+20638
+from: 2024-06-08
+to: 2024-06-15
+Repo search
+664
+664
+Code search
+0
+0
+Issues search
+796
+794
+Total number
+1094
+21732
+from: 2024-06-16
+to: 2024-06-23
+Repo search
+703
+703
+Code search
+0
+0
+Issues search
+878
+878
+Total number
+1194
+22926
+from: 2024-06-24
+to: 2024-06-30
+Repo search
+689
+689
+Code search
+0
+0
+Issues search
+820
+820
+Total number
+1224
+24150

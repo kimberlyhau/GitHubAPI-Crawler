@@ -1,0 +1,11 @@
+https://api.github.com/repos/inferless/Vicuna-13b-8k
+https://api.github.com/repos/ujjawalPeak01/Vicuna13b
+https://api.github.com/repos/120703087/vicuna
+https://api.github.com/repos/McMimmo/vicuna
+https://api.github.com/repos/SamirXR/Vicuna-13b-GPTQ-4bit-128g
+https://api.github.com/repos/kunjankanani/Vicuna_Installation
+https://api.github.com/repos/guybarnahum/vicuna-docker
+https://api.github.com/repos/RunxinXu/vicuna-generation
+https://api.github.com/repos/karman103/vicuna_model-LLM-
+https://api.github.com/repos/JieZuos/arjie-vicuna-portfolio
+https://api.github.com/repos/NathanNorman/Gradio-WizardVicuna

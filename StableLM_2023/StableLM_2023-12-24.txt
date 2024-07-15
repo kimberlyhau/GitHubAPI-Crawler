@@ -1,0 +1,4 @@
+https://api.github.com/repos/microsoft/DeepSpeed
+https://api.github.com/repos/openvinotoolkit/nncf
+https://api.github.com/repos/mybigday/llama.rn
+https://api.github.com/repos/run-llama/llama_index

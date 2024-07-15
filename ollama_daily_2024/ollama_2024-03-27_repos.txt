@@ -1,0 +1,15 @@
+https://api.github.com/repos/shayanfarzi/ollama-rag
+https://api.github.com/repos/zeozeozeo/ellama
+https://api.github.com/repos/yuriwa/crewai-sheets-ui
+https://api.github.com/repos/Chalum0/OllamaWebUI
+https://api.github.com/repos/kennethwork101/ollama-downloads
+https://api.github.com/repos/sdbenezra/dockerized-ollama-mistral
+https://api.github.com/repos/R-Dson/Ollama-text-correction
+https://api.github.com/repos/beau-malroney/shining-spark
+https://api.github.com/repos/skaramicke/ollama-deep-thinking
+https://api.github.com/repos/lihan0705/llm-local
+https://api.github.com/repos/DCoderAI/lingua-link-ai
+https://api.github.com/repos/arapellis-odysseas/localRag
+https://api.github.com/repos/cobbyrecks/Multi-Language-Model-Interaction
+https://api.github.com/repos/terrychitter/arnette-ai
+https://api.github.com/repos/arapellis-odysseas/CrewAI-simple

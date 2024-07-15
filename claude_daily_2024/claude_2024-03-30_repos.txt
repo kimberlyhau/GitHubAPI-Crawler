@@ -1,0 +1,8 @@
+https://api.github.com/repos/tosuri13/lady-claude
+https://api.github.com/repos/kojix2/claude-cli
+https://api.github.com/repos/whitecat-22/streamlit_claude_chat
+https://api.github.com/repos/mucool123/ChatwithPDF
+https://api.github.com/repos/szguoxz/newoaksai-chatbubble
+https://api.github.com/repos/EwannAnacombesque/WFCAhun
+https://api.github.com/repos/ktseo41/hn-webdev-news
+https://api.github.com/repos/Aakashsedha/RESUME_PARSER

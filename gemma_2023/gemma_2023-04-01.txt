@@ -1,0 +1,16 @@
+https://api.github.com/repos/luo-anthony/DeveloperGPT
+https://api.github.com/repos/lxe/simple-llm-finetuner
+https://api.github.com/repos/fotisolgr/tote
+https://api.github.com/repos/genetics-statistics/GEMMA
+https://api.github.com/repos/yangjianxin1/Firefly
+https://api.github.com/repos/PavlidisLab/Gemma
+https://api.github.com/repos/D-gallinson/Devil-DFTD-FOI-Coevolution
+https://api.github.com/repos/cockroachdb/docs
+https://api.github.com/repos/google/generative-ai-docs
+https://api.github.com/repos/costero-e/beacon2-ri-api
+https://api.github.com/repos/trilinos/Trilinos
+https://api.github.com/repos/gemmalabs/gemmalabs.github.io
+https://api.github.com/repos/shanikweb/shanikgarden
+https://api.github.com/repos/pamseale/cfg-group-project
+https://api.github.com/repos/VNG-Realisatie/gemma-zaken
+https://api.github.com/repos/YuanmingZhang65/mrMLM

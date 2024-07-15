@@ -1,0 +1,12 @@
+https://api.github.com/repos/leliuga/cohere-configurations
+https://api.github.com/repos/UCLOrengoGroup/eMMA
+https://api.github.com/repos/PavlidisLab/ermineR
+https://api.github.com/repos/GemmaGarrigosa/M07_UF2
+https://api.github.com/repos/icl-utk-edu/slate
+https://api.github.com/repos/Gemma0322/Gemma0322
+https://api.github.com/repos/ersilia-os/ersilia
+https://api.github.com/repos/mikf/gallery-dl
+https://api.github.com/repos/gemmang1/gemmawebsite
+https://api.github.com/repos/TomographicImaging/CIL
+https://api.github.com/repos/tinygo-org/tinygo
+https://api.github.com/repos/open-zaak/open-zaak

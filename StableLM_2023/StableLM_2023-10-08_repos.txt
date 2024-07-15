@@ -1,0 +1,1 @@
+https://api.github.com/repos/takano32/Japanese-StableLM-Base-Alpha-7B-Example

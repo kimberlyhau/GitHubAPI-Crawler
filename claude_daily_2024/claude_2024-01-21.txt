@@ -1,0 +1,15 @@
+https://api.github.com/repos/expectedparrot/edsl
+https://api.github.com/repos/morevnaproject-org/papagayo-ng
+https://api.github.com/repos/claudenir021/claudenir021
+https://api.github.com/repos/christopherpickering/flask-session2
+https://api.github.com/repos/dejanvasic85/ses-next
+https://api.github.com/repos/AAlvAAro/ruby-amazon-bedrock
+https://api.github.com/repos/hmcts/civil-general-applications
+https://api.github.com/repos/Amm1rr/WebAI-to-API
+https://api.github.com/repos/shreyshah6699/MRC-Showdown-Pre-trained-vs.-Large-Language-Models-on-SQuAD-RoBERTa-ChatGPT-Claude-2-
+https://api.github.com/repos/reactjs/react.dev
+https://api.github.com/repos/Databingo/aih
+https://api.github.com/repos/JCthedevelop3r/Portfolio_Jean-Claude_Minot
+https://api.github.com/repos/langchain-ai/langchain
+https://api.github.com/repos/osmlab/name-suggestion-index
+https://api.github.com/repos/kimkihoon0515/mlops_crawling

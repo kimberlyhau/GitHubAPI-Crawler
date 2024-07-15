@@ -1,0 +1,11 @@
+https://api.github.com/repos/Scott-Babbs/ClaudeCLI
+https://api.github.com/repos/connorswartz/Claude3-Upgrade
+https://api.github.com/repos/quimby10/claudette
+https://api.github.com/repos/imkharn/Discord-Claude
+https://api.github.com/repos/AshkanBaradaran/PDF2Claude
+https://api.github.com/repos/BozHris/Chat-Bot-Arena
+https://api.github.com/repos/siyuChen540/AdvanceCopilot
+https://api.github.com/repos/dickdavis/anthropic-rb-cookbook
+https://api.github.com/repos/deridev/hex
+https://api.github.com/repos/princemardoch/ai-pdf-creator-website
+https://api.github.com/repos/samestrin/llm-prepare

@@ -1,0 +1,4 @@
+https://api.github.com/repos/AtomGradient/MixtralMoeWithLLama
+https://api.github.com/repos/nielsrolf/mixtral-function-calling
+https://api.github.com/repos/ItsTino/anyscale-mixtral-chat
+https://api.github.com/repos/stephenc222/example-mixtral-8x7B-vector-search-tool

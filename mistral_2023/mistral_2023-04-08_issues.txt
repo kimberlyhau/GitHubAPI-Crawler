@@ -1,0 +1,7 @@
+https://api.github.com/repos/ZeroK-RTS/CrashReports
+https://api.github.com/repos/langchain-ai/langchain
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/ZeroK-RTS/CrashReports
+https://api.github.com/repos/ZeroK-RTS/CrashReports
+https://api.github.com/repos/ZeroK-RTS/CrashReports
+https://api.github.com/repos/taw/magic-search-engine

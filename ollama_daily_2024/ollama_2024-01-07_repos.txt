@@ -1,0 +1,8 @@
+https://api.github.com/repos/jeremychone-channel/rust-xp-ollama
+https://api.github.com/repos/deployradiant/pajama
+https://api.github.com/repos/MikeyBeez/LocalChat
+https://api.github.com/repos/ContainerTalks/llms
+https://api.github.com/repos/dshvadskiy/ollama-test
+https://api.github.com/repos/ezechukwu69/ollama-backend
+https://api.github.com/repos/Danny-Dasilva/ollama-webui-nextjs
+https://api.github.com/repos/icebaker/obsidian-nano-bots

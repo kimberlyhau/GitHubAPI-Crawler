@@ -1,0 +1,10 @@
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/mlc-ai/mlc-llm
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/oobabooga/text-generation-webui
+https://api.github.com/repos/abetlen/llama-cpp-python
+https://api.github.com/repos/euclaise/SlimTrainer
+https://api.github.com/repos/GaiZhenbiao/ChuanhuChatGPT
+https://api.github.com/repos/Unstructured-IO/unstructured-inference
+https://api.github.com/repos/axolotl-ai-cloud/axolotl
+https://api.github.com/repos/mentordotgit/chathub

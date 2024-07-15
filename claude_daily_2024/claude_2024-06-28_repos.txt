@@ -1,0 +1,16 @@
+https://api.github.com/repos/PierrunoYT/claude-3-artifacts
+https://api.github.com/repos/phidatahq/claude-os
+https://api.github.com/repos/AI-MickyJ/Mixture-of-Agents
+https://api.github.com/repos/Melih-cell/ClaudeProjectTodoApp
+https://api.github.com/repos/claudeniocordeiro/claudeniocordeiro
+https://api.github.com/repos/alanjones2/claudeapps
+https://api.github.com/repos/YujiTani/questory-claude
+https://api.github.com/repos/prynsh/Claude_Assignment
+https://api.github.com/repos/ProfSynapse/SynthGen_Claude
+https://api.github.com/repos/MagaliDrumare/Claude-Sonnet-Anthropic-
+https://api.github.com/repos/Daniel-J-Glass/LLM-World
+https://api.github.com/repos/Takami-Marsh/DP_GEO_SL_JAPANESE_NOTES
+https://api.github.com/repos/liuwenhui380/retina_wave_analsysis
+https://api.github.com/repos/thaichi/generate_project_summary
+https://api.github.com/repos/logkirk/terminal-gpt
+https://api.github.com/repos/Sunseeler/Financial-Spending-Pattern-Tracker-using-Neural-Networks

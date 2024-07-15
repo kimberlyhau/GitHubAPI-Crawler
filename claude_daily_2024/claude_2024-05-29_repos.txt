@@ -1,0 +1,4 @@
+https://api.github.com/repos/Mossy1022/Smart-Connections-Visualizer
+https://api.github.com/repos/araeLaver/claude_tab
+https://api.github.com/repos/Sysreq/claude-cpp-api
+https://api.github.com/repos/LeoCunha13/Bootcamp-Nexa-IA-Generativa-e-AWS-Claude-3

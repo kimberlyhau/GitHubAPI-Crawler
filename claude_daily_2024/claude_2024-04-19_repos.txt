@@ -1,0 +1,3 @@
+https://api.github.com/repos/linkedlist771/RevClaudeAPI
+https://api.github.com/repos/vfa-cancc/EnglishScoringClaudev3
+https://api.github.com/repos/TantanLight/variables-to-styles

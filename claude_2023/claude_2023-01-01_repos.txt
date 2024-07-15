@@ -1,0 +1,9 @@
+https://api.github.com/repos/griptape-ai/griptape
+https://api.github.com/repos/abilzerian/LLM-Prompt-Library
+https://api.github.com/repos/taranjeet/awesome-claude
+https://api.github.com/repos/Imclaudi4aaa/Claudette-Barro
+https://api.github.com/repos/claudevdhrock/claudevdhrock.github.io
+https://api.github.com/repos/ClaudeLVU18/App2_ChristianClaudeUtlang
+https://api.github.com/repos/ko-ogundowole/vr_museum_exhibit
+https://api.github.com/repos/chima-okwara/pincontrol_stm32
+https://api.github.com/repos/Eric093/Comprendre_le_Deep_Learning

@@ -1,0 +1,7 @@
+https://api.github.com/repos/aws-samples/bedrock-claude-chatbot
+https://api.github.com/repos/IITRAJASTHAN/data-claudeo-teneo-catalina
+https://api.github.com/repos/FCKNGUNNER/BukayoSakaClaudeLlamaVideoImport
+https://api.github.com/repos/yym68686/ModelMerge
+https://api.github.com/repos/sschepis/ai-assistant
+https://api.github.com/repos/luisferreira2610/GeminiAI
+https://api.github.com/repos/MUSIC-V/littleboy

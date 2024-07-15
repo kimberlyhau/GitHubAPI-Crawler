@@ -1,0 +1,7 @@
+https://api.github.com/repos/promptslab/PromptifyJs
+https://api.github.com/repos/devsentient/cdn
+https://api.github.com/repos/sigoden/aichat
+https://api.github.com/repos/langchain-ai/langchain
+https://api.github.com/repos/Bin-Huang/chatbox
+https://api.github.com/repos/GaiZhenbiao/ChuanhuChatGPT
+https://api.github.com/repos/zhayujie/chatgpt-on-wechat

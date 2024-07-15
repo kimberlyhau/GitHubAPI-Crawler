@@ -1,0 +1,4 @@
+https://api.github.com/repos/mattppal/Chat-with-Claude-Sonnet-35
+https://api.github.com/repos/klapro/claude-snake
+https://api.github.com/repos/ItsClaudeee4/ItsClaudeee4
+https://api.github.com/repos/Sly314/DeepSeek-Coder-V2

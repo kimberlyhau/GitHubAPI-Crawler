@@ -1,0 +1,10 @@
+https://api.github.com/repos/marella/ctransformers
+https://api.github.com/repos/Lightning-AI/litgpt
+https://api.github.com/repos/keldenl/gpt-llama.cpp
+https://api.github.com/repos/LostRuins/koboldcpp
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/TransformerOptimus/SuperAGI
+https://api.github.com/repos/vllm-project/vllm
+https://api.github.com/repos/tenstorrent/tt-metal
+https://api.github.com/repos/yuiseki/EQUALIZER
+https://api.github.com/repos/deepset-ai/haystack

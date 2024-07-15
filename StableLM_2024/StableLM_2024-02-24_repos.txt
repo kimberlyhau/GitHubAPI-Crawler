@@ -1,0 +1,2 @@
+https://api.github.com/repos/Rostaing/LLM_stablelm2_App
+https://api.github.com/repos/kazssym/stablelm-study-2

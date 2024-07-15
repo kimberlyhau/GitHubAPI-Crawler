@@ -1,0 +1,3 @@
+https://api.github.com/repos/tcapelle/mixtral
+https://api.github.com/repos/JakobJohannesson/mixtral_dolphin_v2.5
+https://api.github.com/repos/kolergy/Mixtral_on_24Gb_VRAM

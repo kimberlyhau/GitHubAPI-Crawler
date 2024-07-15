@@ -1,0 +1,2 @@
+https://api.github.com/repos/code4fukui/anthropic-claude3
+https://api.github.com/repos/sergey-ryzhikov/wordcloud

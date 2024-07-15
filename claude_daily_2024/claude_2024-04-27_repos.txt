@@ -1,0 +1,4 @@
+https://api.github.com/repos/KathyakiyorajeanClaude/KathyakiyorajeanClaude
+https://api.github.com/repos/Shine1i/claude-proxy-small
+https://api.github.com/repos/MariahFerns/MoodAnalyzer-Recommender-AnthropicClaude
+https://api.github.com/repos/jstoppa/voice_to_pdf

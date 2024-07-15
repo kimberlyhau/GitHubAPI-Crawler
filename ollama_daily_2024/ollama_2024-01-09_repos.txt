@@ -1,0 +1,5 @@
+https://api.github.com/repos/premthomas/Ollama-and-Agents
+https://api.github.com/repos/developersdigest/Siri-of-Everything
+https://api.github.com/repos/Alfalmi/ollama-webui
+https://api.github.com/repos/mystorages/ollama-test
+https://api.github.com/repos/hjlarrea/ai-langchain-playground

@@ -1,0 +1,10 @@
+https://api.github.com/repos/Mintplex-Labs/anything-llm
+https://api.github.com/repos/ggerganov/llama.cpp
+https://api.github.com/repos/srush/MiniChain
+https://api.github.com/repos/dcSpark/shinkai-node
+https://api.github.com/repos/InseeFr/Platine-Management-Back-Office
+https://api.github.com/repos/ParisNeo/lollms-webui
+https://api.github.com/repos/ollama/ollama
+https://api.github.com/repos/sedwards2009/llm-multitool
+https://api.github.com/repos/llm-tools/embedJs
+https://api.github.com/repos/Faris-abukhader/faris-social

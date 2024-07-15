@@ -1,0 +1,3 @@
+https://api.github.com/repos/Ekanshjain55/vicuna_ppo
+https://api.github.com/repos/rhtap-rhdh-qe/vicuna-python
+https://api.github.com/repos/rhtap-rhdh-qe/vicuna-python-gitops

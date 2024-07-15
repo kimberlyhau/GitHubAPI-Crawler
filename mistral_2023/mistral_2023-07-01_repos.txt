@@ -1,0 +1,2 @@
+https://api.github.com/repos/nitniycode/Mistral
+https://api.github.com/repos/deek26/mistral

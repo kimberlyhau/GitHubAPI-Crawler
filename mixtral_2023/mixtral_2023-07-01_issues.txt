@@ -1,0 +1,3 @@
+https://api.github.com/repos/modal-labs/modal-examples
+https://api.github.com/repos/bjorncs/vespa
+https://api.github.com/repos/yuiseki/LUNATIC

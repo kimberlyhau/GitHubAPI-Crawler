@@ -1,0 +1,5 @@
+https://api.github.com/repos/L-Chalmers/Claude3Flows
+https://api.github.com/repos/favner/basic-bedrock-claude
+https://api.github.com/repos/josephine-law/AWS-Claude-Demo
+https://api.github.com/repos/josephine-law/aws-samples-bedrock-claude-chat
+https://api.github.com/repos/wiii1996/telegram-claude-test-jc1

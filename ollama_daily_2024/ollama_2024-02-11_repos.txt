@@ -1,0 +1,11 @@
+https://api.github.com/repos/hacktronaut/ollama-rag-demo
+https://api.github.com/repos/bots-garden/pi-genai-stack
+https://api.github.com/repos/jgarland79/ollama-vision
+https://api.github.com/repos/rolfhelder/ollama-docker-compose
+https://api.github.com/repos/Start9Labs/freegpt2-startos
+https://api.github.com/repos/brianprost/ollama-openai
+https://api.github.com/repos/ccallazans/ai-video-generator
+https://api.github.com/repos/monahkhalil/ollama-nlp-service
+https://api.github.com/repos/averath/ollama-intellij-plugin
+https://api.github.com/repos/brammont/pdfanalizer
+https://api.github.com/repos/dwisiswant0/prepare-commit-msg-ai
