@@ -1,0 +1,252 @@
+from: 2024-01-01
+to: 2024-01-15
+Repo search
+14
+14
+Code search
+0
+0
+Issues search
+352
+352
+Total number
+143
+sum repos
+14
+sum code
+0
+sum issues
+352
+sum total
+143
+from: 2024-01-16
+to: 2024-01-31
+Repo search
+23
+23
+Code search
+0
+0
+Issues search
+582
+578
+Total number
+221
+sum repos
+37
+sum code
+0
+sum issues
+934
+sum total
+364
+from: 2024-02-01
+to: 2024-02-15
+Repo search
+23
+23
+Code search
+0
+0
+Issues search
+367
+365
+Total number
+185
+sum repos
+60
+sum code
+0
+sum issues
+1301
+sum total
+549
+from: 2024-02-16
+to: 2024-02-29
+Repo search
+15
+15
+Code search
+0
+0
+Issues search
+530
+530
+Total number
+191
+sum repos
+75
+sum code
+0
+sum issues
+1831
+sum total
+740
+from: 2024-03-01
+to: 2024-03-15
+Repo search
+19
+19
+Code search
+0
+0
+Issues search
+541
+541
+Total number
+206
+sum repos
+94
+sum code
+0
+sum issues
+2372
+sum total
+946
+from: 2024-03-16
+to: 2024-03-31
+Repo search
+25
+25
+Code search
+0
+0
+Issues search
+522
+522
+Total number
+195
+sum repos
+119
+sum code
+0
+sum issues
+2894
+sum total
+1141
+from: 2024-04-01
+to: 2024-04-15
+Repo search
+33
+33
+Code search
+0
+0
+Issues search
+503
+503
+Total number
+228
+sum repos
+152
+sum code
+0
+sum issues
+3397
+sum total
+1369
+from: 2024-04-16
+to: 2024-04-30
+Repo search
+27
+27
+Code search
+0
+0
+Issues search
+556
+556
+Total number
+241
+sum repos
+179
+sum code
+0
+sum issues
+3953
+sum total
+1610
+from: 2024-05-01
+to: 2024-05-15
+Repo search
+27
+27
+Code search
+0
+0
+Issues search
+419
+419
+Total number
+211
+sum repos
+206
+sum code
+0
+sum issues
+4372
+sum total
+1821
+from: 2024-05-16
+to: 2024-05-31
+Repo search
+35
+35
+Code search
+0
+0
+Issues search
+456
+456
+Total number
+230
+sum repos
+241
+sum code
+0
+sum issues
+4828
+sum total
+2051
+from: 2024-06-01
+to: 2024-06-15
+Repo search
+36
+36
+Code search
+0
+0
+Issues search
+552
+552
+Total number
+290
+sum repos
+277
+sum code
+0
+sum issues
+5380
+sum total
+2341
+from: 2024-06-16
+to: 2024-06-30
+Repo search
+34
+34
+Code search
+0
+0
+Issues search
+442
+442
+Total number
+225
+sum repos
+311
+sum code
+0
+sum issues
+5822
+sum total
+2566

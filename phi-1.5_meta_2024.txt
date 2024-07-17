@@ -1,0 +1,252 @@
+from: 2024-01-01
+to: 2024-01-15
+Repo search
+3
+3
+Code search
+0
+0
+Issues search
+34
+34
+Total number
+28
+sum repos
+3
+sum code
+0
+sum issues
+34
+sum total
+28
+from: 2024-01-16
+to: 2024-01-31
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+27
+27
+Total number
+22
+sum repos
+3
+sum code
+0
+sum issues
+61
+sum total
+50
+from: 2024-02-01
+to: 2024-02-15
+Repo search
+2
+2
+Code search
+0
+0
+Issues search
+29
+29
+Total number
+25
+sum repos
+5
+sum code
+0
+sum issues
+90
+sum total
+75
+from: 2024-02-16
+to: 2024-02-29
+Repo search
+1
+1
+Code search
+0
+0
+Issues search
+29
+29
+Total number
+27
+sum repos
+6
+sum code
+0
+sum issues
+119
+sum total
+102
+from: 2024-03-01
+to: 2024-03-15
+Repo search
+3
+3
+Code search
+0
+0
+Issues search
+29
+29
+Total number
+24
+sum repos
+9
+sum code
+0
+sum issues
+148
+sum total
+126
+from: 2024-03-16
+to: 2024-03-31
+Repo search
+3
+3
+Code search
+0
+0
+Issues search
+19
+19
+Total number
+19
+sum repos
+12
+sum code
+0
+sum issues
+167
+sum total
+145
+from: 2024-04-01
+to: 2024-04-15
+Repo search
+1
+1
+Code search
+0
+0
+Issues search
+16
+16
+Total number
+16
+sum repos
+13
+sum code
+0
+sum issues
+183
+sum total
+161
+from: 2024-04-16
+to: 2024-04-30
+Repo search
+4
+4
+Code search
+0
+0
+Issues search
+29
+29
+Total number
+32
+sum repos
+17
+sum code
+0
+sum issues
+212
+sum total
+193
+from: 2024-05-01
+to: 2024-05-15
+Repo search
+5
+5
+Code search
+0
+0
+Issues search
+24
+24
+Total number
+25
+sum repos
+22
+sum code
+0
+sum issues
+236
+sum total
+218
+from: 2024-05-16
+to: 2024-05-31
+Repo search
+4
+4
+Code search
+0
+0
+Issues search
+26
+26
+Total number
+28
+sum repos
+26
+sum code
+0
+sum issues
+262
+sum total
+246
+from: 2024-06-01
+to: 2024-06-15
+Repo search
+5
+5
+Code search
+0
+0
+Issues search
+24
+24
+Total number
+27
+sum repos
+31
+sum code
+0
+sum issues
+286
+sum total
+273
+from: 2024-06-16
+to: 2024-06-30
+Repo search
+1
+1
+Code search
+0
+0
+Issues search
+23
+23
+Total number
+22
+sum repos
+32
+sum code
+0
+sum issues
+309
+sum total
+295

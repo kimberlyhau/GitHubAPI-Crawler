@@ -1,0 +1,3 @@
+https://api.github.com/repos/lucidrains/RETRO-pytorch
+https://api.github.com/repos/openai/tiktoken
+https://api.github.com/repos/huggingface/api-inference-community

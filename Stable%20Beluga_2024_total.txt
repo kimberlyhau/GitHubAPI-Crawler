@@ -1,0 +1,15 @@
+https://api.github.com/repos/NixOS/nixpkgs
+https://api.github.com/repos/ros-navigation/navigation2
+https://api.github.com/repos/Ekumen-OS/beluga
+https://api.github.com/repos/authelia/chartrepo
+https://api.github.com/repos/DIYgod/RSSHub
+https://api.github.com/repos/helm/helm
+https://api.github.com/repos/enricoros/big-AGI
+https://api.github.com/repos/NixOS/nixpkgs
+https://api.github.com/repos/NixOS/nixpkgs
+https://api.github.com/repos/CopywriterPro-ai/copywriterproai-frontend
+https://api.github.com/repos/NixOS/nixpkgs
+https://api.github.com/repos/beluga-php/docker-php
+https://api.github.com/repos/CopywriterPro-ai/copywriterproai-backend
+https://api.github.com/repos/NixOS/nixpkgs
+https://api.github.com/repos/DIYgod/RSSHub

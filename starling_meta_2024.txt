@@ -1,0 +1,252 @@
+from: 2024-01-01
+to: 2024-01-15
+Repo search
+5
+5
+Code search
+0
+0
+Issues search
+29
+29
+Total number
+26
+sum repos
+5
+sum code
+0
+sum issues
+29
+sum total
+26
+from: 2024-01-16
+to: 2024-01-31
+Repo search
+12
+12
+Code search
+0
+0
+Issues search
+25
+25
+Total number
+33
+sum repos
+17
+sum code
+0
+sum issues
+54
+sum total
+59
+from: 2024-02-01
+to: 2024-02-15
+Repo search
+8
+8
+Code search
+0
+0
+Issues search
+15
+15
+Total number
+22
+sum repos
+25
+sum code
+0
+sum issues
+69
+sum total
+81
+from: 2024-02-16
+to: 2024-02-29
+Repo search
+4
+4
+Code search
+0
+0
+Issues search
+20
+20
+Total number
+20
+sum repos
+29
+sum code
+0
+sum issues
+89
+sum total
+101
+from: 2024-03-01
+to: 2024-03-15
+Repo search
+9
+9
+Code search
+0
+0
+Issues search
+18
+18
+Total number
+22
+sum repos
+38
+sum code
+0
+sum issues
+107
+sum total
+123
+from: 2024-03-16
+to: 2024-03-31
+Repo search
+10
+10
+Code search
+0
+0
+Issues search
+41
+41
+Total number
+43
+sum repos
+48
+sum code
+0
+sum issues
+148
+sum total
+166
+from: 2024-04-01
+to: 2024-04-15
+Repo search
+8
+8
+Code search
+0
+0
+Issues search
+29
+29
+Total number
+30
+sum repos
+56
+sum code
+0
+sum issues
+177
+sum total
+196
+from: 2024-04-16
+to: 2024-04-30
+Repo search
+14
+14
+Code search
+0
+0
+Issues search
+30
+30
+Total number
+36
+sum repos
+70
+sum code
+0
+sum issues
+207
+sum total
+232
+from: 2024-05-01
+to: 2024-05-15
+Repo search
+8
+8
+Code search
+0
+0
+Issues search
+30
+30
+Total number
+22
+sum repos
+78
+sum code
+0
+sum issues
+237
+sum total
+254
+from: 2024-05-16
+to: 2024-05-31
+Repo search
+14
+14
+Code search
+0
+0
+Issues search
+43
+43
+Total number
+40
+sum repos
+92
+sum code
+0
+sum issues
+280
+sum total
+294
+from: 2024-06-01
+to: 2024-06-15
+Repo search
+11
+11
+Code search
+0
+0
+Issues search
+22
+22
+Total number
+32
+sum repos
+103
+sum code
+0
+sum issues
+302
+sum total
+326
+from: 2024-06-16
+to: 2024-06-30
+Repo search
+3
+3
+Code search
+0
+0
+Issues search
+18
+18
+Total number
+20
+sum repos
+106
+sum code
+0
+sum issues
+320
+sum total
+346

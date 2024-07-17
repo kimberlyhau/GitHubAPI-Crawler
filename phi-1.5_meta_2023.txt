@@ -1,0 +1,252 @@
+from: 2023-01-01
+to: 2023-01-31
+Repo search
+2
+2
+Code search
+0
+0
+Issues search
+21
+21
+Total number
+18
+sum repos
+2
+sum code
+0
+sum issues
+21
+sum total
+18
+from: 2023-02-01
+to: 2023-02-28
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+21
+21
+Total number
+19
+sum repos
+2
+sum code
+0
+sum issues
+42
+sum total
+37
+from: 2023-03-01
+to: 2023-03-31
+Repo search
+1
+1
+Code search
+0
+0
+Issues search
+29
+29
+Total number
+28
+sum repos
+3
+sum code
+0
+sum issues
+71
+sum total
+65
+from: 2023-04-01
+to: 2023-04-30
+Repo search
+1
+1
+Code search
+0
+0
+Issues search
+21
+21
+Total number
+15
+sum repos
+4
+sum code
+0
+sum issues
+92
+sum total
+80
+from: 2023-05-01
+to: 2023-05-31
+Repo search
+5
+5
+Code search
+0
+0
+Issues search
+31
+31
+Total number
+28
+sum repos
+9
+sum code
+0
+sum issues
+123
+sum total
+108
+from: 2023-06-01
+to: 2023-06-30
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+30
+30
+Total number
+24
+sum repos
+9
+sum code
+0
+sum issues
+153
+sum total
+132
+from: 2023-07-01
+to: 2023-07-31
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+25
+25
+Total number
+23
+sum repos
+9
+sum code
+0
+sum issues
+178
+sum total
+155
+from: 2023-08-01
+to: 2023-08-31
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+35
+35
+Total number
+23
+sum repos
+9
+sum code
+0
+sum issues
+213
+sum total
+178
+from: 2023-09-01
+to: 2023-09-30
+Repo search
+6
+6
+Code search
+0
+0
+Issues search
+60
+60
+Total number
+51
+sum repos
+15
+sum code
+0
+sum issues
+273
+sum total
+229
+from: 2023-10-01
+to: 2023-10-31
+Repo search
+5
+5
+Code search
+0
+0
+Issues search
+43
+43
+Total number
+40
+sum repos
+20
+sum code
+0
+sum issues
+316
+sum total
+269
+from: 2023-11-01
+to: 2023-11-30
+Repo search
+8
+8
+Code search
+0
+0
+Issues search
+41
+41
+Total number
+47
+sum repos
+28
+sum code
+0
+sum issues
+357
+sum total
+316
+from: 2023-12-01
+to: 2023-12-31
+Repo search
+17
+17
+Code search
+0
+0
+Issues search
+64
+64
+Total number
+69
+sum repos
+45
+sum code
+0
+sum issues
+421
+sum total
+385

@@ -1,0 +1,252 @@
+from: 2023-01-01
+to: 2023-01-31
+Repo search
+16
+16
+Code search
+0
+0
+Issues search
+335
+335
+Total number
+258
+sum repos
+16
+sum code
+0
+sum issues
+335
+sum total
+258
+from: 2023-02-01
+to: 2023-02-28
+Repo search
+10
+10
+Code search
+0
+0
+Issues search
+380
+380
+Total number
+262
+sum repos
+26
+sum code
+0
+sum issues
+715
+sum total
+520
+from: 2023-03-01
+to: 2023-03-31
+Repo search
+16
+16
+Code search
+0
+0
+Issues search
+488
+488
+Total number
+311
+sum repos
+42
+sum code
+0
+sum issues
+1203
+sum total
+831
+from: 2023-04-01
+to: 2023-04-30
+Repo search
+23
+23
+Code search
+0
+0
+Issues search
+398
+398
+Total number
+278
+sum repos
+65
+sum code
+0
+sum issues
+1601
+sum total
+1109
+from: 2023-05-01
+to: 2023-05-31
+Repo search
+31
+31
+Code search
+0
+0
+Issues search
+577
+577
+Total number
+427
+sum repos
+96
+sum code
+0
+sum issues
+2178
+sum total
+1536
+from: 2023-06-01
+to: 2023-06-30
+Repo search
+14
+14
+Code search
+0
+0
+Issues search
+422
+422
+Total number
+287
+sum repos
+110
+sum code
+0
+sum issues
+2600
+sum total
+1823
+from: 2023-07-01
+to: 2023-07-31
+Repo search
+22
+22
+Code search
+0
+0
+Issues search
+516
+516
+Total number
+375
+sum repos
+132
+sum code
+0
+sum issues
+3116
+sum total
+2198
+from: 2023-08-01
+to: 2023-08-31
+Repo search
+14
+14
+Code search
+0
+0
+Issues search
+464
+464
+Total number
+300
+sum repos
+146
+sum code
+0
+sum issues
+3580
+sum total
+2498
+from: 2023-09-01
+to: 2023-09-30
+Repo search
+25
+25
+Code search
+0
+0
+Issues search
+482
+482
+Total number
+308
+sum repos
+171
+sum code
+0
+sum issues
+4062
+sum total
+2806
+from: 2023-10-01
+to: 2023-10-31
+Repo search
+21
+21
+Code search
+0
+0
+Issues search
+586
+586
+Total number
+343
+sum repos
+192
+sum code
+0
+sum issues
+4648
+sum total
+3149
+from: 2023-11-01
+to: 2023-11-30
+Repo search
+31
+31
+Code search
+0
+0
+Issues search
+585
+585
+Total number
+342
+sum repos
+223
+sum code
+0
+sum issues
+5233
+sum total
+3491
+from: 2023-12-01
+to: 2023-12-31
+Repo search
+15
+15
+Code search
+0
+0
+Issues search
+761
+761
+Total number
+461
+sum repos
+238
+sum code
+0
+sum issues
+5994
+sum total
+3952

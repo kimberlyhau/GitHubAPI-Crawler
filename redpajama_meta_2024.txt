@@ -1,0 +1,252 @@
+from: 2024-01-01
+to: 2024-01-15
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+22
+22
+Total number
+11
+sum repos
+0
+sum code
+0
+sum issues
+22
+sum total
+11
+from: 2024-01-16
+to: 2024-01-31
+Repo search
+1
+1
+Code search
+0
+0
+Issues search
+25
+25
+Total number
+19
+sum repos
+1
+sum code
+0
+sum issues
+47
+sum total
+30
+from: 2024-02-01
+to: 2024-02-15
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+14
+14
+Total number
+10
+sum repos
+1
+sum code
+0
+sum issues
+61
+sum total
+40
+from: 2024-02-16
+to: 2024-02-29
+Repo search
+2
+2
+Code search
+0
+0
+Issues search
+25
+25
+Total number
+16
+sum repos
+3
+sum code
+0
+sum issues
+86
+sum total
+56
+from: 2024-03-01
+to: 2024-03-15
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+17
+17
+Total number
+11
+sum repos
+3
+sum code
+0
+sum issues
+103
+sum total
+67
+from: 2024-03-16
+to: 2024-03-31
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+19
+19
+Total number
+18
+sum repos
+3
+sum code
+0
+sum issues
+122
+sum total
+85
+from: 2024-04-01
+to: 2024-04-15
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+18
+18
+Total number
+12
+sum repos
+3
+sum code
+0
+sum issues
+140
+sum total
+97
+from: 2024-04-16
+to: 2024-04-30
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+10
+10
+Total number
+10
+sum repos
+3
+sum code
+0
+sum issues
+150
+sum total
+107
+from: 2024-05-01
+to: 2024-05-15
+Repo search
+1
+1
+Code search
+0
+0
+Issues search
+11
+11
+Total number
+10
+sum repos
+4
+sum code
+0
+sum issues
+161
+sum total
+117
+from: 2024-05-16
+to: 2024-05-31
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+11
+11
+Total number
+7
+sum repos
+4
+sum code
+0
+sum issues
+172
+sum total
+124
+from: 2024-06-01
+to: 2024-06-15
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+15
+15
+Total number
+12
+sum repos
+4
+sum code
+0
+sum issues
+187
+sum total
+136
+from: 2024-06-16
+to: 2024-06-30
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+8
+8
+Total number
+8
+sum repos
+4
+sum code
+0
+sum issues
+195
+sum total
+144

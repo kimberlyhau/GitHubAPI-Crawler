@@ -1,0 +1,252 @@
+from: 2023-01-01
+to: 2023-01-31
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+1
+1
+Total number
+1
+sum repos
+0
+sum code
+0
+sum issues
+1
+sum total
+1
+from: 2023-02-01
+to: 2023-02-28
+Repo search
+0
+0
+Code search
+0
+0
+Issues search
+1
+1
+Total number
+1
+sum repos
+0
+sum code
+0
+sum issues
+2
+sum total
+2
+from: 2023-03-01
+to: 2023-03-31
+Repo search
+1
+1
+Code search
+0
+0
+Issues search
+6
+6
+Total number
+7
+sum repos
+1
+sum code
+0
+sum issues
+8
+sum total
+9
+from: 2023-04-01
+to: 2023-04-30
+Repo search
+4
+4
+Code search
+0
+0
+Issues search
+51
+51
+Total number
+34
+sum repos
+5
+sum code
+0
+sum issues
+59
+sum total
+43
+from: 2023-05-01
+to: 2023-05-31
+Repo search
+14
+14
+Code search
+0
+0
+Issues search
+170
+170
+Total number
+80
+sum repos
+19
+sum code
+0
+sum issues
+229
+sum total
+123
+from: 2023-06-01
+to: 2023-06-30
+Repo search
+2
+2
+Code search
+0
+0
+Issues search
+106
+106
+Total number
+48
+sum repos
+21
+sum code
+0
+sum issues
+335
+sum total
+171
+from: 2023-07-01
+to: 2023-07-31
+Repo search
+2
+2
+Code search
+0
+0
+Issues search
+76
+76
+Total number
+39
+sum repos
+23
+sum code
+0
+sum issues
+411
+sum total
+210
+from: 2023-08-01
+to: 2023-08-31
+Repo search
+1
+1
+Code search
+0
+0
+Issues search
+60
+60
+Total number
+24
+sum repos
+24
+sum code
+0
+sum issues
+471
+sum total
+234
+from: 2023-09-01
+to: 2023-09-30
+Repo search
+1
+1
+Code search
+0
+0
+Issues search
+33
+33
+Total number
+20
+sum repos
+25
+sum code
+0
+sum issues
+504
+sum total
+254
+from: 2023-10-01
+to: 2023-10-31
+Repo search
+1
+1
+Code search
+0
+0
+Issues search
+42
+42
+Total number
+20
+sum repos
+26
+sum code
+0
+sum issues
+546
+sum total
+274
+from: 2023-11-01
+to: 2023-11-30
+Repo search
+1
+1
+Code search
+0
+0
+Issues search
+61
+61
+Total number
+27
+sum repos
+27
+sum code
+0
+sum issues
+607
+sum total
+301
+from: 2023-12-01
+to: 2023-12-31
+Repo search
+3
+3
+Code search
+0
+0
+Issues search
+47
+47
+Total number
+25
+sum repos
+30
+sum code
+0
+sum issues
+654
+sum total
+326
