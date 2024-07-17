@@ -52,7 +52,7 @@ Issues search
 589
 589
 Total number
-392
+391
 sum repos
 255
 sum code
@@ -60,7 +60,7 @@ sum code
 sum issues
 1639
 sum total
-1084
+1083
 from: 2018-10-01
 to: 2018-12-31
 Repo search
@@ -70,16 +70,16 @@ Code search
 0
 0
 Issues search
-586
-584
+585
+585
 Total number
-407
+408
 sum repos
 338
 sum code
 0
 sum issues
-2225
+2224
 sum total
 1491
 from: 2019-01-01
@@ -91,18 +91,18 @@ Code search
 0
 0
 Issues search
-557
-553
+555
+555
 Total number
-395
+396
 sum repos
 436
 sum code
 0
 sum issues
-2782
+2779
 sum total
-1886
+1887
 from: 2019-04-01
 to: 2019-06-30
 Repo search
@@ -121,9 +121,9 @@ sum repos
 sum code
 0
 sum issues
-3469
+3466
 sum total
-2336
+2337
 from: 2019-07-01
 to: 2019-09-30
 Repo search
@@ -133,18 +133,18 @@ Code search
 0
 0
 Issues search
-475
-469
+472
+472
 Total number
-452
+453
 sum repos
 628
 sum code
 0
 sum issues
-3944
+3938
 sum total
-2788
+2790
 from: 2019-10-01
 to: 2019-12-31
 Repo search
@@ -163,9 +163,9 @@ sum repos
 sum code
 0
 sum issues
-4436
+4430
 sum total
-3254
+3256
 from: 2020-01-01
 to: 2020-03-31
 Repo search
@@ -184,9 +184,9 @@ sum repos
 sum code
 0
 sum issues
-5079
+5073
 sum total
-3841
+3843
 from: 2020-04-01
 to: 2020-06-30
 Repo search
@@ -199,15 +199,15 @@ Issues search
 914
 914
 Total number
-689
+690
 sum repos
 1002
 sum code
 0
 sum issues
-5993
+5987
 sum total
-4530
+4533
 from: 2020-07-01
 to: 2020-09-30
 Repo search
@@ -226,9 +226,9 @@ sum repos
 sum code
 0
 sum issues
-6789
+6783
 sum total
-5181
+5184
 from: 2020-10-01
 to: 2020-12-31
 Repo search
@@ -241,15 +241,15 @@ Issues search
 856
 856
 Total number
-727
+726
 sum repos
 1180
 sum code
 0
 sum issues
-7645
+7639
 sum total
-5908
+5910
 from: 2021-01-01
 to: 2021-03-31
 Repo search
@@ -268,9 +268,9 @@ sum repos
 sum code
 0
 sum issues
-8419
+8413
 sum total
-6587
+6589
 from: 2021-04-01
 to: 2021-06-30
 Repo search
@@ -289,9 +289,9 @@ sum repos
 sum code
 0
 sum issues
-9294
+9288
 sum total
-7320
+7322
 from: 2021-07-01
 to: 2021-09-30
 Repo search
@@ -301,8 +301,8 @@ Code search
 0
 0
 Issues search
-726
-724
+725
+725
 Total number
 659
 sum repos
@@ -310,9 +310,9 @@ sum repos
 sum code
 0
 sum issues
-10020
+10013
 sum total
-7979
+7981
 from: 2021-10-01
 to: 2021-12-31
 Repo search
@@ -323,17 +323,17 @@ Code search
 0
 Issues search
 913
-913
+911
 Total number
-780
+779
 sum repos
 1748
 sum code
 0
 sum issues
-10933
+10926
 sum total
-8759
+8760
 from: 2022-01-01
 to: 2022-03-31
 Repo search
@@ -343,18 +343,18 @@ Code search
 0
 0
 Issues search
-855
-851
+853
+853
 Total number
-753
+754
 sum repos
 1930
 sum code
 0
 sum issues
-11788
+11779
 sum total
-9512
+9514
 from: 2022-04-01
 to: 2022-06-30
 Repo search
@@ -373,9 +373,9 @@ sum repos
 sum code
 0
 sum issues
-12869
+12860
 sum total
-10287
+10289
 from: 2022-07-01
 to: 2022-09-30
 Repo search
@@ -388,15 +388,15 @@ Issues search
 1044
 1020
 Total number
-795
+796
 sum repos
 2279
 sum code
 0
 sum issues
-13913
+13904
 sum total
-11082
+11085
 from: 2022-10-01
 to: 2022-12-31
 Repo search
@@ -409,12 +409,12 @@ Issues search
 1449
 1020
 Total number
-690
+691
 sum repos
 2441
 sum code
 0
 sum issues
-15362
+15353
 sum total
-11772
+11776
