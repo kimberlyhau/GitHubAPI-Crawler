@@ -1,0 +1,252 @@
+from: 2024-01-01
+to: 2024-01-15
+Repo search
+4
+4
+Code search
+0
+0
+Issues search
+108
+108
+Total number
+62
+sum repos
+4
+sum code
+0
+sum issues
+108
+sum total
+62
+from: 2024-01-16
+to: 2024-01-31
+Repo search
+3
+3
+Code search
+0
+0
+Issues search
+100
+100
+Total number
+61
+sum repos
+7
+sum code
+0
+sum issues
+208
+sum total
+123
+from: 2024-02-01
+to: 2024-02-15
+Repo search
+3
+3
+Code search
+0
+0
+Issues search
+131
+131
+Total number
+78
+sum repos
+10
+sum code
+0
+sum issues
+339
+sum total
+201
+from: 2024-02-16
+to: 2024-02-29
+Repo search
+5
+5
+Code search
+0
+0
+Issues search
+100
+100
+Total number
+67
+sum repos
+15
+sum code
+0
+sum issues
+439
+sum total
+268
+from: 2024-03-01
+to: 2024-03-15
+Repo search
+5
+5
+Code search
+0
+0
+Issues search
+150
+150
+Total number
+85
+sum repos
+20
+sum code
+0
+sum issues
+589
+sum total
+353
+from: 2024-03-16
+to: 2024-03-31
+Repo search
+9
+9
+Code search
+0
+0
+Issues search
+101
+101
+Total number
+72
+sum repos
+29
+sum code
+0
+sum issues
+690
+sum total
+425
+from: 2024-04-01
+to: 2024-04-15
+Repo search
+4
+4
+Code search
+0
+0
+Issues search
+107
+107
+Total number
+74
+sum repos
+33
+sum code
+0
+sum issues
+797
+sum total
+499
+from: 2024-04-16
+to: 2024-04-30
+Repo search
+6
+6
+Code search
+0
+0
+Issues search
+121
+121
+Total number
+83
+sum repos
+39
+sum code
+0
+sum issues
+918
+sum total
+582
+from: 2024-05-01
+to: 2024-05-15
+Repo search
+14
+14
+Code search
+0
+0
+Issues search
+235
+235
+Total number
+148
+sum repos
+53
+sum code
+0
+sum issues
+1153
+sum total
+730
+from: 2024-05-16
+to: 2024-05-31
+Repo search
+23
+23
+Code search
+0
+0
+Issues search
+198
+198
+Total number
+141
+sum repos
+76
+sum code
+0
+sum issues
+1351
+sum total
+871
+from: 2024-06-01
+to: 2024-06-15
+Repo search
+8
+8
+Code search
+0
+0
+Issues search
+127
+127
+Total number
+92
+sum repos
+84
+sum code
+0
+sum issues
+1478
+sum total
+963
+from: 2024-06-16
+to: 2024-06-30
+Repo search
+15
+15
+Code search
+0
+0
+Issues search
+252
+252
+Total number
+161
+sum repos
+99
+sum code
+0
+sum issues
+1730
+sum total
+1124

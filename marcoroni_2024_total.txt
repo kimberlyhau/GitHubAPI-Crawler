@@ -1,0 +1,6 @@
+https://api.github.com/repos/ggerganov/whisper.cpp
+https://api.github.com/repos/ggerganov/whisper.cpp
+https://api.github.com/repos/lm-sys/FastChat
+https://api.github.com/repos/SillyTavern/SillyTavern
+https://api.github.com/repos/CoreSenseEU/CoreSense4Home
+https://api.github.com/repos/mgonzs13/llama_ros

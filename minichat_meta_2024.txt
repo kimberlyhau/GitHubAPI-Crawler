@@ -1,0 +1,252 @@
+from: 2024-01-01
+to: 2024-01-15
+Repo search
+11
+11
+Code search
+0
+0
+Issues search
+3
+3
+Total number
+13
+sum repos
+11
+sum code
+0
+sum issues
+3
+sum total
+13
+from: 2024-01-16
+to: 2024-01-31
+Repo search
+8
+8
+Code search
+0
+0
+Issues search
+4
+4
+Total number
+12
+sum repos
+19
+sum code
+0
+sum issues
+7
+sum total
+25
+from: 2024-02-01
+to: 2024-02-15
+Repo search
+7
+7
+Code search
+0
+0
+Issues search
+5
+5
+Total number
+9
+sum repos
+26
+sum code
+0
+sum issues
+12
+sum total
+34
+from: 2024-02-16
+to: 2024-02-29
+Repo search
+5
+5
+Code search
+0
+0
+Issues search
+10
+10
+Total number
+10
+sum repos
+31
+sum code
+0
+sum issues
+22
+sum total
+44
+from: 2024-03-01
+to: 2024-03-15
+Repo search
+5
+5
+Code search
+0
+0
+Issues search
+3
+3
+Total number
+6
+sum repos
+36
+sum code
+0
+sum issues
+25
+sum total
+50
+from: 2024-03-16
+to: 2024-03-31
+Repo search
+2
+2
+Code search
+0
+0
+Issues search
+1
+1
+Total number
+3
+sum repos
+38
+sum code
+0
+sum issues
+26
+sum total
+53
+from: 2024-04-01
+to: 2024-04-15
+Repo search
+6
+6
+Code search
+0
+0
+Issues search
+7
+7
+Total number
+8
+sum repos
+44
+sum code
+0
+sum issues
+33
+sum total
+61
+from: 2024-04-16
+to: 2024-04-30
+Repo search
+7
+7
+Code search
+0
+0
+Issues search
+1
+1
+Total number
+8
+sum repos
+51
+sum code
+0
+sum issues
+34
+sum total
+69
+from: 2024-05-01
+to: 2024-05-15
+Repo search
+2
+2
+Code search
+0
+0
+Issues search
+5
+5
+Total number
+4
+sum repos
+53
+sum code
+0
+sum issues
+39
+sum total
+73
+from: 2024-05-16
+to: 2024-05-31
+Repo search
+9
+9
+Code search
+0
+0
+Issues search
+1
+1
+Total number
+10
+sum repos
+62
+sum code
+0
+sum issues
+40
+sum total
+83
+from: 2024-06-01
+to: 2024-06-15
+Repo search
+4
+4
+Code search
+0
+0
+Issues search
+2
+2
+Total number
+6
+sum repos
+66
+sum code
+0
+sum issues
+42
+sum total
+89
+from: 2024-06-16
+to: 2024-06-30
+Repo search
+10
+10
+Code search
+0
+0
+Issues search
+8
+8
+Total number
+13
+sum repos
+76
+sum code
+0
+sum issues
+50
+sum total
+102

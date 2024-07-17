@@ -1,0 +1,420 @@
+from: 2018-01-01
+to: 2018-03-31
+Repo search
+18
+18
+Code search
+0
+0
+Issues search
+95
+95
+Total number
+66
+sum repos
+18
+sum code
+0
+sum issues
+95
+sum total
+66
+from: 2018-04-01
+to: 2018-06-30
+Repo search
+28
+28
+Code search
+0
+0
+Issues search
+155
+155
+Total number
+71
+sum repos
+46
+sum code
+0
+sum issues
+250
+sum total
+137
+from: 2018-07-01
+to: 2018-09-30
+Repo search
+25
+25
+Code search
+0
+0
+Issues search
+271
+271
+Total number
+81
+sum repos
+71
+sum code
+0
+sum issues
+521
+sum total
+218
+from: 2018-10-01
+to: 2018-12-31
+Repo search
+21
+21
+Code search
+0
+0
+Issues search
+211
+211
+Total number
+82
+sum repos
+92
+sum code
+0
+sum issues
+732
+sum total
+300
+from: 2019-01-01
+to: 2019-03-31
+Repo search
+11
+11
+Code search
+0
+0
+Issues search
+251
+251
+Total number
+61
+sum repos
+103
+sum code
+0
+sum issues
+983
+sum total
+361
+from: 2019-04-01
+to: 2019-06-30
+Repo search
+14
+14
+Code search
+0
+0
+Issues search
+341
+341
+Total number
+58
+sum repos
+117
+sum code
+0
+sum issues
+1324
+sum total
+419
+from: 2019-07-01
+to: 2019-09-30
+Repo search
+21
+21
+Code search
+0
+0
+Issues search
+266
+266
+Total number
+79
+sum repos
+138
+sum code
+0
+sum issues
+1590
+sum total
+498
+from: 2019-10-01
+to: 2019-12-31
+Repo search
+25
+25
+Code search
+0
+0
+Issues search
+221
+221
+Total number
+85
+sum repos
+163
+sum code
+0
+sum issues
+1811
+sum total
+583
+from: 2020-01-01
+to: 2020-03-31
+Repo search
+27
+27
+Code search
+0
+0
+Issues search
+112
+112
+Total number
+80
+sum repos
+190
+sum code
+0
+sum issues
+1923
+sum total
+663
+from: 2020-04-01
+to: 2020-06-30
+Repo search
+22
+22
+Code search
+0
+0
+Issues search
+152
+152
+Total number
+81
+sum repos
+212
+sum code
+0
+sum issues
+2075
+sum total
+744
+from: 2020-07-01
+to: 2020-09-30
+Repo search
+33
+33
+Code search
+0
+0
+Issues search
+218
+218
+Total number
+101
+sum repos
+245
+sum code
+0
+sum issues
+2293
+sum total
+845
+from: 2020-10-01
+to: 2020-12-31
+Repo search
+19
+19
+Code search
+0
+0
+Issues search
+164
+164
+Total number
+89
+sum repos
+264
+sum code
+0
+sum issues
+2457
+sum total
+934
+from: 2021-01-01
+to: 2021-03-31
+Repo search
+21
+21
+Code search
+0
+0
+Issues search
+162
+162
+Total number
+79
+sum repos
+285
+sum code
+0
+sum issues
+2619
+sum total
+1013
+from: 2021-04-01
+to: 2021-06-30
+Repo search
+34
+34
+Code search
+0
+0
+Issues search
+212
+212
+Total number
+110
+sum repos
+319
+sum code
+0
+sum issues
+2831
+sum total
+1123
+from: 2021-07-01
+to: 2021-09-30
+Repo search
+31
+31
+Code search
+0
+0
+Issues search
+141
+141
+Total number
+92
+sum repos
+350
+sum code
+0
+sum issues
+2972
+sum total
+1215
+from: 2021-10-01
+to: 2021-12-31
+Repo search
+31
+31
+Code search
+0
+0
+Issues search
+143
+143
+Total number
+81
+sum repos
+381
+sum code
+0
+sum issues
+3115
+sum total
+1296
+from: 2022-01-01
+to: 2022-03-31
+Repo search
+24
+24
+Code search
+0
+0
+Issues search
+146
+146
+Total number
+96
+sum repos
+405
+sum code
+0
+sum issues
+3261
+sum total
+1392
+from: 2022-04-01
+to: 2022-06-30
+Repo search
+30
+30
+Code search
+0
+0
+Issues search
+211
+211
+Total number
+117
+sum repos
+435
+sum code
+0
+sum issues
+3472
+sum total
+1509
+from: 2022-07-01
+to: 2022-09-30
+Repo search
+22
+22
+Code search
+0
+0
+Issues search
+180
+180
+Total number
+88
+sum repos
+457
+sum code
+0
+sum issues
+3652
+sum total
+1597
+from: 2022-10-01
+to: 2022-12-31
+Repo search
+34
+34
+Code search
+0
+0
+Issues search
+155
+155
+Total number
+101
+sum repos
+491
+sum code
+0
+sum issues
+3807
+sum total
+1698
